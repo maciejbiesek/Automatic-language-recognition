@@ -1,0 +1,26 @@
+La norme internationale ISO/CEI 11801 publie par le ISO/CEI JTC1 SC25 WG3 (groupe de travail 3 (WG3) du sous-comit 25 (SC25) du comit technique mixte ISO/CEI JTC1) spcifie les recommandations en matire de systmes de cblage de tlcommunication (cblage structur). Cette norme possde un champ d'application trs large (tlphonie analogique et RNIS, diffrents standards de communication de donnes, systmes de contrle et de gestion technique du btiment, automatisation de production). Il couvre  la fois le cblage cuivre et en fibre optique. Ce standard a t conu pour l'usage dans les locaux commerciaux consistant en un seul et mme btiment, ou en plusieurs btiments regroups en campus.
+Il est optimis pour des locaux s'tendant jusqu' 3 km, avec jusqu' 1 km2 d'espaces de bureaux, accueillant entre 50 et 50 000 personnes, mais peut galement tre appliqu  des installations en dehors de ces limites.
+Un standard correspondant pour l'environnement SOHO (de l'anglais Small Office and Home Office) est la norme ISO/CEI 15018, qui couvre galement les liens 1,2 GHz pour les applications tlvision cble et satellite.
+Un standard correspondant pour l'environnement industriel est la norme ISO/CEI
+Une spcification plus prcise concernant les centres de traitement de donnes est dfinie dans la norme ISO/CEI 24764.
+
+== Gnralits ==
+Il est important de noter que la norme ISO/CEI 11801 elle-mme ne dfinit pas les caractristiques techniques des composants, qui sont dfinis par ailleurs dans diffrentes normes. Elle dfinit simplement les performances globales d'une liaison (partie "lien channel") par l'utilisation de composants d'une certaine catgorie. Aucune rfrence aux normes EIA/TIA 568B n'est faite dans cette norme, bien que certains membres du comit JTC1/SC25/WG3 sigent galement aux groupes de travail de l'EIA/TIA.
+
+== Classes de liens ==
+Le standard actuel dfinit diffrentes classes d'interconnexion par paires torsades, qui diffrent selon la frquence maximum de transmission requise :
+Classe A: jusqu' 100 kHz
+Classe B: jusqu' 1 MHz
+Classe C: jusqu' 16 MHz
+Classe D: jusqu' 100 MHz
+Classe E: jusqu' 250 MHz
+Classe EA : jusqu' 500 MHz
+Classe F: jusqu' 600 MHz
+Classe FA : jusqu' 1 GHz
+L'impdance standard du lien est 100 . (L'ancienne version du standard datant de 1995 permettait galement 120  et 150  pour les classes A  C, mais ces impdances furent supprimes depuis l'dition 2002.)
+
+== Rfrences ==
+Standard International ISO/IEC 11801: Information technology  Generic cabling for customer premises.
+Standard Europen EN 50173: Information technology  Generic cabling systems. 1995.
+
+Portail des tlcommunications

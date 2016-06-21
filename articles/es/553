@@ -1,0 +1,52 @@
+CODEN es un cdigo alfanumrico de seis caracteres, aplicado con fines bibliogrficos de acuerdo con la norma ASTM E250, que proporciona una identificacin concisa, nica e inequvoca de los ttulos de publicaciones cientficas peridicas y publicaciones no peridicas de todas las materias.
+El cdigo CODEN es usado habitualmente por la comunidad cientfica como un sistema simplificado de citas para artculos citados en publicaciones tcnicas, como las relacionadas con la qumica y como una herramienta de bsqueda en varios catlogos en lnea y bases de datos bibliogrficos.
+
+== Historia ==
+El sistema CODEN fue diseado por Charles Bishop (Instituto de Investigacin de Enfermedades Crnicas de la Universidad de Buffalo, Universidad del Estado de Nueva York, ya jubilado), y pensado inicialmente como una ayuda mnemotcnica para designar las publicaciones en su coleccin de referencia. Bishop tom las letras iniciales de las palabras de los ttulos de las publicaciones para obtener con ellas un cdigo, que le ayud a organizar las publicaciones. En 1953 public su sistema de documentacin, originalmente diseado como un sistema CODEN de cuatro dgitos, a los que aada el nmero de volumen y la pgina, a fin de citar y localizar exactamente un artculo en una revista. Ms tarde, public una variante en 1957.
+Cuando Bishop haba asignado unos 4.000 CODEN, el sistema CODEN de cuatro dgitos sigui desarrollndose desde 1961 por el Dr. Kuentzel en la Sociedad Americana para Pruebas de Materiales (ASTM) quien tambin introdujo el quinto dgito para los cdigos CODEN. En el comienzo de la era de las computadoras, el sistema CODEN fue pensado como un sistema de identificacin de lectura mecnica de las publicaciones peridicas. En varias actualizaciones desde 1963, los cdigos CODEN fueron registrados y publicados en el CODEN for Periodical Titles by ASTM, contando con alrededor de 128.000 cdigos diferentes, a finales de 1974.
+A pesar de que en 1966 fue reconocido que un cdigo CODEN de cinco dgitos no sera suficiente para codificar todos los futuros ttulos de publicaciones, se define an como un cdigo de cinco dgitos figurando en la norma ASTM E250 hasta 1972. En el ao 1976 la norma de la ASTM E250-76 defini un nuevo cdigo CODEN de seis dgitos.
+Al comienzo del ao 1975, el sistema CODEN estaba bajo de la responsabilidad de la Sociedad Americana de Qumica.
+Hoy en da, los primeros cuatro dgitos del CODEN de seis cifras se han tomado de las letras iniciales de las palabras de un ttulo de la serie, seguido de un quinto dgito, comprendido entre las seis primeras letras (A-F) del alfabeto, indicando ste ltimo de qu red fue tomado el cdigo CODEN. El sexto y ltimo dgito del identificador CODEN es un dgito de control de los caracteres anteriores, calculado automticamente, que puede ser un carcter numrico (2-9) o alfabtico (A-Z). El sistema CODEN siempre utiliza letras maysculas.
+En contraste con el cdigo CODEN de una publicacin peridica, los dos primeros dgitos de un CODEN asignado a una publicacin no peridica (por ejemplo, actas de congresos) estn ocupados con nmeros arbigos.
+En 1975, el Servicio Internacional CODEN situado en el Chemical Abstracts Service (CAS) se convirti en responsable de un mayor desarrollo de la CODEN. El CODEN se asigna automticamente a todas las publicaciones referenciadas por el CAS. A peticin de los editores del Servicio Internacional CODEN tambin se asigna identificador CODEN a publicaciones no relacionadas con la qumica. Por esta razn loscdigos CODEN tambin se pueden encontrar en otras bases de datos (RTECS por ejemplo, o BIOSIS), y se asignan tambin a publicaciones peridicas o revistas, que no estn contempladas en el CAS.
+
+== Fuentes actuales ==
+Los cdigos CODEN asignados hasta 1966 se pueden consultar en la obra CODEN for periodical titles, de L.E. Kuentzel. Los cdigos CODEN asignados hasta 1974 fueron publicadas por J.G. Blumenthal. Los cdigos CODEN asignados hasta 1998 y hasta su desintegracin se puede encontrar en International CODEN Directory (ISSN 0364-3670), que se ha publicado desde 1980 en formato de microfichas.
+Actualmente la bsqueda de los cdigos CODEN se puede hacer de modo ms eficiente usando la base de datos en lnea CASSI (Chemical Abstracts Service Source Index), con la serie impresa (ISSN 0738-6222, CODEN CASSE2) o con el ndice colectivo (0001-0634, CODEN CASSI6), si uno ya conoce el ttulo de la publicacin, o bien mediante una bsqueda en el catlogo en CD-ROM (ISSN 1081-1990, CODEN CACDFE), la nica fuente que se publicar en adelante. CASSI no solamente registra el cdigo CODEN, para todos los ttulos registrados, sino tambin la correcta abreviatura del ttulo de cada publicacin, su ISSN y su ISBN. Adems, CASSI permite identificar a los editores de las publicaciones y localizar una biblioteca que disponga de las publicaciones buscadas.
+
+== Ejemplos ==
+La revista Nature tiene asignado el cdigo CODEN "NATUAS".
+A Technology Review se le asigna el CODEN "TEREAU".
+Las Actas de la Conferencia Internacional sobre factores de alimentacin, qumica y prevencin del cncer (ISBN 4-431-70196-6) utilizan el CODEN "66HYAL".
+Para Avances recientes en la investigacin de productos naturales, 3.er Simposio Internacional sobre Avances Recientes en la Investigacin de Productos Naturales se usa el CODEN "69ACLK".
+Las solicitudes de patentes de EE.UU. utilizan el CODEN "USXXDP".
+Las solicitudes de patente de Alemania usan el CODEN "GWXXBX".
+
+== Vase tambin ==
+ISSN
+ISBN
+Nmero de control de la Biblioteca del Congreso
+
+== Referencias ==
+
+Bishop, Charles: "An integrated approach to the documentation problem". In: American Documentation (ISSN 0096-946X, CODEN AMDOA7), Vol. 4, p. 5465 (1953).
+Bishop, Charles: "Use of the CODEN system by the individual research scientist". In: American Documentation (ISSN 0096-946X, CODEN AMDOA7), Vol. 8, p. 221226 (1957).
+Kuentzel, L. E.: "Current status of the CODEN Project". In: Special Libraries (ISSN 0038-6723), Vol. 57, p. 404406 (1966).
+Kuentzel, L. E.: "CODEN for periodical titles, Vol. 1; Periodical titles by CODEN, non-periodical titles, deleted CODEN". In: ASTM data series publication, American Society for Testing and Materials (ISSN 0066-0531); Vol. 23 A (1966).
+Kuentzel, L. E.: "CODEN for periodical titles, Vol. 2; Periodical titles by title". In: ASTM data series publication, American Society for Testing and Materials (ISSN 0066-0531); Vol. 23 A (1966).
+Hammer, Donald P.: "A review of the ASTM CODEN for Periodical Titles". Library Resources & Technical Services (ISSN 0024-2527), Vol. 12, p. 359365 (1968).
+Saxl, Lea: "Some thoughts about CODEN". In: Special Libraries (ISSN 0038-6723), Vol. 59, p. 279280 (1968).
+Pflueger, Magaret: "A vote for CODEN". In: Special Libraries (ISSN 0038-6723), Vol. 60, p. 173 (1969).
+Blumenthal, Jennifer G. (ed.): "CODEN for periodical titles, Part 1; Periodical titles arranged CODEN". In: ASTM data series publication, American Society for Testing and Materials (ISSN 0066-0531); Vol. 23 B (1970).
+Blumenthal, Jennifer G. (ed.): "CODEN for periodical titles, Part 2; Periodical titles arranged alphabetically by title". In: ASTM data series publication, American Society for Testing and Materials (ISSN 0066-0531); Vol. 23 B (1970).
+Blumenthal, Jennifer G. (ed.): "CODEN for periodical titles; Suppl. 1". In: ASTM data series publication, American Society for Testing and Materials (ISSN 0066-0531); Vol. 23 B (1972).
+Blumenthal, Jennifer G. (ed.): "CODEN for periodical titles; Suppl. 2". In: ASTM data series publication, American Society for Testing and Materials (ISSN 0066-0531); Vol. 23 B (1974).
+ASTM Standard E 250-72: Standard recommended practice for use of CODEN for Periodical Title Abbreviations. Philadelphia. ASTM, 1972.
+ASTM Standard E 250-76: Standard recommended practice for use of CODEN for Periodical Title Abbreviations. Philadelphia. ASTM, 1976.
+Anon: "Chemical Abstract Service assumes ASTM CODEN assignment". In: Journal of Library Automation (ISSN 0022-2240), Vol. 8, p. 12 (1975).
+Groot, Elizabeth H.: "Unique identifiers for serials: an annotated, comprehensive bibliography". In: The Serials Librarian (ISSN 0361-526X, CODEN SELID4), Vol. 1 (no. 1), p. 5175 (1976).
+Groot, Elizabeth H.: "Unique identifiers for serials: 1977 update". In: The Serials Librarian (ISSN 0361-526X, CODEN SELID4), Vol. 2 (no. 3), p. 247255 (1978).
+
+== Enlaces externos ==
+CASSI bsqueda en lnea: Buscar CODEN con Chemical Abstracts Service Source Index
+Sitio web de CASSI

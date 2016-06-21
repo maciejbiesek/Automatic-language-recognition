@@ -1,0 +1,222 @@
+Une version est cre quotidiennement (nightly build)  partir de la branche de dveloppement. Les versions de tests sont simplement ces versions auxquelles on a donn un numro.
+Le projet Mozilla Thunderbird dbuta comme une branche exprimentale du projet Mozilla de la Fondation Mozilla. Thunderbird 1.0 sortit finalement le 6 dcembre 2004. Thunderbird est apparu  la suite de la volont de plusieurs personnes de rsoudre les problmes de lourdeur dans la suite Mozilla.
+
+== Frise chronologique ==
+
+== Pr-versions ( aperus technologiques ) ==
+Mozilla Thunderbird 0.1  28 juillet 2003
+Mozilla Thunderbird 0.2  3 septembre 2003
+Mozilla Thunderbird 0.3  15 octobre 2003
+Mozilla Thunderbird 0.4  5 dcembre 2003
+Mozilla Thunderbird 0.5  9 fvrier 2004
+Mozilla Thunderbird 0.6  3 mai 2004
+Mozilla Thunderbird 0.7  16 juin 2004Mozilla Thunderbird 0.7.1  28 juin 2004
+Mozilla Thunderbird 0.7.2  8 juillet 2004
+Mozilla Thunderbird 0.7.3  4 aot 2004
+
+Mozilla Thunderbird 0.8  14 septembre 2004
+Mozilla Thunderbird 0.9  3 novembre 2004
+Mozilla Thunderbird 1.0 Release Candidate 1  2 dcembre 2004
+
+== Versions finales ==
+Mozilla Thunderbird 1.0  6 dcembre 2004
+Mozilla Thunderbird 1.0.2  15 mars 2005
+Mozilla Thunderbird 1.0.5  13 juillet 2005
+Mozilla Thunderbird 1.0.6  19 juillet 2005
+Mozilla Thunderbird 1.0.7  29 septembre 2005
+Mozilla Thunderbird 1.0.8  20 avril 2006Il n'y a pas de version 1.0.1, 1.0.3, et 1.0.4 pour garder une correspondance avec les numros de version de Firefox.
+Les versions 1.0.x ne sont que des mises  jour de scurit sans nouvelles fonctionnalits. La version suivante est dveloppe en parallle
+
+Mozilla Thunderbird 1.5  11 janvier 2006
+Mozilla Thunderbird 1.5.0.2  20 avril 2006
+Mozilla Thunderbird 1.5.0.4  31 mai 2006
+Mozilla Thunderbird 1.5.0.5  27 juillet 2006
+Mozilla Thunderbird 1.5.0.7  14 septembre 2006
+Mozilla Thunderbird 1.5.0.8  8 novembre 2006
+Mozilla Thunderbird 1.5.0.9  19 dcembre 2006
+Mozilla Thunderbird 1.5.0.10  1er mars 2007
+Mozilla Thunderbird 1.5.0.12  30 mai 2007
+Mozilla Thunderbird 1.5.0.13  27 aot 2007
+Mozilla Thunderbird 1.5.0.14  19 dcembre 2007
+
+=== Thunderbird 2.0 ===
+Mozilla Thunderbird 2.0  18 avril 2007
+Mozilla Thunderbird 2.0.0.4  14 juin 2007
+Mozilla Thunderbird 2.0.0.5  19 juillet 2007
+Mozilla Thunderbird 2.0.0.6  2 aot 2007
+Mozilla Thunderbird 2.0.0.9  14 novembre 2007
+Mozilla Thunderbird 2.0.0.12  26 fvrier 2008
+Mozilla Thunderbird 2.0.0.14  1er mai 2008
+Mozilla Thunderbird 2.0.0.16  23 juillet 2008
+Mozilla Thunderbird 2.0.0.17  25 septembre 2008
+Mozilla Thunderbird 2.0.0.18  19 novembre 2008
+Mozilla Thunderbird 2.0.0.19  30 dcembre 2008
+Mozilla Thunderbird 2.0.0.21  18 mars 2009
+Mozilla Thunderbird 2.0.0.22  22 juin 2009
+Mozilla Thunderbird 2.0.0.23  12 aot 2009
+Mozilla Thunderbird 2.0.0.24  16 mars 2010  dtails
+
+=== Thunderbird 3.0 ===
+Mozilla Thunderbird 3.0  8 dcembre 2009
+Mozilla Thunderbird 3.0.1  20 janvier 2010
+Mozilla Thunderbird 3.0.2  25 fvrier 2010
+Mozilla Thunderbird 3.0.3  1er mars 2010
+Mozilla Thunderbird 3.0.4  30 mars 2010
+Mozilla Thunderbird 3.0.5  17 juin 2010
+Mozilla Thunderbird 3.0.6  20 juillet 2010
+Mozilla Thunderbird 3.0.7  7 septembre 2010
+Mozilla Thunderbird 3.0.8  16 septembre 2010
+Mozilla Thunderbird 3.0.9  19 octobre 2010
+Mozilla Thunderbird 3.0.10  27 octobre 2010
+Mozilla Thunderbird 3.0.11  9 dcembre 2010
+
+=== Thunderbird 3.1 ===
+Mozilla Thunderbird 3.1  24 juin 2010
+Mozilla Thunderbird 3.1.1  20 juillet 2010
+Mozilla Thunderbird 3.1.2  5 aot 2010
+Mozilla Thunderbird 3.1.3  7 septembre 2010
+Mozilla Thunderbird 3.1.4  16 septembre 2010
+Mozilla Thunderbird 3.1.5  19 octobre 2010
+Mozilla Thunderbird 3.1.6  27 octobre 2010
+Mozilla Thunderbird 3.1.7  9 dcembre 2010
+Mozilla Thunderbird 3.1.8  1er mars 2011
+Mozilla Thunderbird 3.1.9  4 mars 2011
+Mozilla Thunderbird 3.1.10  28 avril 2011
+Mozilla Thunderbird 3.1.11  21 juin 2011
+Mozilla Thunderbird 3.1.12  16 aot 2011
+Mozilla Thunderbird 3.1.13  31 aot 2011
+Mozilla Thunderbird 3.1.14  6 septembre 2011
+Mozilla Thunderbird 3.1.15  27 septembre 2011
+Mozilla Thunderbird 3.1.16  8 novembre 2011
+Mozilla Thunderbird 3.1.17  20 dcembre 2011
+Mozilla Thunderbird 3.1.18  31 janvier 2012
+Mozilla Thunderbird 3.1.19  16 fvrier 2012
+Mozilla Thunderbird 3.1.20  12 mars 2012
+
+=== Thunderbird 5.0 ===
+Mozilla Thunderbird 5.0  28 juin 2011
+
+=== Thunderbird 6.0 ===
+Mozilla Thunderbird 6.0  16 aot 2011
+Mozilla Thunderbird 6.0.1  30 aot 2011
+Mozilla Thunderbird 6.0.2  6 septembre 2011
+
+=== Thunderbird 7.0 ===
+Mozilla Thunderbird 7.0  27 septembre 2011
+Mozilla Thunderbird 7.0.1  30 septembre 2011
+
+=== Thunderbird 8.0 ===
+Mozilla Thunderbird 8.0  8 novembre 2011
+
+=== Thunderbird 9.0 ===
+Mozilla Thunderbird 9.0  20 dcembre 2011
+Mozilla Thunderbird 9.0.1  23 dcembre 2011
+
+=== Thunderbird 10.0 ===
+Mozilla Thunderbird 10.0  31 janvier 2012
+Mozilla Thunderbird 10.0.1  12 fvrier 2012
+Mozilla Thunderbird 10.0.2  16 fvrier 2012
+Mozilla Thunderbird 10.0.3  13 mars 2012
+Mozilla Thunderbird 10.0.4  24 avril 2012
+Mozilla Thunderbird 10.0.5  6 juin 2012
+Mozilla Thunderbird 10.0.6  17 juillet 2012
+Mozilla Thunderbird 10.0.7  28 aot 2012
+
+=== Thunderbird 11.0 ===
+Mozilla Thunderbird 11.0  13 mars 2012
+Mozilla Thunderbird 11.0.1  28 mars 2012
+
+=== Thunderbird 12.0 ===
+Mozilla Thunderbird 12.0  24 avril 2012
+Mozilla Thunderbird 12.0.1  30 avril 2012
+
+=== Thunderbird 13.0 ===
+Mozilla Thunderbird 13.0  5 juin 2012
+Mozilla Thunderbird 13.0.1  15 juin 2012
+
+=== Thunderbird 14.0 ===
+Mozilla Thunderbird 14.0  17 juillet 2012
+
+=== Thunderbird 15.0 ===
+Mozilla Thunderbird 15.0  28 aot 2012
+Mozilla Thunderbird 15.0.1  10 septembre 2012
+
+=== Thunderbird 16.0 ===
+Mozilla Thunderbird 16.0  9 octobre 2012
+Mozilla Thunderbird 16.0.1  11 octobre 2012
+Mozilla Thunderbird 16.0.2  29 octobre 2012
+
+=== Thunderbird 17.0 ===
+Mozilla Thunderbird 17.0  20 novembre 2012
+Mozilla Thunderbird 17.0.2  8 janvier 2013
+Mozilla Thunderbird 17.0.3  19 fvrier 2013
+Mozilla Thunderbird 17.0.4  11 mars 2013
+Mozilla Thunderbird 17.0.5  2 avril 2013
+Mozilla Thunderbird 17.0.6  14 mai 2013
+Mozilla Thunderbird 17.0.7  25 juin 2013
+Mozilla Thunderbird 17.0.8  6 aot 2013
+
+=== Thunderbird 24.0 ===
+Mozilla Thunderbird 24.0  17 septembre 2013
+Mozilla Thunderbird 24.0.1  11 octobre 2013
+Mozilla Thunderbird 24.1.0  29 octobre 2013
+Mozilla Thunderbird 24.1.1  19 novembre 2013
+Mozilla Thunderbird 24.2.0  10 dcembre 2013
+Mozilla Thunderbird 24.3.0  4 fvrier 2014
+Mozilla Thunderbird 24.4.0  18 mars 2014
+Mozilla Thunderbird 24.5.0  29 avril 2014
+Mozilla Thunderbird 24.6.0  10 juin 2014
+
+=== Thunderbird 31.0 ===
+Mozilla Thunderbird 31.0  22 juillet 2014
+
+=== Thunderbird 38.0 ===
+Mozilla Thunderbird 38.0  14 aot 2015
+
+== Versions de dveloppement ==
+Mozilla Thunderbird 1.1 Alpha 1  1er juin 2005
+Mozilla Thunderbird 1.1 Alpha 2  15 juillet 2005La Fondation Mozilla dcide de passer directement  la version 1.5 pour signifier les changements entre les versions 1.0.x et 1.5.x.
+
+Mozilla Thunderbird 1.4 - Mozilla Thunderbird 1.5 Beta 1  9 septembre 2005
+Mozilla Thunderbird 1.4.1 - Mozilla Thunderbird 1.5 Beta 2  7 octobre 2005
+Mozilla Thunderbird 1.5 RC 1  4 novembre 2005
+Mozilla Thunderbird 1.5 RC 2  21 dcembre 2005
+Mozilla Thunderbird 2.0 Alpha 1  28 juillet 2006
+Mozilla Thunderbird 2.0 Beta 1  14 dcembre 2006
+Mozilla Thunderbird 2.0 Beta 2  23 janvier 2007
+Mozilla Thunderbird 2.0.0.0 RC 1  7 avril 2007
+Mozilla Thunderbird 3.0 Alpha 1 (Shredder)  13 mai 2008
+Mozilla Thunderbird 3.0 Alpha 2 (Shredder)  12 aot 2008 
+Mozilla Thunderbird 3.0 Alpha 3 (Shredder)  14 octobre 2008
+Mozilla Thunderbird 3.0 Beta 1  9 dcembre 2008
+Mozilla Thunderbird 3.0 Beta 2  26 fvrier 2009
+Mozilla Thunderbird 3.0 Beta 3  21 juillet 2009
+Mozilla Thunderbird 3.0 Beta 4  22 septembre 2009
+Mozilla Thunderbird 3.0 RC 1  24 novembre 2009
+Mozilla Thunderbird 3.0 RC 2  1er dcembre 2009
+Mozilla Thunderbird 3.1 Alpha 1 (Lanikai)  3 fvrier 2010 
+Mozilla Thunderbird 3.1 Beta 1 (Lanikai)  10 mars 2010 
+Mozilla Thunderbird 3.1 Beta 2  5 mai 2010
+Mozilla Thunderbird 3.1 RC 1  29 mai 2010
+Mozilla Thunderbird 3.1 RC 2  9 juin 2010
+Mozilla Thunderbird 3.3 Alpha 1 (Miramar)  23 novembre 2010 
+Mozilla Thunderbird 3.3 Alpha 2 (Miramar)  20 janvier 2011 
+Mozilla Thunderbird 3.3 Alpha 3 (Miramar)  15 mars 2011 
+Mozilla Thunderbird 5.0 Beta 1 (Miramar)  2 juin 2011
+
+== Liens externes ==
+(en) notes de versions de Thunderbird 31
+(en) notes de versions de Thunderbird 0.1  3.1.10
+
+== Rfrences ==
+ http://www.mozillamessaging.com/en-US/thunderbird/3.0a1/releasenotes/
+ http://www.mozillamessaging.com/en-US/thunderbird/3.0a2/releasenotes/
+ http://www.mozillamessaging.com/en-US/thunderbird/3.0a3/
+ http://www.mozillamessaging.com/en-US/thunderbird/3.1a1/releasenotes/
+ http://www.mozillamessaging.com/en-US/thunderbird/3.1b1/releasenotes/
+ http://www.mozillamessaging.com/en-US/thunderbird/3.3a1/releasenotes/
+ http://www.mozillamessaging.com/en-US/thunderbird/3.3a2/releasenotes/
+ http://www.mozillamessaging.com/en-US/thunderbird/3.3a3/releasenotes/
+ http://www.mozillamessaging.com/en-US/thunderbird/5.0b1/releasenotes/
+ Portail de linformatique
+ Portail des logiciels libres

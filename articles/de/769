@@ -1,0 +1,43 @@
+Die Leckrate (auch: Leckagerate) ist ein Ma fr die aus einem Krper austretenden Volumen- oder Masse-Einheiten.
+In der Vakuumtechnik ist die Leckrate folgendermaen definiert:
+Die Leckrate ist der Quotient aus dem pV-Wert eines Gases, das whrend einer Zeitspanne durch einen Leitungsquerschnitt strmt, und der Zeitspanne. Dabei ist der pV-Wert das Produkt aus Druck und Volumen einer bestimmten Menge eines Gases bei der jeweils herrschenden Temperatur. Fr ein ideales Gas ist bei gegebener Temperatur der pV-Wert ein Ma fr die Stoffmenge oder die Masse des Gases. Die Leckrate ist abhngig von Gasart, Druckdifferenz und Temperatur.
+Sehr kleine Lecks werden hufig mit Hilfe von Heliumlecksuchern detektiert. Dabei herrschen meist folgende Bedingungen: Gasart Helium, Druckdifferenz 1013 hPa, Temperatur 20 C. Diese Bedingungen werden auch Helium-Standard-Bedingungen genannt.
+
+== Formelzeichen und Maeinheit ==
+Als Formelzeichen der Leckrate wird meist Q oder QL verwendet. Folgende Maeinheiten werden typischerweise fr die Leckrate verwendet:
+
+Eine Leckrate von 1 Pam3/s ist gegeben, wenn in einem abgeschlossenen evakuierten Behlter mit dem Volumen von einem Kubikmeter der Druck in einer Sekunde um ein Pascal ansteigt.
+
+== Zusammenhang Leckrate zu Lochgre ==
+Folgende grobe Abschtzung gibt eine Vorstellung ber den Zusammenhang zwischen geometrischer Lochgre und zugehriger Leckrate:
+Gegeben sei ein groer Behlter mit einem kreisrunden Loch mit 1 mm Durchmesser. Auerhalb des Behlters herrscht Atmosphrendruck, innerhalb Vakuum. Dann wrden alle Gasmolekle, die sich in einem Zylinder mit 1 mm Durchmesser und 330 m Hhe ber dem Loch befinden, mit Schallgeschwindigkeit (330 m/s) in einer Sekunde in das Loch fallen. Dies entspricht folgender Leckrate ( = pV-Wert pro Sekunde):
+
+Aus dieser Abschtzung und der Gre von Viren und Bakterien knnen auch den landlufigen Begriffen bakteriendicht und virendicht entsprechende Grenzleckraten zugeordnet werden:
+Bakteriendicht: Bakteriendurchmesser ca. 0,5 m  Q < 105 Pam3/s
+Virendicht: Durchmesser von kleinen Viren ca. 10 nm  Q < 109 Pam3/s
+Moderne Heliumlecksucher knnen Leckraten bis zu 51013 Pam3/s detektieren. Nach der obigen Abschtzung wrde dies einem Lochdurchmesser in der Grenordnung eines Atomradius entsprechen.
+
+== Bewertung der Dichtigkeit von Hochvakuumanlagen ==
+Bei Inbetriebnahme einer Vakuum-Apparatur, die mindestens aus einer Vakuum-Kammer, dem sogenannten Rezipienten, einem Vakuumpumpstand und einem Druckmessgert besteht, stellt sich die Frage, ob der Rezipient vakuumtechnisch als dicht angesehen werden kann. Die Vorgehensweise ist dann die folgende:
+(i) Der Rezipient wird auf den erreichbaren Enddruck evakuiert.
+(ii) Das Ventil zwischen Rezipienten und Vakuumpumpstand wird geschlossen.
+(iii) Der Druckanstieg im Rezipienten wird in kleinen Zeitschritten (typisch 10s) ber einen lngeren Zeitraum erfasst.
+(iv) Die Druckmesswerte werden ber der Zeit grafisch aufgetragen.
+(v) Aus der so erhalten Kurve wird als Steigung der Druckanstieg pro Zeit (z. B. in Pa/s oder mbar/s) ermittelt.
+(vi) Die Leckrate erhlt man durch Multiplikation des Druckanstiegs pro Zeit mit dem ermittelten Volumen des Rezipienten.
+Bei der Bewertung des so erhaltenen Messwertes fr die Leckrate muss bercksichtigt werden, welche Art von Dichtungen beim Zusammenfgen der Vakuumapparatur verwendet wurde. Heute werden im physikalisch technischen Bereich hauptschlich Edelstahlrezipienten verwendet, die entweder mit Rundschnurringen aus Gummi oder Viton gedichtet werden (Hochvakuumanlagen) oder mit Kupferdichtungen gedichtet sind (Ultahochvakuumanlagen). Ultrahochvakuumanlagen sind nahezu vollstndig dicht, die Leckratenmessungen beziehen sich deshalb in der Regel auf die Bewertung von Hochvakuumanlagen. Es gelten dazu folgende qualitative Werte::
+Anlage sehr dicht: Q < 106 mbar l/s
+Anlage hinreichend dicht: Q < 105 mbar l/s
+Anlage undicht: Q > 104 mbar l/s
+Erst diese Informationen ermglichen es, nach Aufbau einer Vakuum-Apparatur zu beurteilen, ob die Dichtigkeit der Apparatur dem technisch mglichen entspricht. Wenn dabei das Volumen der Apparatur nicht genau ermittelt werden kann, sollte es immer etwas zu gro angenommen werden, um eine Abschtzung fr den schlechtesten Fall zu erhalten.
+
+== Siehe auch ==
+Robert Boyle
+Thermische Zustandsgleichung idealer Gase
+
+== Weblinks ==
+Leckraten bei Armaturen, in der englischsprachigen Wikipedia
+
+== Einzelnachweise ==
+ Datenblatt des UL1000Fab Helium-Lecksuchers von INFICON (PDF, englisch; 888 kB)
+ Oerlikon Leybold Vakuum: Grundlagen der Vakuumtechnik, Erscheinungsjahr 2007, S.144 Unter [1] als PDF-Datei nach Registrierung kostenlos in Deutsch oder Englisch erhltlich. Ein sehr gutes, informatives Handbuch der Vakummtechnik, das von der Firma Leybold (jetzt Oerlikon-Leybold) seit Jahrzehnten gepflegt wird.

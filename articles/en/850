@@ -1,0 +1,35 @@
+In descriptive statistics, the seven-number summary is a collection of seven summary statistics, and is an extension of the five-number summary. There are two similar, common forms.
+As with the five-number summary, it can be represented by a modified box plot, adding hatch-marks on the "whiskers" for two of the additional numbers.
+
+== (Parametric) Seven-number summary ==
+The following numbers are parametric statistics for a normally distributed variable:
+the 2nd percentile
+the 9th percentile
+the 25th percentile or lower quartile or first quartile
+the 50th percentile or median (middle value, or second quartile)
+the 75th percentile or upper quartile or third quartile
+the 91st percentile
+the 98th percentile
+The middle three values  the lower quartile, median, and upper quartile  are the usual statistics from the five-number summary and are the standard values for the box in a box plot.
+The two unusual percentiles at either end are used because the locations of all seven values will be equally spaced if the data is normally distributed. Some statistical tests require normally distributed data, so the plotted values provide a convenient visual check for validity of later tests, simply by scanning to see if the marks for those seven percentiles appear to be equal distances apart on the graph.
+Notice that whereas the five-number summary makes no assumptions about the distribution of the data, the (parametric) seven-number summary is based on the normal distribution, and is not especially appropriate when normal data is not expected. However, the non-parametric seven number summary, discussed below, makes no assumptions.
+The values can be represented using a modified box plot. The 2nd and 98th percentiles are represented by the ends of the whiskers, and hatch-marks across the whiskers mark the 9th and 91st percentiles.
+
+== Bowleys seven-figure summary ==
+Arthur Bowley used a set of non-parametric statistics, called a "seven-figure summary", including the extremes, deciles and quartiles, along with the median.
+Thus the numbers are:
+the sample minimum
+the 10th percentile (first decile)
+the 25th percentile or lower quartile or first quartile
+the 50th percentile or median (middle value, or second quartile)
+the 75th percentile or upper quartile or third quartile
+the 90th percentile (last decile)
+the sample maximum
+(Note that the seven numbers are very nearly the same as the parametric seven number summary, above.)
+The addition of the deciles allow one to compute the interdecile range, which is a reasonably efficient estimate of standard deviation, and the 10% midsummary, which gives an idea of the skewness in the tails.
+
+== See also ==
+Three-point estimation
+Stanine
+
+== References ==

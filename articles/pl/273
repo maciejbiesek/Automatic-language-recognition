@@ -1,0 +1,38 @@
+OSPF (ang. Open Shortest Path First), w wolnym tumaczeniu: "pierwszestwo ma najkrtsza cieka" ("open" oznacza otwarto, podobnie jak w Open Source)  protok trasowania typu stanu cza (ang. Link State). Zdefiniowany zosta jako OSPF wersji 2 w RFC 2328 (1998) dla IPv4., a aktualizacja dla IPv6 jako OSPF wersji 3 w RFC 5340 (2008). Jest zalecanym protokoem wrd protokow niezalenych (np. RIP).
+W przeciwiestwie do protokou RIP, OSPF charakteryzuje si dobr skalowalnoci, wyborem optymalnych cieek, przyspieszon zbienoci i brakiem ograniczenia skokw powyej 15. Przeznaczony jest dla sieci posiadajcych do 500 routerw w wyznaczonym obszarze trasowania.
+Cechami protokou OSPF s: trasowanie wielociekowe, trasowanie najmniejszym kosztem i rwnowane obcienia.
+OSPF jest protokoem wewntrzdomenowym  IGP).
+Routery korzystajce z tego protokou porozumiewaj si ze sob za pomoc piciu komunikatw:
+Hello  nawizywanie i utrzymywanie relacji ssiedzkich
+database descriptions  opis przechowywanych baz danych
+requests link-state  danie informacji na temat stanw pocze
+updates link-state  aktualizacja stanw pocze
+acknowledgments links-state  potwierdzenia stanw pocze
+Protok OSPF uywa hierarchicznej struktury sieci z podziaem na obszary z centralnie umieszczonym obszarem zerowym (ang. area 0), ktry poredniczy w wymianie tras midzy wszystkimi obszarami w domenie OSPF.
+OSPF jest protokoem typu link-state jedynie wewntrz obszaru. Oznacza to, e w ramach pojedynczego obszaru wszystkie routery znaj ca jego topologi i wymieniaj si midzy sob informacjami o stanie czy a kady z nich przelicza trasy samodzielnie (algorytm Dijkstry). Midzy obszarami OSPF dziaa jak protok typu distance-vector, co oznacza, e routery brzegowe obszarw wymieniaj si midzy sob gotowymi trasami. Istnienie obszaru zerowego umoliwia trasowanie pakietw pomidzy obszarami bez powstawania ptli.
+OSPF, aby zmniejszy ilo pakietw rozsyanych w sieci, wybiera router desygnowany DR (ang. designated router) oraz zapasowy BDR (ang. backup designated router), ktre su do wymiany informacji o stanie czy z pozostaymi routerami OSPF. Komunikat hello suy tutaj do wyboru DR i BDR oraz do wykrywania nieaktywnych ssiednich routerw OSPF.
+
+== Nagwek protokou ==
+Istniej 3 wersje protokou oznaczone odpowiednio OSPFv1 (version 1), OSPFv2 (version 2) oraz OSPFv3 (dla IPv6).
+Wersja (8 bitw) - Numer wersji OSPF.
+Typ (8 bitw) - Informacja, czy dana ramka jest zapytaniem czy odpowiedzi.
+Dugo Ramki (16 bitw) - Rozmiar ramki OSPF wczenie z nagwkiem w bitach.
+Identyfikator Routera (32 bitw) - identyfikator routera z ktrego nadano pakiet.
+Identyfikator Obszaru (32 bitw) - identyfikator obszaru (podsieci), w ktrym porusza si pakiet. Pakiet OSPF zwizany jest zazwyczaj z jednym obszarem i robi tylko jeden przeskok. Pakiety przechodzce przez wirtualne cza s oznaczone tak zwanym "backbone Area", ktry wynosi 0.0.0.0
+Suma Kontrolna (16 bitw) - rednia suma kontrolna IP caej zawartoci pakietu, zaczynajc od nagwka pakietu OSPF, ale z wyczeniem pola uwierzytelniania o dugoci 64 bitw.
+Typ Autoryzacji (16 bitw) - Okrela procedure uwierzytelniania, ktra ma by uywany dla tego pakietu.
+Kod Uwierzytelniania (64 bitw) - Opisane w RFC 2328.
+Dane (kolejne bity) - Dane o zmiennej dugoci.
+
+== Zobacz te ==
+trasowanie
+protokoy trasowania
+IS-IS
+Shortest Path Bridging (IEEE 802.1aq)
+Quagga - implementacja OSPFa
+Vyatta - darmowy router OSPF/BGP
+
+== Linki zewntrzne ==
+Laboratoria z OSPF-a
+
+== Przypisy ==

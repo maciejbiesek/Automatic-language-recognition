@@ -1,0 +1,95 @@
+Encore appele  tachycardie jonctionnelle  ou  tachycardie supraventriculaire paroxystique , la maladie de Bouveret correspond  des crises de tachycardie (acclration du rythme cardiaque), se manifestant par des palpitations  dbuts et  fins brusques et dont le mcanisme est bien individualis.
+C'est un syndrome clinique dcrit avant la dcouverte de l'lectrocardiogramme. L'lectrocardiographie puis l'avnement des explorations lectrophysiologiques ne dcriront que bien plus tard le mcanisme et les diffrents substrats anatomophysiologiques responsables des crises.
+Cette maladie est dcrite sur l'ECG comme une tachycardie supra-ventriculaire par rythme rciproque (formation d'une boucle auto entretenue) le plus souvent soit au niveau du nud auriculo-ventriculaire, soit  cause de la prsence d'un faisceau accessoire mettant en contact les atria avec les ventricules (faisceau de Kent) dans le cadre d'un syndrome de Wolff-Parkinson-White.
+Une fibrillation atriale ou un flutter atrial peuvent entraner des crises de tachycardie qui sont diffrentes de celles d'un Bouveret mais dont la distinction n'est pas toujours vidente sur l'lectrocardiogramme en l'absence de ralentissement.
+
+== Physiopathologie ==
+Deux mcanismes sont individualiss :
+par rentre intranodale ;
+par prsence d'une voie accessoire (syndrome de Wolff-Parkinson-White).
+
+=== Contraction cardiaque normale ===
+La contraction cardiaque normale provient d'une dpolarisation (inversion de la polarit lectrique de la membrane cellulaire) cyclique d'un groupe de cellules situes sur la partie haute de l'oreillette droite, le nud sinusal. Cette dpolarisation se propage  l'ensemble du cur dans un seul sens, impos par la prsence de voies de conduction, et entrane, au niveau des cellules musculaires, une contraction de ces dernires. Elle est suivie par une  priode rfractaire , bref moment o les cellules ne sont plus stimulables.
+
+=== Maladie de Bouveret par r-entre intra-nodale ===
+Il arrive que dans le nud atrio-ventriculaire, la prsence de deux voies de conduction parallles (A et B) coexiste. Ces deux voies de conduction intranodale ont des priodes rfractaires (PR) et des vitesses de conduction diffrentes. En rgle gnrale, la conduction des oreillettes vers les ventricules se fait par ces deux voies sans problme et sans modification de l'lectrocardiogramme.
+Si une extrasystole atriale survient alors qu'une des deux voies est permable (A par exemple) et l'autre en priode rfractaire (B), l'influx atrial est conduit vers les ventricules  travers la voie A. Cependant, le temps qu'il descende  travers A, il se peut que la voie B soit sortie de sa priode rfractaire. L'influx est alors propag simultanment vers les ventricules (comme une dpolarisation normale) mais remonte  travers B. Arriv au ple suprieur du nud AV, l'influx redescend  travers A, etc. Le circuit est boucl et constitue un circuit de r-entre dit dans ce cas "intra-nodal".
+On peut donc observer sur l'ECG :
+des QRS fins (car conduits par les voies normales  partir du nud auriculo-ventriculaire)
+rapides (car le circuit de r-entre met peu de temps  se boucler)
+des ondes P rtrogrades car conduites dans les atria  partir du nud auriculo ventriculaire. ces ondes P sont peu visibles car elles sont le plus souvent simultanes aux QRS ou surviennent peu aprs ce dernier, ce qui les rendent difficilement individualisable.
+
+=== Maladie de Bouveret sur syndrome de Wolf-Parkinson-White prexistant ===
+
+Le mcanisme de ces crises est plus simple. Elles ncessitent un substrat anatomique particulier constitu par un faisceau accessoire (appel faisceau de Kent) ralisant un pont lectrique entre atria et ventricules (normalement parfaitement isols par l'anneau fibreux du cur). Ce pont dpolarise lors des cycles normaux la partie du ventricule sous-jacente avec une lgre avance par rapport au reste de la masse ventriculaire, donnant l'aspect d'onde delta  l'ECG de repos). Notons que cette voie accessoire a gnralement une priode rfractaire plus longue que le nud AV.
+Lorsqu'une extrasystole atriale survient aprs un temps suprieur  la priode rfractaire du nud auriculo-ventriculaire mais infrieur  la priode rfractaire du faisceau accessoire, cette extra systole est conduite dans le nud sans l'tre par le faisceau. Les ventricules sont donc dpolariss comme si le faisceau n'avait pas fonctionn : le QRS n'est pas empt car l'onde delta a disparu. Mais lorsque la dpolarisation ventriculaire arrive au niveau du faisceau de Kent, elle s'y propage  contresens vers l'atria sus-jacent.
+Le circuit de r-entre est ici constitu aprs l'extrasystole atriale par :
+le nud AV
+les ventricules
+le faisceau accessoire
+l'atrium sus-jacent au faisceau
+avec propagation vers le nud AV pour boucler le circuit.
+L'aspect ECG est quasi-identique  celui de la maladie de Bouveret par r-entre intra-nodale, la seule diffrence marquante est que les ondes P rtrogrades sont plus visibles car sensiblement plus tardives que pour une r-entre intra-nodale
+
+=== Particularits ===
+La frquence cardiaque de la tachycardie est limite par les proprits lectrophysiologiques du nud auriculo-ventriculaire et de celle de la voie accessoire. En pratique, sans mdicaments, cette frquence est proche de 150 battements par minute.
+L'arrt de la tachycardie est d  une rupture fonctionnelle de la boucle, l'une de ses parties passant en priode rfractaire pour diverses raisons. L'arrt est donc toujours brutal. Cette rupture peut tre produite artificiellement par des manuvres inhibant le nud auriculo-ventriculaire ( manuvres vagales ), par des mdicaments agissant de mme, ou par une stimulation lectrique de l'oreillette, permettant une mise en priode rfractaire artificielle.
+Il n'a t dcrit ici que des maladies de Bouveret inities par une extrasystole atriale. Les mmes mcanismes sont applicables dans le cas d'une extrasystole ventriculaire.
+
+== Clinique ==
+Elle se manifeste typiquement par des accs de palpitations rgulires rapides, sans facteur dclenchant, avec un dbut et une fin brusque, associs  une sensation de  dclic  intra-thoracique.
+Aprs la crise, elle s'accompagne souvent d'une augmentation transitoire de la production d'urine (polyurie post-critique).
+La tachycardie peut s'accompagner, dans certains cas, de douleur thoracique, de malaise ou d'angoisses.
+La frquence de ces crises est extrmement variable, allant d'un pisode isol  de multiples crises pouvant tre invalidantes.
+
+== Examens complmentaires ==
+
+=== lectrocardiogramme ===
+
+==== Pendant les crises ====
+
+L'lectrocardiogramme retrouve une tachycardie rgulire  frquence cardiaque rapide (en gnral aux alentours de 150 pulsations par minute). Les complexes ventriculaires (QRS) sont fins (dure  0,12 s) en cas de bloc de branche associ (qu'il soit organique ou fonctionnel).
+Il y a autant d'ondes P (activation lectrique des oreillettes) que de complexes QRS. Ces ondes P souvent difficilement visualisables lorsqu'elles sont contemporaines du QRS. Il s'agit dans ce cas, le plus souvent, d'une r-entre intranodale. Si les ondes P sont visibles entre deux QRS, il s'agit alors probablement d'un syndrome de Wolff-Parkinson-White. Dans tous les cas, ces ondes P sont dformes car l'activation des oreillettes se fait de manire ascendante  l'inverse de la situation normale : elles sont dites  rtrogrades .
+Le diagnostic est confirm par le mode d'arrt brutal de la tachycardie lors d'une manuvre vagale, ou, en milieu mdicalis, lors de l'injection d'adnosine triphosphate (ATP).
+Sur un ECG de crise, il est parfois difficile de faire la diffrence entre Bouveret par r-entre intranodale et Bouveret sur syndrome de Wolff-Parkinson-White.
+
+==== En dehors des crises ====
+L'ECG est le plus souvent normal (la crise tait due  une r-entre intra-nodale) ou peut montrer un aspect dit de pr-excitation ventriculaire (syndrome de Wolff-Parkinson-White : espace PR court, onde Delta causant un largissement des complexes QRS et modification du segment ST. L'ECG peut tre galement normal en cas de Wolff-Parkinson-White.
+Le holter (enregistrement de l'ECG sur 24 heures) permet parfois de visualiser le dbut et l'arrt d'une crise.
+
+=== Exploration lectrophysiologique ===
+L'exploration lectrophysiologique consiste  enregistrer directement l'activit lectrique du cur en y positionnant diffrentes sondes dans ses cavits. Elle n'est ncessaire que dans les formes dont le diagnostic reste douteux. Elle permet de dclencher la tachycardie  l'aide d'une extrasystole atriale. Dans le cas d'une rentre intranodale, elle permet de prouver la double voie de conduction et de dtruire l'une d'elle (la voie lente prfrentiellement) par radio-frquence. Dans le cas d'une voie accessoire, elle permet de la localiser d'en prciser les proprits et de dtruire cette dernire, galement par radio frquence.
+
+== Causes ==
+Elle survient en gnral chez des sujets jeunes en apparence indemnes de toute maladie cardiaque, mais peut galement tre favorise par une hyperthyrodie, une valvulopathie, un syndrome de Wolff-Parkinson-White.
+
+== Traitement ==
+La prise en charge consiste tout d'abord  traiter la crise : on parle de rduction. La prvention des rcidives (c'est--dire la survenue de nouveaux pisodes identiques) vient dans un second temps.
+
+=== Rduction de la tachycardie ===
+En cas de crise bien tolre, on peut parfois attendre la fin spontane de la crise.
+La rduction de la crise peut tre faite par :
+la ralisation de manuvres vagales destines  inhiber le nud auriculo-ventriculaire :
+manuvre de Valsalva,
+dglutition rapide d'un verre d'eau froide,
+efforts de vomissements,
+immersion de la face dans l'eau,
+compression fortes des globes oculaires ( viter si on ne connat pas la manuvre),
+massage sino-carotidien unilatral (contre-indications : antcdents d'accident vasculaire crbral, de stnose carotidienne (existence d'un souffle carotidien)).
+Les pieds au mur (position de poirier) qui permet au sang contenu dans les jambes d'agir par saturation rapide de sang dans le curncessaire.
+
+Il est galement possible de raliser une rduction par mdicament :
+en premire intention : Adnosine triphosphate en intra-veineuse rapide. Ce dernier, dprimant fortement et transitoirement la conduction auriculo-ventriculaire, permet de faire le diagnostic de ce type de tachycardie s'il parvient  rgulariser le cur.
+en deuxime intention : inhibiteur calcique bradycardisant de type vrapamil,
+D'autres antiarythmiques sont utilisables : flcanide, amiodarone, digitaliques,
+exceptionnellement, rduction par choc lectrique externe.
+
+=== Prvention des rcidives ===
+Les crises ne sont pas, en rgle gnrale, dangereuses, mme si elles peuvent gnrer gne et anxit. En cas d'accs de tachycardie bien tolrs, rares et facilement rduits par le patient lui-mme, aucun traitement n'est ncessaire.
+En cas d'accs frquents avec crises prolonges, invalidantes, difficilement rduites par le patient lui-mme : antiarythmiques, bta-bloquants, inhibiteurs calciques bradycardisants. L'utilisation de l'amiodarone reste exceptionnelle.
+En cas de formes invalidantes en dpit du traitement antiarythmique, ou d'une intolrance  ce dernier, une ablation par radiofrquence (au cours d'une exploration lectrophysiologique), doit tre discute.
+Le syndrome de Wolff-Parkinson-White pose des problmes spcifiques ncessitant parfois un traitement plus agressif.
+
+== Notes et rfrences ==
+
+Portail de la mdecine

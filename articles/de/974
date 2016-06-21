@@ -1,0 +1,34 @@
+Powermonger mg ist ein Computerspiel des britischen Softwareherstellers Bullfrog Productions aus dem Jahr 1990. Das Echtzeit-Strategiespiel basiert auf der Spiel-Engine von Populous und verwendet eine dreidimensional dargestellte Spielekarte. Die Gttersimulation wurde mageblich von Peter Molyneux entwickelt und programmiert.
+
+== Hintergrundgeschichte ==
+Nachdem ein gewaltiges Erdbeben ihr Knigreich zerstrt hat, stechen die letzten 20 berlebenden mit ihrem Anfhrer in See, um eine neue Heimat zu finden. Die Seefahrer entdecken nach mehreren Wochen ein unbekanntes, fruchtbares Land, das bereits von drei Vlkern bewohnt ist. Die neu entdeckte Welt ist in 195 Regionen unterteilt, die nun alle einzeln zu erobern sind.
+
+== Spiel-Engine ==
+Die Grafische Benutzeroberflche ist in drei Bereiche unterteilt: Einer bersichtskarte am linken Bildschirmrand, dem Interface mit 20 Befehlsschaltflchen und einer mittig angeordneten Detailkarte mit stark vergrertem Kartenausschnitt. Die Spielewelt wird auf einer axometrischen Karte dargestellt, bei der die Kameradrehung auf 90 Grad Schritte und acht vordefinierte Abbildungsmastbe begrenzt ist. Die Topographie wird dreidimensional durch 128 zusammenhngende Polygone erzeugt, alle anderen Objekte wie Personen, Bewuchs und Gebude werden als Sprites dargestellt.
+Das Spiel hatte eine fr seine Zeit fortschrittliche Spiele-Engine zur Simulation von knstlicher Intelligenz. Jeder Nicht-Spieler-Charakter (NPC) entscheidet selbstndig, ohne Einflussmglichkeit durch den Spieler, ber seinen Beruf als Fischer, Farmer, Schfer, Frster oder Werkzeugmacher. ber eine Abfragemaske kann von jedem NPC der Name, Geschlecht, Alter, Loyalitt, Gesundheit, Heimatstadt und Ausrstung abgefragt werden. Obwohl das Terrain nicht wie bei Populous vernderbar ist, haben Aktionen einen begrenzten Effekt auf die Umgebung. Wird zum Beispiel eine grere Flche gerodet, ndert sich das Wetter und jahreszeitbedingt fllt mehr Regen oder Schnee und verlangsamt die Bewegungen der NPC.
+ber ein Nullmodem-Kabel oder ein Modem kann Powermonger auch im Mehrspielermodus gegeneinander gespielt werden.
+
+== Spielmechanik ==
+
+=== Eroberung ===
+Der Spieler startet auf jeder Karte mit einer kleinen Anzahl von Soldaten, zum Teil sind bereits einige Siedlungen oder Stdte unter seiner Kontrolle. Um eine Karte zu gewinnen muss das Mchtegleichgewicht, dargestellt durch eine Skala unterhalb der Miniaturkarte, vollstndig auf die Seite des Spielers kippen. Dies geschieht entweder durch die Kontrolle von zwei Drittel der Gesamtbevlkerung, durch Eroberung fast aller Stdte oder durch die Vernichtung aller gegnerischen Heerfhrer. Sobald eine Stadt unter Kontrolle ist, knnen deren Einwohner rekrutiert werden, um grere Stdte oder die gegnerischen Armeen der drei computergesteuerten Vlker anzugreifen. Einige grere Stdte habe neutrale Heerfhrer, welche nach verlorener und berlebter Schlacht bernommen und kommandiert werden knnen. Es knnen nur so viele Armeen kommandiert werden, wie Heerfhrer zur Verfgung stehen, so dass deren berleben mageblich fr den Spielerfolg ist. Wird einer von maximal fnf Heerfhrern gettet, so lst sich dessen Armee auf und die berlebenden Soldaten kehren in ihre Heimatstadt zurck. Im Gegensatz zur Hauptarmee, die direkt dem Spieler unterstellt ist, fhren untergeordnete Hauptmnner Befehle erst mit einer zeitlichen Verzgerung aus, abhngig von der Entfernung zur Hauptarmee. Zwischen den Heerfhrern knnen Soldaten und Nahrung ausgetauscht werden.
+
+=== Ressourcen ===
+Nahrung ist der wichtigste Rohstoff im Spiel. Neben dem Rckgriff auf befreundete Stdte kann der Spieler auch freilaufende Schafe schlachten, Nahrung mit neutralen Stdten tauschen oder einen feindlichen Heerfhrer tten und dessen Verpflegung plndern. Neben Arbeitskraft und Nahrung kann in Stdten auch Ausrstung hergestellt werden. Stadtbewohner produzieren gelegentlich selbstndig Ausrstungsgegenstnde, aber um die Herstellung zu beschleunigen, kann der Spieler auch eine Armee anweisen, Gegenstnde wie Boote, Kanonen und Katapulte in einer befreundeten Stadt zu erfinden. Abhngig von den umliegenden Ressourcen und der Kampfeinstellung (passiv, neutral oder aggressiv) beginnen die Soldaten dann mit dem Sammeln von Ressourcen und der Herstellung von Ausrstung. Da die wichtigeren Ausrstungen nur in ein bis zwei Stdten hergestellt werden knnen, sind diese von groer strategischer Bedeutung.
+Bezglich der Erstellung, Verwaltung und Verteilung von Ausrstungsgegenstnden ist kein Micromanagement erforderlich. Bekommt eine Armee den Befehl zum Ausrsten, ergreifen die Soldaten automatisch die umherliegenden Schwerter, Bogen und Lanzen. Der Heerfhrer trgt ohne Begrenzung alle brig gebliebenen Ausrstungen, wird aber mit steigender Anzahl an Gegenstnden langsamer.
+
+== Erweiterung ==
+Fr das Betriebssystem MS-DOS erschien 1991 die Erweiterung PowerMonger: World War I Edition, welche den Schauplatz vom Mittelalter auf den Ersten Weltkrieg verlegte und bei vergleichbarem Gameplay 175 neue Regionen und Waffen mit grerer Reichweite einfhrte.
+
+== Rezeption ==
+Powermonger gewann im Jahr 1991 den Titel Strategy Game of the Year des US-amerikanischen Computerspiel-Magazins Computer Gaming World.
+
+== Weblinks ==
+Powermonger bei MobyGames (englisch)
+
+== Einzelnachweise ==
+  PowerMonger: World War I Edition. In: Amiga Joker. Nr. 02, 1992.
+  Staff: Computer Gaming World's 1991 Games of the Year Awards. In: Golden Empire Publications, Inc (Hrsg.): Computer Gaming World. Nr. 11, 1991, ISSN 0744-6667, S. 3840, 58.
+ Hans-Joachim Amann: Powermonger. In: Aktueller Software Markt, Ausgabe 02/1991. 2. Februar 1991, abgerufen am 1. Dezember 2012. 
+ Heinrich Lenhardt: Populous fr Fortgeschrittene. In: Power Play, Ausgabe 12/1990. 1. Dezember 1990, abgerufen am 1. Dezember 2012. 
+ Timur zelsel: Powermonger. In: Mega Fun, Ausgabe 7/1993. 1. Juli 1993, abgerufen am 31. Dezember 2012.

@@ -1,0 +1,72 @@
+intergator ist eine Produkt-Suite fr Enterprise Search und eine Information Access Plattform. Bei intergator handelt es sich um eine systembergreifende, intelligente Suchmaschine, Wissensmanagement- und Analytics-Plattform. Entwickelt wird das Produkt von der interface projects GmbH, einem Tochterunternehmen der interface business Unternehmensgruppe mit Sitz in Dresden, Sachsen.
+
+== Entwicklung ==
+Die erste Version des intergator kam 2003 auf den Markt. Die Kernfunktionalitten bauen dabei auf dem von Kristian Hermsdorf im Rahmen seiner Diplomarbeit entwickelten Programm TextDog aus dem Jahr 2000 auf. Die Software wurde fr das schnellere Auffinden relevanter Informationen innerhalb eines Unternehmensnetzwerks entwickelt (Enterprise Search).
+Das System bietet mit Hilfe verschiedener Konnektoren eine umfassende systembergreifende Indexierung von ber 500 Dateiformaten. Basistechnologie von intergator ist Lucene, sowie die Programmiersprache Java.
+Integrierte Module, wie der Documentation Reader fr eine leistungsstarke Dokumentensuche und Konnektoren zu verschiedenen Softwarelsungen, sorgen fr eine hohe Skalierbarkeit der Software. intergator luft nach seiner Installation in einem Webbrowser. Ein selbststndig einrichtbares Dashboard sorgt fr ein hohes Ma an Individualisierung fr jeden einzelnen Arbeitsplatz.
+
+== Produktkomponenten ==
+
+=== Social Dashboard ===
+Das Dashboard von intergator bietet Nutzern die Mglichkeit, Ergebnisse vorkonfigurierbarer Suchabfragen in frei platzierbaren Widgets anzuzeigen. Die Nutzeroberflche unterscheidet sich somit stark von denen anderer Enterprise Search-Anwendungen.
+
+=== Kontextabhngige Suchvorschlge ===
+Die Kombination Suchvorschlge abgeleitet von statistischen Zusammenhngen zum einen und eine exakte Liste valider Eingaben zur Eingabeuntersttzung zum anderen fhrt dazu, dass nur kontextrelevante Suchvorschlge angezeigt werden. Eine fehlertolerante Suche untersttzt den Suchvorgang bei Falscheingaben.
+
+=== Documentation Reader ===
+Als eine Komponente des intergator, erleichtert der Documentation Reader das Auffinden von Textpassagen innerhalb von Dokumenten und liefert dem Anwender eine originalgetreue Vorschau auf die zu suchende Fundstelle. Der Documentation Reader ist ohne eine vorherige Plugin-Installation verwendbar und luft auf allen herkmmlichen Browsern ohne Erweiterungen wie Flash, Active-X oder Java. Die Anwendung untersttzt die Volltextsuche von ber 500 Dokumentformaten, wie z. B. PDF- und Office-Dokumenten.
+
+=== Analytics ===
+Mittels Analytics knnen indexierte Informationen dynamisch verarbeitet und ausgewertet werden, ohne komplexe Datenstrukturen aufbauen zu mssen. Analytics ermglicht die Analyse und Auswertung von Such-, Nutzungs- als auch Klickstatistiken auf Dokumente. Daneben knnen Informationsbestnde klassifiziert und ein Dubletten-Report erstellt werden.
+
+=== OCR Service ===
+Eine Voraussetzung fr eine Volltextsuche und die automatische Gewinnung von Metadaten ist das Vorhandensein von Text im zu indexierenden Dokument. Fr gescannte Dokumente ohne Text kann dafr auf den optionalen intergator OCR-Service zurckgegriffen werden.
+
+=== Navigator ===
+Fr die Darstellung von Datenbestnden mit tiefen, hierarchischen Strukturen bietet die Navigator-Suchperspektive eine einfache Lsung. Suchergebnisse werden in Form eines Hyperbolischen Baumes navigierbar und visualisierbar.
+
+=== Mobile Search ===
+Um auch mobil auf alle Unternehmensinformationen (Mitarbeiterverzeichnis, Geschftskontakte, Projektinformationen, Dokumentationen etc.) zugreifen zu knnen, steht dem Anwender ein spezielles Web-Interface zur Verfgung.
+
+=== intergator Konnektoren ===
+Die Verbindung zwischen intergator und der jeweiligen Datenquelle stellen die von interface:projects entwickelten Konnektoren dar. Alle Standard-Konnektoren werden fr Kunden kostenfrei angeboten.
+
+=== Management Center ===
+Die Administration und berwachung des Zustandes des intergator-Servers erfolgt mit einem webbasierten Management Center. Die Nutzerverwaltung setzt standardmig auf Microsoft Active Directory auf und kann durch im Management Center hinterlegte Nutzer ergnzt werden.
+
+=== Weitere Besonderheiten ===
+Die Kombination von Favoriten und Tags fhrt zu einer Individualisierung der Suchergebnisse innerhalb der Anwendung
+Facetten dienen zur Suchbegriffseinschrnkung und knnen jederzeit whrend des Betriebs neu definiert werden
+Eine dynamische Gruppierung von Suchergebnissen fhrt zu einer Priorisierung von Teilen der Suchergebnisse
+Ein Texterkennung-Service (OCR) sorgt fr das Erkennen von eingescannten Texten zur Erschlieung weiterer Inhalte und der Generierung von Metadaten
+
+=== Einsatzgebiete ===
+Zentrale Suche fr alle Datenquellen im Unternehmen
+Anwendungsspezifische Suche
+Search Based Intranet
+Wissensmanagement-Plattform
+Search-based Applications (z. B. Business Intelligence 2.0)
+Suche in Portalen und Online-Shops (eCommerce)
+Website-Search
+
+== Strategische Partnerschaften ==
+Seit 2008 integriert Die PPS Pre Press Systeme GmbH aus Oberursel/Taunes intergator als intelligente Suche in ihre Endprodukte digitalisierter Archive.
+Seit Juli 2011 kooperiert das Unternehmen mit der Leipziger Firma buchele cc um Wissen fr Unternehmen systematisch zu erfassen. Mit dem gemeinsamen Produkt analygator knnen sich Unternehmen strategisches Wissen ber Wettbewerber, Produkte und Meinungen tagesaktuell erschlieen.
+Die Partnerschaft mit dem sterreichischen Unternehmen ITdesign Software Projects & Consulting GmbH seit Mrz 2014 stellt den Beginn der Verbreitung der Suchmaschine intergator ber die Grenzen Deutschlands hinaus dar.
+Im Dezember 2014 hat die interface projects GmbH mit der Firma ACIS Information Technology aus Dubai (VAE) den ersten Partner am Persischen Golf in sein Partnerprogramm eingebunden. ACIS IT stellt damit den zentralen Vertriebspunkt fr die Wissensmanagement- und Analytics-Plattform intergator im Nahen Osten dar.
+Seit Mai 2015 ist die edoc solutions ag aus Weilerswist, ein Spezialist auf dem Gebiet Enterprise Content Management (ECM), ein weiterer Vertriebs- und Lsungspartner der interface projects GmbH.
+Die cadonau consulting gmbh aus Mnchenbuchsee (bei Bern) ist seit Juni 2015 ein neuer intergator-Vertriebspartner im Schweizer Raum.
+
+== Auszeichnungen ==
+intergator wurde 2007 durch die Initiative Mittelstand in der Kategorie Reporting als Kategoriesieger ausgezeichnet. Im Jahr 2008 erhielt die interface:projects GmbH fr das Produkt intergator eine Auszeichnung in der Kategorie Wissensmanagement. 2009 erreichte intergator in der Initiative Mittelstand die Runde der Nominierten in der Kategorie Landessieger Sachsen. 2014/2015 wurde die interface projects GmbH mit dem Gtesiegel "Innovativ durch Forschung" des Stifterverbandes ausgezeichnet. .
+
+== Einzelnachweise ==
+ Pressemitteilung zum Release
+ Pressemitteilung auf openpr.de
+ Initiative Mittelstand - Auszeichnungen 2007 Kategorie Reporting
+ Initiative Mittelstand - Auszeichnungen 2008 Kategorie Wissensmanagement
+ Pressearchiv interface:projects GmbH
+ Pressearchiv interface:projects
+
+== Weblinks ==
+Offizielle Website

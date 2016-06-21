@@ -1,0 +1,67 @@
+La teora de conjuntos de von Neumann-Bernays-Gdel (denotada NBG) es una teora de conjuntos axiomtica. Su nocin primitiva es la de clase, en lugar de conjunto como en la teora de Zermelo-Fraenkel (denotada ZF). A diferencia de otras teoras de conjuntos, NBG es finitamente axiomatizable.
+
+== Ontologa ==
+Siendo una teora de conjuntos, las nociones primitivas de NBG son clase X y pertenencia . Sin embargo, aun cuando las clases retienen su significado como colecciones de objetos, se reserva la palabra conjunto para un tipo especial de clases con una propiedad adicional:
+A las clases que no son conjuntos se las denomina clases propias. Entre las clases propias se encuentran la clase universal V, la clase de todos los ordinales On, etc. Sin embargo, los axiomas de NBG postulan algunas propiedades slo para conjuntos no para cualquier clase , de tal modo que en NBG se evitan las clsicas paradojas de la teora de conjuntos.
+
+== Axiomas ==
+
+==== Notacin ====
+En los axiomas de NBG se distingue entre clase y conjunto, y habitualmente se utilizan letras minsculas para especificar conjuntos:
+
+==== Axiomas generales ====
+El primer grupo de axiomas es bsicamente equivalente a sus correspondientes versiones en ZF.
+Extensionalidad. Dos clases son iguales si y slo si tienen los mismos elementos.
+
+Par. Dados dos conjuntos existe un tercero que los contiene slo a ambos:
+
+Unin. Dados dos conjuntos, existe un tercero que contiene a los elementos de ambos:
+
+Conjunto vaco. Existe un conjunto sin elementos:
+
+Reemplazo. Dada una clase F que sea una funcin, la imagen de de un conjunto cualquiera por F es tambin un conjunto:
+
+Esta formulacin del axioma de reemplazo est comprendida en una nica sentencia, a diferencia de la formulacin habitual en ZF que es un esquema axiomtico.
+
+==== Axiomas de formacin de clases ====
+NBG tiene la propiedad particular de ser finitamente axiomatizable, esto es, puede establecerse con un nmero finito de axiomas. ZF no comparte esta propiedad, pues su axioma de reemplazo es en realidad un esquema axiomtico, una afirmacin del tipo: Dada una frmula (x) la siguiente sentencia es un axioma de ZF.... En NBG tambin puede utilizarse un esquema de formacin de clases a partir de una frmula dada, pero es posible demostrar dicho esquema a partir de una coleccin finita de casos particulares:
+Interseccin. Dadas dos clases existe una tercera que contiene los elementos comunes a ambas:
+
+Complemento. Dada una clase existe otra que contiene todos conjuntos que no estn en la primera:
+
+Pertenencia. Existe la clase de la relacin binaria de pertenencia entre conjuntos:
+
+Dominio. El dominio entendido en el sentido del dominio de una funcin de una clase siempre existe:
+
+Producto cartesiano. Dada una clase X, existe otra que contiene todos los pares ordenados con primeros elementos en X:
+
+Y por ltimo dos axiomas que permutan las n-tuplas ordenadas de una clase dada de diversas maneras:
+Permutacin 1.
+
+Permutacin 2.
+
+De este modo, combinando estos casos particulares con los axiomas generales puede demostrarse un esquema axiomtico para frmulas que hablen solamente de conjuntos:
+Si se prescinde de estos axiomas y en su lugar se adopta el esquema de formacin de clases, se obtiene una axiomatizacin alternativa de NBG, pero no finita. Si se elimina de estos axiomas la restriccin a frmulas sin variables de clase cuantificadas se obtiene la teora de conjuntos de Morse-Kelley.
+
+==== Axiomas adicionales ====
+Adems de estos axiomas iniciales, es necesaria una serie de axiomas para que la teora de conjuntos contenga los aspectos estndar que se usan en la matemtica.
+Partes. Dado un conjunto, existe otro formado por la totalidad de los subconjuntos del primero:
+
+Infinito. Existe un conjunto inductivo:
+
+Regularidad. Toda clase no vaca contiene una clase disjunta consigo misma:
+
+El axioma de eleccin puede aadirse tambin a la lista:
+Eleccin. Dado un conjunto, existe una funcin de eleccin sobre sus elementos no vacos:
+
+== Vase tambin ==
+Teora de conjuntos de Morse-Kelley
+Teora de conjuntos de Zermelo-Fraenkel
+
+== Bibliografa y referencias ==
+
+Ivorra, Carlos, Lgica y teora de conjuntos, consultado el 1 de enero de 2011 .
+Mendelson, Elliott (1997). Introduction to Mathematical Logic (en ingls). Chapman & Hall. ISBN 0-412-80830-7.
+
+== Enlaces externos ==
+Esta obra deriva de la traduccin de Von NeumannBernaysGdel set theory de Wikipedia en ingls, publicada por sus editores bajo la Licencia de documentacin libre de GNU y la Licencia Creative Commons Atribucin-CompartirIgual 3.0 Unported.

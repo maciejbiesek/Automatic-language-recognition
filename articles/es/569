@@ -1,0 +1,34 @@
+Interbase es un sistema de gestin de bases de datos relacionales (RDBMS) desarrollado y comercializado por la compaa Borland Software Corporation y actualmente desarrollado por su ex-filial CodeGear.
+Interbase se destaca de otros DBMS's por su bajo consumo de recursos, su casi nula necesidad de administracin y su arquitectura multi-generacional. InterBase corre en plataformas Linux, Microsoft Windows y Solaris.
+
+== Tecnologa ==
+
+== Tamao Pequeo ==
+Una instalacin total del servidor InterBase 2009 requiere alrededor de 40 MB en el disco. Esto es significativamente menor que la instalacin del cliente de muchos servidores de base de datos de la competencia. El servidor utiliza muy poca memoria cuando est inactivo. La instalacin mnima de InterBase cliente requiere alrededor de 400 KB de espacio en disco.
+
+== Embedded or server ==
+InterBase ofrece la opcin de ejecutarse como un servidor de base de datos integrada o regular.
+
+== Una administracin mnima ==
+Normalmente los servidores InterBase no requieren administradores de bases de datos a tiempo completo.
+El control de concurrencia
+Considere la posibilidad de una simple aplicacin bancaria en la que dos usuarios tienen acceso a los fondos en una cuenta particular. Bob lee la cuenta y encuentra que hay 1.000 dlares en ella, por lo que retira 500. Jane utiliza la misma cuenta pero antes de que Bob haya aplicado los cambios, considera que hay 1000 dlares y retira 800. La cuenta debera tener 300 dlares en descubierto, sin embargo (asumiendo que no puede haber descubierto) dependiendo de la transaccin que se procese primero, tendr 500  200 dlares. Esto plantea un grave problema ante el cual cualquier sistema de bases de datos con acceso multiusuario debe responder ofreciendo un sistema con el que gestionar estas situaciones.
+Las tcnicas utilizadas para resolver este y otros problemas relacionados, son conocidos como control de concurrencia .
+Los productos tradicionales utilizan bloqueos cuando una determinada transaccin va a modificar un registro. Una vez que el bloqueo se aplica, nadie ms puede leer o modificar los datos hasta que ste se levante. El bloqueo se puede aplicar sobre un nico registro, una pgina (un grupo de registros almacenados juntos en el disco) de registros o todos los registros examinados por una transaccin en particular, dependiendo de la resolucin de bloqueo. El bloqueo de resolucin es una solucin de compromiso entre rendimiento y precisin mediante la aplicacin de bloqueo de actualizaciones a nivel de pgina. Algunos registros sern bloqueados a pesar de no entrar en conflicto con aquellos que s van a ser actualizados por transacciones, sin embargo el rendimiento es mayor en comparacin con el bloqueo a nivel de registro.
+El bloqueo se convierte en un problema an mayor cuando se combina con otra caracterstica comn a todos estos sistemas, el aislamiento. Esto se debe a que generalmente estn relacionadas con las operaciones de lectura y una escritura. En este ejemplo, para leer el valor de la cuota y luego cambinarlo. Con el fin de mostrar una visin aislada de los datos de toda la transaccin, incluyendo los registros que se van a leer pero no a escribir, debe ser bloqueado en los servidores de base de datos de muchos.
+En InterBase, los lectores no ven el del escritor. Por ejemplo, cuando Bob y Jane leen los datos a ambos se les mostrar "versin 1", la lectura de 1.000 dlares. Cuando Bob haga cambios en la cuenta al hacer su retiro, los datos no se sobrescriben sino que una nueva "versin 2", esta vez con 500 dlares aparecer. El intento de Jane de retirar 800 dlares fallar al encontrar que hay una nueva versin.
+A este enfoque del control de concurrencia se le llama control de concurrencia multiversin. La aplicacin InterBase de control de concurrencia multiversin comnmente llama a su arquitectura multi-generacional. InterBase fue la segunda base de datos comercial en utilizar esta tcnica, la primera fue diciembre 's Rdb / ELN.
+El control de concurrencia multiversin tambin hace el aislamiento instantneo de transacciones relativamente fcil de implementar. Una transaccin con aislamiento instantneo en InterBase muestra el estado de la base de datos precisamente en el instante en que la operacin comenz. Esto es muy til para copias de seguridad de una base de datos activa , procesos de larga duracin por lotes, etc.
+
+== Historia ==
+Control de concurrencia multiversin antes de InterBase
+
+== Vase tambin ==
+DBMS Firebird
+soporta PL/SQL
+
+== Referencias ==
+
+== Enlaces externos ==
+Sitio oficial de Interbase
+InterBase XE3. Informacin en espaol

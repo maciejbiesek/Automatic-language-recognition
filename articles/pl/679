@@ -1,0 +1,59 @@
+Punkt libracyjny (punkt libracji, punkt Lagrange'a)  miejsce w przestrzeni, w ukadzie dwch cia powizanych grawitacj, w ktrym ciao o pomijalnej masie moe pozostawa w spoczynku wzgldem cia ukadu. Punkt libracyjny nazywany jest take punktem Lagrange'a od nazwiska jego odkrywcy Josepha Lagrange'a.
+
+== Definicja ==
+Dla kadego ukadu trzech cia (dwa ciaa i tzw. ciao prbne) wystpuje pi takich punktw, oznaczanych na og od L1 do L5. Punkty L1L3 znajduj si na linii przechodzcej przez ciaa ukadu i s one niestabilne. Punkty L4 i L5 tworz wraz z dwoma wikszymi ciaami trjkt rwnoboczny i s liniowo stabilne, a dla niektrych stosunkw niestabilne. Stabilno w tym przypadku oznacza, e jeeli ciao bdzie miao parametry ruchu niewiele rnice si parametrw punktu, to pozostanie w okolicy tego punktu dowolnie dugo. Niestabilno oznacza, e ciao takie oddali si od punktu libracyjnego.
+
+== Przykady ==
+W ukadzie SoceZiemia ciao moe pozostawa w spoczynku w ukadzie odniesienia, w ktrym Soce i Ziemia spoczywaj. W punktach tych nastpuje zrwnowaenie si grawitacji i bezwadnoci oddziaujcych na ciao w ukadzie odniesienia zwizanym z tym ciaem.
+W pobliu punktw L4 i L5 ukadu SoceJowisz kr dwie grupy tzw. planetoid trojaskich.
+
+== Pooenie punktw L1-L3 ==
+Dwa ciaa o masie  i  powizane siami grawitacji, krc po orbitach koowych, poruszaj si po okrgach, ktrych rodkiem jest rodek masy ukadu. Odlego midzy rodkami tych cia oznaczmy jako d.
+Prdko ktow obrotu  okrela wtedy wzr:
+
+,
+
+gdzie G oznacza sta grawitacji.
+rodek masy (obrotu) znajduje si w odlegoci z od ciaa o :
+
+Ukad obracajcych si cia moe by przyjty za ukad odniesienia dla trzeciego ciaa o masie m. Na ciao znajdujce si w odlegoci x od ciaa  dziaaj siy cia ,  i sia bezwadnoci. Dla punktu znajdujcego si midzy ciaami ukadu (L1) siy dziaajce na to ciao rwnowa si, gdy:
+
+Co odpowiada:
+
+Dla punktw L2 i L3 rwnanie zawiera takie same skadniki, ale ze wzgldu na zmian zwrotw si naley zmieni odpowiednio znaki dodawania i odejmowania.
+Rozwizanie analityczne rwnania nie jest moliwe. Przyjmujc, e ciaa ukadu znacznie rni si mas (M2<<M1), punkty L1 i L2 s oddalone od ciaa o mniejszej masie o::
+
+Pooenie punktw L1 i L2 w ukadzie:
+Soce-Ziemia: 1 500 000 km od Ziemi
+Ziemia-Ksiyc: 60 000 km od Ksiyca
+Punkt L3 znajduje si za ciaem o wikszej masie w odlegoci od niego nieco wikszej ni odlego ciaa okrajcego ciao M1:
+.
+
+== Pooenie punktw L4 i L5 ==
+W ukadzie, w ktrym pierwsza wsprzdna okrelona jest przez lini przechodzc przez oba ciaa, a druga jest do niej prostopada, pooenie punktu L4 okrelaj wzory:
+
+Jeeli masa M2 jest duo mniejsza od M1, to punkt ten jest pooony w niemal takiej samej odlegoci od ciaa centralnego, jak ciao okrajce go i wyprzedza go na orbicie o kt 60.
+Punkt L5 jest lustrzanym odbiciem punktu L4 wzgldem prostej czcej ciaa.
+
+== Znaczenie praktyczne ==
+Punkty libracyjne s wykorzystywane jako szczeglnie dogodne lokalizacje instalacji kosmicznych.
+
+=== W ukadzie Ziemia-Ksiyc ===
+Punkt L1 moe by cenn lokalizacj dla stacji kosmicznej z uwagi na pooenie pomidzy Ziemi a Ksiycem. Punkt L2 jest dobrym miejscem do umieszczenia radioteleskopu, poniewa Ksiyc chroni go przed zakceniami radiowymi z Ziemi.
+
+=== W ukadzie Ziemia-Soce ===
+Punkt L1 znajduje si blisko Ziemi i jest cigle owietlany przez Soce. Czyni go to uytecznym do prowadzenia obserwacji Soca lub do pozyskiwania energii sonecznej. Na orbicie w pobliu tego punktu zostao umieszczone obserwatorium SOHO. Punkt L2 znajduje si stale w pcieniu Ziemi, co czyni go dobrym miejscem do prowadzenia obserwacji planet zewntrznych lub obszaru poza Ukadem Sonecznym. Na orbitach w pobliu tego punktu umieszczono m.in. Kosmiczne Obserwatorium Herschela i satelit Planck.
+
+W drugiej poowie 2009 w pobliu punktw L4 i L5 przeleciay sondy STEREO, ktrych gwnym zadaniem jest jednoczesne wykonywanie zdj z dwch miejsc, umoliwiajce tworzenie zdj stereoskopowych (3D).
+W przypadku kolonizacji Marsa bezporednia czno moe zosta zablokowana na okoo 2 tygodnie w cigu kadego okresu synodycznego, na czas trwania koniunkcji, gdy Soce znajduje si pomidzy Marsem a Ziemi. Satelita komunikacyjny znajdujcy si w punkcie L4 lub L5 moe suy jako porednik w takiej sytuacji.
+
+== Zobacz te ==
+Trojaczycy
+Libracja
+Ksiyce Kordylewskiego
+Powierzchnia Roche'a
+
+== Przypisy ==
+
+== Linki zewntrzne ==
+wyznaczenie pooenia punktw

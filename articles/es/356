@@ -1,0 +1,76 @@
+RSS son las siglas de Really Simple Syndication, un formato XML para sindicar o compartir contenido en la web. Se utiliza para difundir informacin actualizada frecuentemente a usuarios que se han suscrito a la fuente de contenidos. El formato permite distribuir contenidos sin necesidad de un navegador, utilizando un software diseado para leer estos contenidos RSS tales como Internet Explorer, entre otros (agregador). A pesar de eso, es posible utilizar el mismo navegador para ver los contenidos RSS. Las ltimas versiones de los principales navegadores permiten leer los RSS sin necesidad de software adicional. RSS es parte de la familia de los formatos XML, desarrollado especficamente para todo tipo de sitios que se actualicen con frecuencia y por medio del cual se puede compartir la informacin y usarla en otros sitios web o programas. A esto se le conoce como redifusin web o sindicacin web (una traduccin incorrecta, pero de uso muy comn).
+
+== Trmino ==
+Esta sigla se usa para referirse a los siguientes estndares:
+Rich Site Summary (RSS 0.91) "Resumen ptimo del sitio"
+RDF Site Summary (RSS 0.9 y 1.0) "Resumen RDF del sitio"
+Really Simple Syndication (RSS 2.0) "Sindicacin Realmente Simple"
+
+== Qu es realmente un RSS ==
+En el archivo RSS simplemente estn los datos de las novedades del sitio, como el ttulo, fecha de publicacin o la descripcin. El programa que lea el RSS ser encargado de darle estilo o apariencia a los datos que se incluyan en el archivo y presentarlos de una manera atractiva al usuario y de fcil lectura.
+Que RSS sea un formato basado en XML significa que el archivo RSS se compone por una serie de etiquetas definidas que tendrn un formato dado, que respetar las reglas generales de XML.
+
+=== Confusin de trminos fuente web y RSS ===
+Comnmente el trmino RSS es usado errneamente para referirse a fuente web, independientemente de que el formato de dicha fuente sea RSS o no.
+Fuente web se refiere al medio de redifusin web, mientras que RSS se refiere al formato de dicha fuente web. Originalmente el nico formato de fuente web era RSS, as que se usaban de manera indistinta ambos trminos. Sin embargo, actualmente el formato Atom es otro formato popular de fuente web.
+No toda fuente web tiene formato RSS, algunas tienen formato Atom. En ocasiones, las pginas web ofrecen una fuente web en formato Atom y errneamente la sealan como RSS.
+
+== Redifusin web ==
+
+El principal medio de redifusin web es va fuentes web, siendo RSS el formato ms comn de fuente web
+La redifusin web no es slo un fenmeno vinculado a los weblogs, aunque han ayudado mucho a su popularizacin. Siempre se han redifundido contenidos y se ha compartido todo tipo de informacin en formato XML, de esta forma podemos ofrecer contenidos propios para que sean mostrados en otras pginas web de forma integrada, lo que aumenta el valor de la pgina que muestra el contenido y tambin nos genera ms valor, ya que normalmente la redifusin web siempre enlaza con los contenidos originales.
+Pero lo verdaderamente importante es que, a partir de este formato, se est desarrollando una cadena de valor nueva en el sector de los contenidos que est cambiando las formas de relacin con la informacin tanto de los profesionales y empresas del sector como de los usuarios. Varias empresas estn explorando nuevas formas de uso y distribucin de la informacin... el RSS es una forma de tener ms informacin al slo dar un click.
+
+== Fuente web ==
+
+RSS fue el primer formato de fuente web y sigue siendo el ms comn. Es un formato tan popular que es comn que el trmino RSS sea usado errneamente para referirse a fuente web, independientemente de que el formato de dicha fuente sea RSS o no.
+
+== Agregadores ==
+
+Gracias a los agregadores o lectores de fuentes web (programas o sitios que permiten leer fuentes web) se pueden obtener resmenes de todos los sitios que se desee desde el escritorio del sistema operativo, programas de correo electrnico o por medio de aplicaciones web que funcionan como agregadores. No es necesario abrir el navegador y visitar decenas de pginas.
+Algunos agregadores populares:
+Bloglines
+MyYahoo!
+Netvibes
+FeedReader
+Feedly
+
+== Sintaxis ==
+Los RSS se escriben en cdigo XML fcilmente interpretable por humanos y software:
+
+Ttulo del RSS
+ Descripcin del RSS
+ http://www.sitiodelquesedeseapublicar.com/main.html
+ Mon, 06 Jan 2013 00:01:00 +0000 
+ Mon, 06 Jan 2013 16:20:00 +0000 
+ 1800
+ 
+ 
+  Entrada dentro del RSS
+  Descripcin de la entrada
+  http://www.sitiodelquesedeseapublicar.com/enero-2013.html
+  clave nica
+  Mon, 06 Jan 2013 17:20:00 +0000
+
+== Vase tambin ==
+GeoRSS
+Agregador de noticias
+Fuente web
+Podcast
+Redifusin web
+Estndar Atom
+XML
+RDF
+
+== Referencias ==
+
+== Enlaces externos ==
+ Wikimedia Commons alberga contenido multimedia sobre RSSCommons.
+Protocolo fuente web: (en ingls)
+RSS Tutorial (en ingls)
+Especificacin oficial de RSS (en ingls)
+Validador de fuentes web (en ingls)
+Discusin sobre la implementacin de los RSS y comparacin con una posible alternativa
+Vdeo sencillo sobre RSS en ingls con subttulos en espaol
+RSS Explicado
+Video en Espaol sobre RSS

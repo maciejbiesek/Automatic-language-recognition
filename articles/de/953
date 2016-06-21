@@ -1,0 +1,31 @@
+WikidPad ist eine freie Python-basierte Wiki-Software, um textuelle Informationen mit einer vereinfachten Auszeichnungssprache strukturiert seitenweise zu speichern. Whrend Wikis blicherweise auf Webservern betrieben werden, ist WikidPad ein Desktop-Programm fr Windows, Mac OS X und Linux. Es bentigt keine zustzliche Datenbank.
+WikidPad ist eine Art Notizblocksoftware, die automatisch Wiki-Links zwischen den Seiten herstellt. Das System verwendet eine eigene Datenbank, um die einzelnen Textdokumente des Benutzers zu einem Wiki-artigen Informationssystem zusammenzufassen. Die Wiki-Links (die sog. WikiWords) knnen erzeugt werden, indem man ein oder mehrere Wrter in CamelCase schreibt oder in eckige Klammern einfasst. Dadurch kann man sehr einfach ein Mini-Wiki zu einem bestimmten Thema erstellen. Man schreibt Daten in eine Seite, erstellt ein WikiWord, doppelklickt darauf, und es wird automatisch eine weitere damit verknpfte Seite geffnet. Das Wiki (oder einzelne Seiten davon) kann im HTML-Format exportiert werden.
+WikidPad wurde ursprnglich von Jason Horman entwickelt, der es unter seiner eigenen Open-Source-Lizenz (hnlich wie die BSD-Lizenz) im Juni 2005 verffentlichte. Seit Oktober 2005 ist Michael Butscher der Hauptentwickler.
+
+== Funktionen ==
+CamelCase-Auto-Vervollstndigung
+WikiWord-Navigation
+Baumstruktur / Outline View
+Todo-Listen
+Inkrementelle Suche
+Wiki kann als HTML exportiert werden
+Erweiterbar mit Python
+
+== Datenformat ==
+WikidPad kann Informationen in Textform oder als SQLite-Datenbank speichern. Wenn man die Notizen als Textdateien speichert, kann das Programm SQLite oder die Python-Datenbank Gadfly fr die Indexierung der Daten verwenden.
+
+== Plug-ins ==
+Graphviz  Graph Visualization software
+MimeTex  Latex-Formeleditor
+
+== Siehe auch ==
+Liste von Wiki-Software
+
+== Weblinks ==
+Offizielle Website
+WikidPad Wiki
+Vergleich von Wiki-Software (englisch)
+
+== Einzelnachweise ==
+ Gadfly (engl. WP)
+ MimeTex

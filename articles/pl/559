@@ -1,0 +1,40 @@
+Punkt przegicia  punkt na wykresie funkcji, w ktrym zachodzi zmiana jej wypukoci, tj. funkcja wypuka na lewo od tego punktu staje si wklsa na prawo od niego lub na odwrt. Pojcie to moe by te uoglnione na inne krzywe.
+
+== Definicja formalna ==
+
+=== cisa wklso ===
+Funkcja  jest cile wklsa na przedziale  wtedy i tylko wtedy, gdy jest ciga na przedziale  i:
+
+lub (rwnowana definicja):
+
+=== cisa wypuko ===
+Podobnie funkcja jest cile wypuka na tym przedziale wtedy i tylko wtedy, gdy jest ciga na tym przedziale i:
+
+lub (rwnowana definicja):
+
+=== Punkt przegicia ===
+Funkcja ma punkt przegicia w  wtedy i tylko wtedy, gdy istnieje  dla ktrego jest ona cile wklsa na przedziale  i cile wypuka na przedziale  lub odwrotnie - cile wypuka na  i cile wklsa na .
+Zwykle wymaga si dodatkowo cigoci funkcji w punkcie . Niekiedy wymaga si te rniczkowalnoci w tym punkcie.
+
+== Warunki wystarczajce ==
+Jak wynika z powyszej definicji, istnienie pochodnej nie jest konieczne do zdefiniowania wklsoci i wypukoci krzywej, a co za tym idzie punktu przegicia. Jeli jednak funkcja posiada okrelon obustronn pochodn w pewnym otoczeniu punktu , wwczas warunkiem koniecznym i wystarczajcym jest waciwe ekstremum lokalne pierwszej pochodnej w punkcie .
+Warunkiem wystarczajcym istnienia punktu przegicia jest te istnienie drugiej pochodnej funkcji rwnej zeru w punkcie , oraz zmiana jej znaku w tym punkcie. Jeeli funkcja ma zerow drug pochodn w punkcie, ale jej znak nie zmienia si w tym punkcie, to funkcja ma w tym punkcie ekstremum lokalne.
+Dla funkcji trzykrotnie rniczkowalnej warunkiem wystarczajcym jest:
+
+=== Przykad ===
+Przykadem funkcji posiadajcej punkt przegicia w punkcie, gdzie nie posiada okrelonej drugiej pochodnej, jest funkcja . W punkcie x=0 istnieje punkt przegicia, bo pierwsza pochodna  ma swoje minimum  mimo e drugie pochodne lewostronna i prawostronna nie s sobie rwne, wic obustronna druga pochodna nie istnieje.
+
+== Wielomiany ==
+Wielomian n-tego stopnia (n>2) ma co najwyej n-2 punktw przegicia.
+
+== Uoglnienie na krzywe ==
+Punkt przegicia moe te zosta uoglniony na krzywe nie bdce wykresami funkcji. Najczciej przyjmowane uoglnienie definiuje punkt przegicia krzywej jako punkt, ktry rozdziela w swoim otoczeniu punkty krzywej o krzywinie dodatniej i ujemnej.
+
+=== Promie krzywizny ===
+W miar zbliania si do punktu przegicia promie krzywizny wykresu funkcji dwukrotnie rniczkowalnej ronie do nieskoczonoci. Mwimy skrtowo, e jest on w punkcie przegicia nieskoczony. Oznacza to, e w otoczeniu punktu przegicia krzywa (w szczeglnoci np. wykres funkcji) jest lepiej przybliana lini prost ni ukiem okrgu.
+
+== Zobacz te ==
+punkt siodowy
+wypuko funkcji
+funkcja monotoniczna
+miejsce zerowe

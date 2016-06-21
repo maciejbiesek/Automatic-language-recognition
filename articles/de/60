@@ -1,0 +1,17 @@
+Flightradar24.com ist ein Online-Dienst zur Echtzeit-Positionsdarstellung von Flugzeugen. Er wird von dem im schwedischen Stockholm ansssigen Unternehmen Flightradar24 AB betrieben.
+Durch sogenanntes Radarspotting werden die von ADS-B-Sendern ausgestrahlten Signale von am Boden befindlichen ADS-B-Empfngern aufgefangen und via Internet in das Netzwerk von Flightradar24 bertragen. Die meisten modernen Verkehrsflugzeuge der zivilen Luftfahrt  teils auch der militrischen Luftfahrt  sind heute mit solchen Gerten ausgestattet. Die dabei bermittelten Positionsdaten der jeweiligen Flugzeuge werden mit weiteren Informationen zu Flugzeugtyp und Strecke korreliert und auf einer Karte abgebildet. Seit Frhjahr 2013 ist eine auf Google Earth basierende Ansicht implementiert, als wre man im Flugzeug: die Cockpit View, die aber mittlerweile nicht mehr verfgbar ist.
+
+Die ADS-B-Empfnger werden teils von dem Unternehmen selbst gestellt; zustzlich bermitteln Spotter die Daten ihrer privat betriebenen ADS-B-Empfnger an den Webdienst.
+Gem Eigenangabe waren Ende 2014 ber 4000 ADS-B-Empfnger in Betrieb, die ihre Daten an Flightradar24 liefern. Diese Empfnger decken nach Angaben der Betreiber rund 90 % des europischen Luftraums und einige Bereiche in Nordamerika, Australien sowie im Nahen Osten ab. Die Website wird laut Eigenangabe monatlich von rund 7 Millionen Besuchern aufgerufen (Stand Mitte 2014).
+Die Darstellung geschieht nicht immer in Echtzeit: Aufgrund von Vorschriften der FAA liegt bei Flgen, deren Daten direkt von der FAA zur Verfgung gestellt werden, eine Verzgerung von etwa 5 Minuten vor; dies betrifft insbesondere den nordamerikanischen Luftraum. Die Darstellung jener Flge hingegen, fr deren Positionsbestimmung ADS-B-Daten genutzt werden, erfolgt nach Angabe von Flightradar24 in Echtzeit.
+
+== Weblinks ==
+Website von Flightradar24
+
+== Einzelnachweise ==
+ a b Sonja lvarez: Echtzeit-Radar "Flightradar24": Den Flugzeugen auf der Spur. Der Tagesspiegel, 24. Juli 2014, abgerufen am 28. Dezember 2014. 
+ Flightradar24 AB. In: LinkedIn. Abgerufen am 28. Dezember 2014 (englisch). 
+ David Cenciotti: War in the Web 2.0 era: how Air Forces deal (or dont) with Internet-based flight tracking tools. The Avionist, 13. Oktober 2014, abgerufen am 29. Dezember 2014 (englisch). 
+ Help Us Increase Coverage - Host ADS-B Equipment. Flightradar24 AB, abgerufen am 28. Dezember 2014 (englisch). 
+ Share your ADS-B data with Flightradar24. Flightradar24 AB, abgerufen am 28. Dezember 2014 (englisch). 
+ a b How it works. Flightradar24 AB, abgerufen am 7. Dezember 2014 (englisch).

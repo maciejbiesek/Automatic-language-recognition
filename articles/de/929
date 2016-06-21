@@ -1,0 +1,29 @@
+Die Panel Definition Markup Language (PDML) ist eine von IBM entwickelte Auszeichnungssprache zur Beschreibung grafischer Benutzeroberflchen (GUI).
+PDML wird hufig in Verbindung mit der Programmiersprache Java verwendet und ist genau wie diese plattformunabhngig. Wie in XML wird auch hier mit paarweise vorliegenden Tags gearbeitet (z. B.  ).
+
+== Beispiel ==
+
+PANEL1
+                300,174
+                
+                        PANEL1.BUTTON1
+                        21,135
+                        80,25
+                        COMMIT
+                        PANEL1.BUTTON1
+                
+                
+                        PANEL1.TEXTFIELD1
+                        83,37
+                        134,24
+                
+                
+                        PANEL1.LABEL1
+                        20,36
+                        63,20
+                        PANEL1.LABEL1
+
+Obwohl die manuelle Anfertigung mglich ist, sollte doch ein GUI-Erstellungsprogramm verwendet werden (der dafr vorgesehene GUI Builder wird mit der AS/400 Toolbox for Java ausgeliefert). Fr den Zugriff auf PDML-Quellen in Java-Programmen stehen bestimmte von IBM bereitgestellte Benutzerschnittstellen zur Verfgung.
+
+== Weblinks ==
+IBM Toolbox fr Java

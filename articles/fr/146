@@ -1,0 +1,61 @@
+En mathmatiques, et plus prcisment en thorie des nuds, le polynme d'Alexander est un invariant de nuds qui associe un polynme  coefficients entiers  chaque type de nud. C'est le premier polynme de nud (en) dcouvert ; il l'a t par James Waddell Alexander II, en 1923. En 1969, John Conway en montra une version, appele  prsent le polynme d'Alexander-Conway, pouvant tre calcul  l'aide d'une  relation d'cheveau (en)  (skein relation), mais l'importance n'en fut pas comprise avant la dcouverte du polynme de Jones en 1984.
+
+== Dfinition ==
+La dfinition formelle suivante ncessite des connaissances importantes en homologie ; il est cependant possible, comme on le verra au paragraphe suivant, de calculer sans elles le polynme d'Alexander en pratique, ce qui pourrait en constituer une dfinition oprationnelle, mais on ne peut alors comprendre la raison profonde de l'intrt de ce calcul, ni les proprits du polynme.
+Soit K un nud de la 3-sphre. Soit X le revtement cyclique infini du complment du nud K. Il y a un automorphisme t de ce revtement. Soit alors  le premier groupe d'homologie ( coefficients entiers) de X. La transformation t agit sur ce groupe, et nous pouvons donc considrer  comme un module sur , appel invariant d'Alexander ou module d'Alexander.
+Ce module est de prsentation finie ; une matrice de prsentation de ce module,  r colonnes et s lignes s'il y a r gnrateurs et s relations, s'appelle une matrice d'Alexander. Alexander a dmontr que r est toujours infrieur ou gal  s, on considre alors l'idal engendr par les mineurs d'ordre r de la matrice ; c'est l'idal de Fitting (en) d'ordre 0, appel idal d'Alexander, et il ne dpend pas du choix de la matrice de prsentation.
+Alexander a galement dmontr que cet idal est toujours principal, un de ses gnrateurs est appel polynme d'Alexander du nud. Ce polynme n'tant dfini qu' une multiplication prs par un monme de Laurent , on fixe en gnral une forme unique. Par exemple, le choix de normalisation d'Alexander consiste  prendre le polynme de valuation positive et de terme constant strictement positif. Le polynme d'Alexander existe toujours, et est clairement un invariant (topologique) de nud, que l'on note .
+
+== Calcul du polynme ==
+La procdure de calcul suivante est celle qui fut donne par Alexander dans sa publication originale.
+Considrons un diagramme orient du nud avec n croisements ; le diagramme partage le plan en n + 2 rgions (c'est une consquence facile de la relation d'Euler). Pour dterminer le polynme d'Alexander, on construit d'abord une matrice d'incidence de taille (n, n + 2). Les n ranges correspondent aux n croisements, et les n + 2 colonnes aux rgions. Considrons l'entre correspondant  une rgion et  un croisement particulier. Si la rgion n'est pas adjacente au croisement, cette entre vaut 0. Sinon, la table suivante donne la valeur de l'entre compte tenu de la position de la rgion vue du point de vue de la ligne entrante passant par dessous l'autre :
+ gauche avant le croisement : t
+ droite avant le croisement : 1
+ gauche aprs le croisement : t
+ droite aprs le croisement : 1
+En supprimant alors de la matrice deux colonnes correspondant  des rgions adjacentes, on obtient une nouvelle matrice d'ordre n ; son dterminant ( un facteur  prs) est le polynme d'Alexander (la forme normalise est obtenue en choisissant ce facteur de telle sorte que le terme constant du polynme soit non nul et positif).
+
+== Proprits lmentaires ==
+Le polynme d'Alexander est symtrique : .
+Du point de vue de la dfinition formelle, ceci exprime l'isomorphisme de la dualit de Poincar : , o  est le quotient par  du corps des fractions de  , considr comme un -module, et o  est le -module conjugu de  ; en tant que groupe ablien, il est identique  , mais la transformation couvrante  agit par .
+Le polynme d'Alexander vaut 1 ou -1 pour .
+Ceci exprime le fait que le complment du nud est homologue  un cercle, engendr par la transformation couvrante t. Plus gnralement, si  est une varit de dimension 3 telle que , elle possde un polynme d'Alexander  dfini comme un idal de son recouvrement, et alors  est gal  l'ordre du sous-groupe de torsion de .
+Rciproquement, tout polynme de Laurent ( coefficients entiers), symtrique et valant  en 1 est le polynme d'Alexander d'un certain nud (Kawauchi 1996).
+
+== Interprtations gomtriques ==
+Comme l'idal d'Alexander est principal,  si et seulement si le sous-groupe des commutateurs du groupe du nud (le groupe fondamental du complment du nud dans R3) est parfait (gal  son propre sous-groupe de commutateurs). C'est videmment en particulier le cas du nud trivial (le cercle), mais ce rsultat montre que le calcul du polynme d'Alexander ne suffit pas pour montrer qu'un nud est trivial en gnral.
+Pour un nud topologiquement bordant (en), c'est--dire un nud de la 3-sphre qui borde un disque plong de faon localement plate (en) dans la 4-boule, le polynme d'Alexander satisfait la condition de Fox-Milnor , o  est un autre polynme de Laurent ( coefficients entiers).
+Michael Freedman a dmontr que si le polynme d'Alexander d'un nud est trivial, ce nud est topologiquement bordant (Freedman et Quinn 1990).
+Le degr du polynme d'Alexander est infrieur ou gal au double du genre du nud (en).
+Il y a d'autres relations avec les surfaces et la topologie (diffrentielle) en dimension 4. Par exemple, sous certaines hypothses, il y a moyen de modifier une varit diffrentielle de dimension 4 par une opration de chirurgie consistant  retirer un voisinage d'un tore ( deux dimensions) et  le remplacer par le produit du complment d'un nud et de S1. Le rsultat est une varit homomorphe  la varit initiale, mais dont l'invariant de Seiberg-Witten (en) a t multipli par le polynme d'Alexander du nud.
+Le fait qu'un nud prsente une symtrie se traduit en gnral par des proprits particulires de son polynme d'Alexander. Cependant, celui-ci ne permet pas de les dtecter toutes ; c'est le cas de l'invertibilit forte.
+Si le complment du nud est un fibr  base circulaire, on peut montrer que le polynme d'Alexander est unitaire. En fait, si  est un fibr, o  est le complment du nud ; notons  la monodromie. Alors , o  est l'application induite sur les classes d'homologie.
+
+== Relations avec les oprations sur les nuds satellites ==
+Si un nud  est un nud satellite (en) de compagnon , c'est--dire s'il existe un plongement  tel que , o  est un tore plein non nou, alors , o  est l'entier relatif reprsentant  dans .
+Par exemple pour une somme connexe, . Si  est un double de Whitehead sans torsion, alors .
+
+== Le polynme d'Alexander-Conway ==
+Alexander avait dmontr que le polynme d'Alexander satisfait une relation d'cheveau. Cela fut redcouvert par John Conway sous une forme diffrente, montrant que cette relation, et un choix convenable de valeurs sur le transform (dnou) suffit  dterminer le polynme. Le rsultat de la version de Conway est un polynme en z  coefficients entiers, not  et appel le polynme d'Alexander-Conway.
+Soit L un diagramme orient d'un nud ; on note  les diagrammes rsultant d'un changement limit  une petite rgion autour d'un croisement spcifi, comme indiqu sur la figure.
+
+Les relations d'cheveau (skein relations) de Conway sont les suivantes :
+ (o O est n'importe quel diagramme non nou)
+
+La relation avec le polynme d'Alexander standard est donne par . Ici,  doit tre convenablement normalis (par multiplication par ) pour satisfaire la relation d'cheveau . Il faut remarquer que cette relation donne un polynme de Laurent en t1/2.
+Peu de temps aprs que Conway ait montr ces relations, on se rendit compte qu'une relation similaire avait t dcrite par Alexander dans sa publication originale.
+
+== Rfrences ==
+(en) Cet article est partiellement ou en totalit issu de larticle de Wikipdia en anglais intitul  Alexander polynomial  (voir la liste des auteurs)
+
+(en) J. W. Alexander,  Topological invariants of knots and links , Trans. Amer. Math. Soc., vol. 30, no 2, 1928, p. 275306 (DOI 10.2307/1989123)
+(en) Colin Adams (en), The Knot Book: An elementary introduction to the mathematical theory of knots, Providence, RI, AMS, 2004 (1re d. 1994), poche (ISBN 978-0-8218-3678-1, LCCN 2004054429)
+
+(en) Michael Freedman et Frank Quinn (en), Topology of 4-manifolds, Princeton, NJ, Princeton University Press, coll.  Princeton Mathematical Series  (no 39), 1990 (ISBN 0-691-08577-3)
+(en) Akio Kawauchi, A Survey of Knot Theory, Birkhuser, 1996
+
+(en) Dale Rolfsen, Knots and Links des ditions, Berkeley, CA, Publish or Perish, 1990, 2e d., poche (ISBN 978-0-914098-16-4) (LCCN 76015514)
+
+== Lien externe ==
+(en) The Knot Atlas (tables de nuds et d'entrelacs avec leurs polynmes d'Alexander et de Conway)
+ Portail des mathmatiques

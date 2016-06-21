@@ -1,0 +1,20 @@
+Trusted Computer System Evaluation Criteria (TCSEC, Orange Book) - dokument powstay z inicjatywy Agencji Bezpieczestwa Narodowego Departamentu Obrony USA oraz Narodowego Biura Standaryzacji. Wydany w 1983 roku w postaci pomaraczowej ksieczki, ktrej zawdzicza swoj nieoficjaln nazw. Dokument ten opisuje podstawowe wymagania jakie musz speni rodki ochrony w systemie komputerowym do przetwarzania informacji podlegajcej ochronie. Dokument zosta zaktualizowany w roku 1985 a nastpnie zastpiony przez midzynarodowy standard Common Criteria.
+TCSEC koncentruje si gwnie na zapewnieniu poufnoci informacji.
+Wyrnia si w nim 4 poziomy kryteriw oznaczone D, C, B, A. Dla kadego z nich, poza D, okrelono pewn liczb klas oceny.
+D - ochrona minimalna (ang. Minimal Protection)
+C1 - ochrona uznaniowa (ang. Discretionary Protection)
+C2 - ochrona z kontrol dostpu (ang. Controlled Access Protection)
+B1 - ochrona z etykietowaniem (ang. Labeled Security Protection)
+B2 - ochrona strukturalna (ang. Structured Protection)
+B3 - ochrona przez podzia (ang. Security Domains)
+A1 - konstrukcja zweryfikowana (ang. Verified Design)
+Obowizuje tzw. zasada kumulacji moliwoci, zgodnie z ktr rodki ochrony speniajce wymagania wyszego poziomu, spenia musz rwnie wymagania poziomu niszego.
+Standard ten, w odrnieniu od pniejszych (ITSEC, CC), wskazywa konkretne rodki techniczne jakie maj by uyte dla osignicia podanych poziomw bezpieczestwa.
+
+== Zobacz te ==
+bezpieczestwo teleinformatyczne
+ITSEC
+Common Criteria
+
+== Linki zewntrzne ==
+TRUSTED COMPUTER SYSTEM EVALUATION CRITERIA

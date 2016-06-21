@@ -1,0 +1,22 @@
+PunchOut ou Roundtrip est un concept informatique dsignant l'inter-communication entre les applications informatiques d'une entreprise et de son fournisseur.
+
+== Principe ==
+Un acheteur connect  son ERP, accde au catalogue web d'un fournisseur sans reconnexion (authentification unique), consulte les produits et constitue son panier sur ce site tiers, lors de la validation le panier est rapatri dans son ERP pour validation et enregistrement. La transmission de la commande finalise se fait ensuite par les moyens habituels (courrier, fax, courrier lectronique, EDI...)
+Les avantages sont ainsi les suivants :
+le catalogue tant externalis chez le fournisseur ( sellside ), la charge de maintenance lui est dvolue, les fiches produit et les prix contractuels sont constamment  jour ;
+l'acheteur bnficie de l'ergonomie d'un site de vente en ligne, gnralement meilleure que celle de son ERP (notamment en termes de facilit et puissance de recherche) ;
+comparativement  une simple utilisation de catalogue web sans PunchOut, l'acheteur n'effectue l qu'une seule saisie de sa commande et une seule authentification.
+Certains inconvnients cependant y sont lis :
+la comparaison des prix entre plusieurs fournisseurs est malaise car chacun a son propre site de vente en ligne connect en PunchOut. Cet aspect est cependant pris en compte par certaines fonctionnalits avances (exemple  BACKGROUND_SEARCH  de la norme OCI de SAP)
+le PunchOut ne gre pas la totalit du flux de passage de commande (pas de transmission de la commande finalise, de l'accus de rception, de la facturation...)
+
+== Normes ==
+Les deux formats de PunchOut principaux sont les normes suivantes :
+OCI de SAP
+cXML de Ariba
+
+== Articles connexes ==
+cXML
+OCI
+EDI
+ Portail de linformatique

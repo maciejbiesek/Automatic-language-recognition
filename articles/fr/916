@@ -1,0 +1,57 @@
+WavPack est un format de fichier ainsi qu'un outil de compression audio permettant d'encoder (et de restaurer) un flux PCM sans perte ou avec pertes et mme de cumuler les deux aspects (format hybride, voir ci-dessous). Le format est ouvert, et l'outil est libre, distribu selon les termes de la licence BSD.
+
+== Les modes d'encodages ==
+WavPack est constitu de trois modes d'encodages.
+Le mode dit  sans perte  (couramment dsign par l'anglicisme lossless) utilise des techniques similaires  celles utilises par des encodeurs gnralistes tels que Zip ou 7z. Sa finalit rside dans la compression de donnes. Ce mode d'encodage prsente pour intrt majeur de n'occasionner aucune espce de dgradation des donnes : une fois dcod, le flux audionumrique est rigoureusement identique  celui prcdent l'encodage. Appliques  l'audio, ces techniques de compression sans perte se rvlent donc idales pour tous les travaux scientifiques (gnalogie, ocanologie) ou ceux concernant l'archivage ; l'encodage sans perte est galement pris pour une utilisation audiophile trs stricte. En contrepartie, le taux de compression atteint est plus faible que celui obtenu par des encodeurs de type  avec pertes  (lossy) tels que le MP3. De manire gnrale, l'encodage avec WavPack permet de rduire de moiti le volume original du fichier source. Ces performances peuvent atteindre -80 % avec des fichiers plus compressibles (fichiers monophoniques, ou ceux prsentant un spectre sonore tronqu) et peuvent descendre  -20 %  peine pour les cas les plus extrmes.
+Le mode dit  avec pertes  (l'anglicisme lossy est frquemment employ) est une caractristique originale de WavPack. Le mode permet  l'utilisateur de spcifier le dbit d'encodage et par consquent de prvoir la taille finale, qui est par nature imprvisible en lossless. Ce mode d'encodage peut tre rapproch du MP3 en ce qu'il occasionne une dgradation irrmdiable du signal. Toutefois, WavPack lossy s'en dmarque d'un point de vue technique, car il n'exploite pas la plupart des ressources utilises par les encodeurs perceptuels (MP3, WMA, Vorbis, AAC) traditionnels, se rapprochant davantage d'encodeurs reposant sur la pure quantification tels que l'ADPCM. C'est pourquoi WavPack lossy est inadapt aux bas dbits d'encodage (le dbit minimal est d'environ 200 kb/s pour une source PCM 44,1 kHz sur 16 bits), tout en devenant thoriquement suprieur aux encodeurs perceptuels  des dbits plus levs (350  400 kb/s).
+Le mode dit  hybride  permet de combiner les deux modes d'encodages prcdent. Son fonctionnement consiste en l'encodage d'un premier fichier avec perte, et d'un second l'accompagnant et qui comprend toutes les donnes de correction ncessaires  la restauration parfaite du signal d'origine. L'utilisation  la lecture de cette annexe dite de  correction  est optionnelle. Un utilisateur pourra par exemple lire depuis un rseau un fichier dgrad pour en conomiser les ressources, ou activer la correction si besoin est. Autre forme d'utilisation : le tlchargement depuis internet d'un fichier imparfait ncessitant peu de bande passante, avec en cas de satisfaction la possibilit d'y ajouter les "donnes manquantes". La forme "avec pertes + correction" prsente un dbit trs faiblement major (1 % au plus) par rapport  un encodage simplement "sans perte", pour un rsultat (ou qualit) rigoureusement identique. Cette forme d'encodage permet ainsi aux utilisateurs de bnficier simultanment d'un double encodage lossy et lossless, mais gr de manire plus efficace (pas de redondance donc moins d'espace consomm) qu'avec une combinaison de type "MP3 + sans perte".
+
+== Asymtrie ==
+Un encodage est dit asymtrique lorsque le temps ncessaire  sa ralisation est entirement dcorrl avec le temps ncessaire au dcodage. La plupart des formats de type lossless sont en effet  symtriques  : un encodage trs lent (forte compression) aura pour contrepartie un dcodage trs lent, et si l'encodage est rapide (compression plus faible) le dcodage ncessitera moins de ressources processeur. WavPack prsente de manire optionnelle des optimisations asymtriques (appeles par la commande -x) permettant l'obtention d'un taux de compression plus lev sans porter atteinte  la vitesse de dcodage (paradoxalement amliore avec ce mode).
+
+== Caractristiques dtailles de WavPack ==
+gestion complte du PCM (8-, 16-, 20-, 24-bits ; 32-bits flottant ; mono, stro, multicanal (triphonie, quadraphonie, 5.0, 5.1, 7.1) ; frquences d'chantillonnage comprises entre 6 et 192 kHz)
+format multiplateforme (Windows, Linux, MacOS, Solaris, BSD, PA-RISC et les architectures 64-bits sont actuellement supportes)
+format libre et ouvert, rgi par la licence non-restrictive de type BSD
+navigation instantane et gestion du streaming
+format orient bloc facilitant le dcodage logiciel et matriel
+mode asymtrique
+signature md5 intgre (facilitant vrification et identification des fichiers)
+utilisable en vido (avec ou sans perte & hybride)
+pleinement support dans le conteneur Matroska
+mode hybride
+mode avec perte permettant le codage  2.25 bits par chantillon et plus
+excutables de taille rduite (programme indpendant de toute application surdimensionne)
+rtrocompatibilit totale avec les versions antrieures (WavPack 1.0  3.97)
+gestion des archives auto-extractibles (un fichier WavPack auto-extractible est transformable en fichier WAV sans besoin d'un autre fichier/programme sous Windows)
+support de ReplayGain
+support des tags au format ID3v1 et APEv2
+enchanement dit gapless (littralement,  sans blanc )
+gestion du piping (autorise un rencodage  la vole dans un autre format, par exemple)
+
+== Histoire ==
+Le dveloppement de WavPack commence au milieu de l'anne 1998 avec la sortie par David Bryant de la version 1.0, aux performances dj remarquablesncessaire. La version 2.0 ne tarde pas  suivre et, reprenant une ide dj introduite par Monkey's Audio (un autre format de compression lossless), prsente  ses utilisateurs un mode d'encodage avec pertes. La version 3.0 est lance l'anne suivante, et parmi les innovations offertes par cette nouvelle version, on peut citer : un mode d'encodage rapide, la gestion des fichiers PCM "brut" (raw) ainsi qu'un mcanisme de dtection d'erreurs (CRC 32 bit). Ces innovations ne suffisent cependant pas  sduire les utilisateurs, dont une large majorit continuera de prfrer des formats plus performants tels que Monkey's Audio ou FLAC. Il est vrai que le mode de navigation (seeking) des plus poussif de WavPack 3 (latence pouvant atteindre une dizaine de secondes pour aller d'un point  un autre !) n'tait gure attrayant...
+Cinq annes de gestation et de maturation seront ncessaire pour qu'arrive, enfin, une version 4.0 du format riche en fonctionnalits. Dot d'un mode de navigation plus performant, grant le multicanal, les sources trs haute dfinition codes en virgule flottante, prsentant un mode avec perte largement amlior, la signature md5, le codage asymtrique.
+
+== Performances ==
+
+=== Comparaisons chiffres ===
+Comparatif de Speek - 10 albums (dernire mise  jour : 2005)
+Comparatif de Hans Heijden - 7 albums (dernire mise  jour : 2006)
+
+=== Comparaisons textuelles ===
+comparison Wiki d'hydrogenaudio.org
+Prsentation dtaille des formats sans perte - par Kurtnoise
+
+== Voir aussi ==
+Free Lossless Audio Codec
+Monkey's Audio
+
+== Liens externes ==
+(en) Site officiel
+(en) Manuel d'utilisation
+(en) Logiciels grant WavPack (liste non exhaustive)
+(en) Compilations pour diverses plateformes logicielles
+
+Portail de linformatique
+ Portail des logiciels libres

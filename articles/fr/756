@@ -1,0 +1,18 @@
+En mathmatiques, le lemme de Zolotarev est un rsultat d'arithmtique modulaire quivalent au lemme de Gauss et introduit par Yegor Ivanovich Zolotarev (en) en 1872 pour redmontrer la loi de rciprocit quadratique,. Il nonce que pour tout nombre premier p > 2 et tout entier a non divisible par p, le symbole de Legendre (a/p) est gal  la signature de la permutation des classes rsiduelles modulo p qui multiplie chaque lment par a.
+
+== Preuve ==
+Soit  la classe modulo p de l'entier a. La permutation de l'nonc fixe la classe nulle, et s'identifie sur les classes non nulles  l'action  de  par translation, dans le groupe multiplicatif Z/pZ*. Cette permutation se dcompose en (p - 1)/i cycles disjoints, chacun de taille i, o i est l'ordre de  (c'est--dire le plus petit entier i > 0 tel que i = 1). Sa signature vaut donc :
+
+Pour comparer cette signature avec le symbole de Legendre (a/p), qui d'aprs le critre d'Euler, est gal  (p - 1)/2, on discute alors suivant la parit de i :
+si i est pair alors  ;
+si i est impair alors .
+Dans les deux cas, c'est le rsultat attendu.
+
+== Gnralisation ==
+Le thorme de Frobenius-Zolotarev, indique que si V est un espace vectoriel de dimension finie sur le corps fini Fp, alors la signature de tout automorphisme de V (vu comme une permutation de cet espace vectoriel fini) est gale au symbole de Legendre de son dterminant :
+
+Le lemme de Zolotarev correspond au cas V=Fp et u=la multiplication par a.
+
+== Notes et rfrences ==
+
+Portail des mathmatiques

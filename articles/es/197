@@ -1,0 +1,19 @@
+DCF77 es una seal horaria de onda larga y una estacin de radio de frecuencia patrn. Sus emisores primario y de respaldo estn situados en Mainflingen, en Mainhausen, aproximadamente 25 km al sudeste de Frncfort, Alemania. Es operado por T-Systems Media Broadcast, una subsidiaria de German Telekom, para beneficio del Physikalisch-Technische Bundesanstalt, el laboratorio nacional de fsica de Alemania.
+DCF77 lleva dando servicio como estacin de frecuencia patrn desde 1959; la informacin de fecha y hora se aadi en 1973.
+La seal portadora de 77.5 kHz se genera a partir de relojes atmicos enlazados con los relojes maestros alemanes en Braunschweig. La fuerte emisin de 50 kW se puede recibir en gran parte del territorio europeo, llegando hasta 2000 km de distancia de Frncfort. La emisin transporta una seal de datos de 1 bit/s codificada en ancho de pulso y modulada en amplitud. La misma seal de datos est modulada en fase sobre la portadora usando una secuencia pseudoaleatoria de 511 bits de tamao (modulacin de espectro ensanchado por secuencia directa). Los datos transmitidos que se repiten cada minuto son:
+
+la hora y fecha actuales;
+un bit de alarma de un segundo intercalar;
+un bit de horario de verano;
+un bit de identificacin del emisor (primario o de respaldo);
+varios bits de paridad.
+Desde 2003, 14 bits anteriormente sin uso del cdigo horario se estn usando para seales de emergencia de Defensa civil. Este an es un servicio experimental que tiene por objeto ser el substituto de la red alemana de Sirenas de defensa civil.
+El prefijo radiofnico representa: D=Deutschland (Alemania), C=seal de onda larga, F=Frncfort, 77=frecuencia: 77.5 kHz. Hasta el ao 2004 se transmita tres veces por hora en cdigo morse.
+Los relojes controlados por radio han sido muy populares en Europa desde el final de los 80 y la mayora usa la seal DCF77 para ajustar la hora automticamente.
+
+== Enlaces externos ==
+DCF77 Atomowy czas w Twoim PC (polaco)
+Pgina oficial de DCF77 en el PTB (ingls)
+El reloj atmico en Frncfort (alemn)
+Descripcin de cdigos horarios (ingls)
+Informacin sobre la construccin de un Reloj DCF77 (Espaol)

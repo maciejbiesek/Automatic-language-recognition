@@ -1,0 +1,33 @@
+ACTRAN (acronym of ACoustic TRANsmission) is a finite element-based computer aided engineering software modeling the acoustic behavior of mechanical systems and parts. Actran is being developed by Free Field Technologies, a Belgian software company founded in 1998 by Jean-Pierre Coyette and Jean-Louis Migeot. Free Field Technologies is a wholly owned subsidiary of the MSC Software Corporation since 2011.
+
+== History ==
+The development of Actran started in 1998 when Jean-Pierre Coyette, now professor of the Louvain School of Engineering  Universit catholique de Louvain, and Jean-Louis Migeot, now professor at the Universit Libre de Bruxelles and past-president of the Royal Academy of Science, Letters and Fine Arts of Belgium - Acadmie royale des sciences, des lettres et des beaux-arts de Belgique, cofounded the Free Field Technologies SA software company. The original idea was to develop a finite element-based simulation tool for vibro-acoustic applications able to overcome the limitations of the then dominant Boundary Element Method. The use of finite elements enabled the simulation of complex noise sources, the combination of multiple materials in the same model and the handling of multi-million degrees-of-freedom models. The initial target application was the prediction of the acoustic transmission through complex partitions (hence the name ACTRAN: ACoustic TRANsmission). A central feature of Actran was the use of Infinite Elements (IE) as an alternative to BEM for modelling non-reflecting boundary conditions and calculating the far field. Actran uses conjugated infinite elements, an extension of the wave envelope technique.
+Early developments were funded by an industrial consortium and the first commercial release was made broadly available in 2002, after the three-years exclusivity period given to the members of the consortium ended.
+
+== Software Modules ==
+Actran is written in the python and C++ languages and is compatible with both linux and windows operating systems.
+The Actran software is currently divided and licensed into different modules depending on the target application and the physics involved:
+Actran Acoustics: basic module for acoustic radiation analysis and weakly coupled vibro-acoustic simulations; typical applications are: noise radiation from powertrains, noise transmission through mufflers and silencers.
+Actran VibroAcoustics: module dedicated to strongly coupled vibro-acoustic simulations; typical applications are: sound transmission through structures (walls, windows, etc.), loudspeakers, underwater acoustics;
+Actran AeroAcoustics: module dedicated to the computational aeroacoustics; typical applications are HVAC ducts, centrifugal and axial fans, side window noise.
+Actran for Trimmed bodies: module dedicated to trimmed body analyses; typical applications are car cabins and aircraft fuselages;
+Actran TM: module dedicated to turbomachinery noise; typical applications are turbofan engine inlets;
+Actran DGM: module solving the Linearized Euler Equations. This module is a time domain explicit solver and the numerical scheme is the Discontinuous Galerkin Method (DGM); typical applications are turbofan engine by-pass exhaust ducts and turbine exhausts ducts.
+Actran VI: user interface common to all modules. It is used to pre-process Actran modules including generating and modifying acoustic meshes and to post-process the results.
+Actran Student Edition: software limited release freely available to students.
+
+== Software Interoperability ==
+Actran is integrated with MSC Nastran for vibro-acoustic simulations. Either a MSC Nastran model is translated into an Actran input file, or structural modes are used as part of an Actran analysis. Structural modes can be computed also with other third party softwares.
+Actran is coupled with other MSC Software time domain solvers:
+MSC Adams for moving mechanisms and impact noise studies;
+Dytran and MSC Nastran SOL700 for sloshing noise analysis;
+MSC Marc for acoustic radiation analysis from objects subject to large deformations and strain.
+
+== See also ==
+MSC Software
+Nastran
+
+== References ==
+
+== External links ==
+Official website

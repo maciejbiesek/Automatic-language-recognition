@@ -1,0 +1,60 @@
+Die Turing-Bombe (auch: Turing-Welchman-Bombe oder Welchman-Turing-Bombe) ist eine elektromechanische Maschine, die whrend des Zweiten Weltkriegs von den britischen Kryptoanalytikern in Bletchley Park (B.P.) eingesetzt wurde, um die mit der deutschen Schlsselmaschine Enigma verschlsselten Funksprche zu entziffern.
+
+== PrinzipBearbeiten ==
+
+Die Bombe, wie sie die Codeknacker kurz nannten, wurde auf der Grundlage der polnischen Bomba (siehe auch: Vergleich der Bombe mit der polnischen Bomba) vom britischen Mathematiker Alan Turing ersonnen und von seinem Kollegen Gordon Welchman durch Einfhrung des diagonal board (deutsch: Diagonalbrett) wesentlich verbessert (Turing-Welchman-Bombe). Dabei wird die Involutorik (Verschlsseln = Entschlsseln) der Enigma und speziell die Involutorik ihres Steckerbretts durch eine innerhalb der Turing-Bombe durchgefhrte Hintereinanderschaltung mehrerer Enigma-Maschinen kryptanalytisch ausgenutzt. So lsst sich der Einfluss des Steckerbretts auf die Gre des Schlsselraums abstreifen und der Suchraum drastisch verringern.
+Der gesuchte Schlssel kann durch Exhaustion (vollstndiges Absuchen des Schlsselraums) gefunden werden. Die hierbei verwendete Methode wird mit dem lateinischen Begriff Reductio ad absurdum (deutsch: Zurckfhrung bis zum Widerspruch) bezeichnet. Sie basiert auf der Verwendung eines wahrscheinlichen Worts (engl.: crib), dessen Vorkommen im Text erwartet oder zumindest angenommen werden kann. Aufgrund der bekannten inneren Verdrahtung der Schlsselwalzen der Enigma und ihrer mglichen Stellungen zueinander knnen die beobachteten oder angenommenen Zusammenhnge zwischen dem vorliegenden Geheimtext und dem wahrscheinlichen Wort des Klartextes nur unter ganz bestimmten Bedingungen und nur bei sehr wenigen Schlsseln erfllt sein. Mit Hilfe dieser Methode gelingt es, die berwiegende Mehrzahl aller Schlssel auszuschlieen und so letztendlich den von den Deutschen zur Verschlsselung ihrer Funksprche verwendeten richtigen Tagesschlssel der Enigma zu finden.
+Die Bombe vergleicht die in der verschlsselten Nachricht angenommene Textphrase (crib) mit dem entsprechenden Geheimtextfragment und probiert, mit allen mglichen Schlsseleinstellungen fr Walzenlage und Walzenstellung das Geheimtextfragment zu entschlsseln. Passt das Ergebnis des Entschlsselungsversuchs zum angenommenen Crib, dann entspricht die dazu benutzte Schlsseleinstellung der Bombe mglicherweise dem gesuchten Tagesschlssel der Enigma. Dabei noch auftretende Fehltreffer, die aufgrund der Krze des Cribs durchaus mglich sind, mssen durch probeweise Entschlsselung des restlichen Geheimtextes erkannt und verworfen werden. Ist der Tagesschlssel der Enigma endlich gefunden, dann kann der gesamte Geheimtext, wie vom befugten Empfnger, einfach entschlsselt werden.
+Statt der in manchen populrwissenschaftlichen Darstellungen, Spielfilmen, wie Enigma  Das Geheimnis und The Imitation Game  Ein streng geheimes Leben, oder Romanen, wie beispielsweise Enigma des britischen Schriftstellers Robert Harris, genannten Zahl von 150 Millionen Millionen Millionen Mglichkeiten, die sie abzuarbeiten habe, sind es tatschlich nur 26 oder 17.576 mal 60, also 1.054.560 Mglichkeiten, unter denen sie die richtige Stellung finden muss (siehe auch: Kapitel Entzifferung und Schlsselraum im bersichtsartikel zur Enigma).
+Diese etwa eine Million unterschiedlichen Flle sind von Hand in vernnftiger Zeit praktisch nicht durchzuprobieren. Mithilfe der Turing-Bombe jedoch, die motorbetrieben mit 64 Umdrehungen pro Minute whrend jeder Umdrehung 26 Flle abarbeiten konnte, brauchte man nur noch 1.054.560/(2664) Minuten, etwas mehr als zehn Stunden, um smtliche Mglichkeiten durchzutesten. (Hinzu kommt noch die Zeit zum Einstellen und Umrsten der Maschine auf die sechzig verschiedenen Walzenlagen, wodurch die Zeit auf rund zwanzig Stunden verdoppelt wird.) Leistet man sich den Aufwand, sechzig Bombes einzusetzen, jeweils eine fr jede Walzenlage, dann schrumpft die Zeit fr einen Durchlauf von etwas mehr als zehn Stunden auf gut zehn Minuten  eine durchaus ertrgliche Zeit.
+
+== GeschichteBearbeiten ==
+
+Die erste voll betriebsfhige Turing-Welchman-Bombe (inkl. diagonal board) kam Mitte August 1940 zum Einsatz. Sie erhielt den Namen Agnes, mglicherweise zu Ehren von Agnes Meyer Driscoll, der US-amerikanischen Kollegin der britischen Codebreakers. Fr die Exhaustion einer Walzenlage bentigte Agnes etwa 15 Minuten, eine Zeitspanne, die bei spteren Exemplaren durch Erhhung der Drehzahl der Trommeln auf etwa sechs Minuten reduziert werden konnte. Bis zum Kriegsende waren mehr als 210 Bombes allein in England in Betrieb.
+Darber hinaus wurden unter Federfhrung von Joseph Desch in der National Cash Register Company (NCR) in Dayton, Ohio, ab April 1943 mehr als 120 Hochgeschwindigkeitsvarianten produziert, die speziell gegen die nur von den deutschen U-Booten verwendete Enigma-M4 gerichtet waren. Im Gegensatz zu den anderen Enigma-Modellen mit drei Walzen verwendete die M4 eine vierte Walze und konnte deshalb nur mit entsprechend aufwendigeren Bombes geknackt werden.
+
+== NamensursprungBearbeiten ==
+Beim Begriff Bombe, den die britischen Codebreakers fr ihre Maschine benutzten, handelt es sich um die franzsische Schreibweise des englischen Worts bomb (deutsch: Bombe). Er wurde in Anlehnung an die polnische Vorluferin der Turing-Bombe, der vom polnischen Codeknacker Marian Rejewski entwickelten Bomba (polnisch fr Bombe) gewhlt. Die Herkunft dieser ursprnglichen Bezeichnung ist nicht eindeutig geklrt.
+Nach dem Krieg konnte selbst Rejewski sich nicht mehr daran erinnern, wie diese Bezeichnung entstanden war. Gerne wird erzhlt, er htte mit seinen Kollegen Rycki und Zygalski gerade in einem Caf eine Eisbombe verspeist, whrend er die Idee zur Maschine formulierte. Daraufhin habe Jerzy Rycki diesen Namen vorgeschlagen. Eine andere Hypothese ist, dass die Maschine ein Gewicht fallen lie, hnlich wie ein Flugzeug eine Bombe abwirft, und so deutlich hrbar signalisierte, dass eine mgliche Walzenstellung gefunden wurde. Eine dritte Variante vermutet das Betriebsgerusch der Maschine, das dem Ticken einer Zeitbombe gehnelt haben soll, als Grund fr die Namensgebung. Auch das Aussehen der Maschine, die hnlichkeit mit der typisch halbkugeligen Form einer Eisbombe gehabt haben soll, wird als Namensursprung angefhrt. Leider sind keine Bomby erhalten geblieben, so dass sich die verschiedenen Namenshypothesen nur schwer berprfen lassen. Rejewski selbst gab hierzu ganz nchtern an, zu dem Namen sei es gekommen, weil ihnen damals nichts Besseres eingefallen sei (engl.: For lack of a better name we called them bombs.).
+Die Briten in B.P. jedenfalls bernahmen den ursprnglich polnischen Namen und bertrugen ihn ins Franzsische. Mglicherweise hat dies etwas damit zu tun, dass sich die polnischen Codeknacker im Jahr 1939 nach dem deutschen berfall auf ihr Land und ihrer Flucht aus Polen in Frankreich aufhielten und von dort aus mit den Briten kommunizierten.
+
+== Bombe-Nachbau-ProjektBearbeiten ==
+
+Am Originalort im etwa 70 km nordwestlich von London gelegenen Bletchley lief mehrere Jahre lang das Bombe-Nachbau-Projekt (englischer Originaltitel: Bombe Rebuild Project), dessen Ziel es war, eine Turing-Bombe nachzubauen. Dies ist inzwischen gelungen. Am 17. Juli 2007 wurde in einem kleinen Festakt in Anwesenheit von Edward, 2. Duke of Kent. und einiger ehemaliger Wrens der voll funktionsfhige Nachbau einer Turing-Bombe offiziell in Betrieb genommen.
+
+== Filmische RezeptionBearbeiten ==
+
+Turing-Bombes in Aktion sind im britischen Spielfilm Enigma  Das Geheimnis zu sehen, der auf dem Roman Enigma basiert und die Entzifferungsarbeit der britischen Codeknacker von Bletchley Park thematisiert. Bei den Bombes handelt es sich um Nachbauten, die nicht voll funktionstchtig sind, aber das uere Erscheinungsbild und speziell die rotierenden Trommeln wirklichkeitsnah darstellen. Auch die Arbeit der Codeknacker bei der Erstellung der fr die Bombe notwendigen Mens wird sehr gelungen dargestellt. Die diversen Funksprche sind speziell fr den Film nach den Original-Vorschriften und Verfahren wirklichkeitsgetreu erzeugt und verschlsselt worden.
+Die britisch-US-amerikanische Gemeinschaftsproduktion The Imitation Game  Ein streng geheimes Leben aus dem Jahr 2014 illustriert das Leben und die Beitrge von Alan Turing als Codeknacker in Bletchley Park. Im besonderen Fokus steht dabei die Entwicklungsgeschichte seiner Bombe, deren Konstruktion und Bedienung anschaulich dargestellt werden.
+
+== LiteraturBearbeiten ==
+Chris Christensen: Review of IEEE Milestone Award to the Polish Cipher Bureau for The First Breaking of Enigma Code. Cryptologia. Rose-Hulman Institute of Technology. Taylor & Francis, Philadelphia PA 39.2015,2, S. 178193. ISSN 0161-1194.
+Donald W. Davies: The bombe - A remarkable logic machine. Cryptologia. Rose-Hulman Institute of Technology. Taylor & Francis, Philadelphia PA 23.1999,2, S. 108138. ISSN 0161-1194.
+David P. Mowry: German Cipher Machines of World War II (PDF; 1,1 MB). Center for Cryptologic History, National Security Agency, Fort Meade 2003. 36 S.
+Jennifer Wilcox: Solving the Enigma - History of the Cryptanalytic Bombe. Center for Cryptologic History, National Security Agency, Fort Meade 2001.
+
+== WeblinksBearbeiten ==
+
+Erklrung des Funktionsprinzips der Turing-Bombe (engl.)
+Enigma and the Turing Bombe (mit Simulator) (engl.)
+The Bombe Rebuild Project (engl.)
+Breaking German Navy Ciphers  Enigma-M4-Nachrichten mittels einer Software-Turing-Bombe entziffert (2012) (engl.)
+
+== EinzelnachweiseBearbeiten ==
+ Gordon Welchman: The Hut Six Story  Breaking the Enigma Codes. Allen Lane, London 1982; Cleobury Mortimer M&M, Baldwin Shropshire 2000, S. 11. ISBN 0-947712-34-8
+ The US 6812 Bombe Report 1944. 6812th Signal Security Detachment, APO 413, US Army. Publikation, Tony Sale, Bletchley Park, 2002. S. 9. Abgerufen: 16. Mrz 2010. PDF; 1,3 MB
+ Robert Harris: Enigma. Roman. Weltbild, Augsburg 2005, S. 71. ISBN 3-89897-119-8
+ The US 6812 Bombe Report 1944. 6812th Signal Security Detachment, APO 413, US Army. Publikation, Tony Sale, Bletchley Park, 2002. S. 59. Abgerufen: 7. Januar 2014. PDF; 1,3 MB
+ Hugh Sebag-Montefiore: Enigma  The battle for the code. Cassell Military Paperbacks, London 2004, S. 235. ISBN 0-304-36662-5
+ Michael Miller: Symmetrische Verschlsselungsverfahren  Design, Entwicklung und Kryptoanalyse klassischer und moderner Chiffren. Teubner, April 2003, S. 70. ISBN 3-519-02399-7
+ John A. N. Lee, Colin Burke, Deborah Anderson: The US Bombes, NCR, Joseph Desch, and 600 WAVES  The first Reunion of the US Naval Computing Machine Laboratory. IEEE Annals of the History of Computing, 2000. S. 35. Abgerufen: 21. Mai 2008. PDF; 0,5 MB
+ Friedrich L. Bauer: Entzifferte Geheimnisse, Methoden und Maximen der Kryptographie. Springer, Berlin 2000 (3. Aufl.), S. 431. ISBN 3-540-67931-6
+ Kris Gaj, Arkadiusz Orowski: Facts and myths of Enigma: breaking stereotypes. Eurocrypt, 2003, S. 121ff.
+ Hugh Sebag-Montefiore: Enigma  The battle for the code. Cassell Military Paperbacks, London 2004, S. 46. ISBN 0-304-36662-5
+ Hugh Sebag-Montefiore: Enigma  The battle for the code. Cassell Military Paperbacks, London 2004, S. 46. ISBN 0-304-36662-5
+ Simon Singh: Geheime Botschaften. Carl Hanser Verlag, Mnchen 2000, S. 194. ISBN 0-89006-161-0
+ Friedrich L. Bauer: Entzifferte Geheimnisse, Methoden und Maximen der Kryptographie. Springer, Berlin 2000 (3. Aufl.), S. 419. ISBN 3-540-67931-6
+ Marian Rejewski: How Polish Mathematicians Deciphered the Enigma. Annals of the History of Computing, Vol. 3, No. 3, Juli 1981, S. 226.
+ The Royal Switch on. Abgerufen: 1. Juli 2008.
+ Robert Harris: Enigma. Roman. Weltbild, Augsburg 2005. ISBN 3-89897-119-8
+ Tony Sale: Making the Enigma ciphers for the film Enigma. Abgerufen: 26. Mrz 2008.

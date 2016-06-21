@@ -1,0 +1,10 @@
+In number theory, the Teichmller character  (at a prime p) is a character of (Z/qZ), where q = p if p is odd and q=4 if p = 2, taking values in the roots of unity of the p-adic integers. It was introduced by Oswald Teichmller. Identifying the roots of unity in the p-adic integers with the corresponding ones in the complex numbers,  can be considered as a usual Dirichlet character of conductor q. More generally, given a complete discrete valuation ring O whose residue field k is perfect of characteristic p, there is a unique multiplicative section  : k  O of the natural surjection O  k. The image of an element under this map is called its Teichmller representative. The restriction of  to k is called the Teichmller character.
+
+== Definition ==
+If x is a p-adic integer, then (x) is the unique solution of (x)p = (x) that is congruent to x mod p. It can also be defined by
+
+The multiplicative group of p-adic units is a product of the finite group of roots of unity and a group isomorphic to the p-adic integers. The finite group is cyclic of order p  1 or 2, as p is odd or even, respectively, and so it is isomorphic to (Z/qZ). The Teichmller character gives a canonical isomorphism between these two groups.
+
+== References ==
+Section 4.3 of Cohen, Henri (2007), Number theory, Volume I: Tools and Diophantine equations, Graduate Texts in Mathematics 239, New York: Springer, doi:10.1007/978-0-387-49923-9, ISBN 978-0-387-49922-2, MR 2312337 
+Koblitz, Neal (1984), p-adic Numbers, p-adic Analysis, and Zeta-Functions, Graduate Texts in Mathematics, vol. 58, Berlin, New York: Springer-Verlag, ISBN 978-0-387-96017-3, MR 754003

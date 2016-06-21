@@ -1,0 +1,65 @@
+In geometry, the truncated cube, or truncated hexahedron, is an Archimedean solid. It has 14 regular faces (6 octagonal and 8 triangular), 36 edges, and 24 vertices.
+If the truncated cube has unit edge length, its dual triakis octahedron has edges of lengths 2 and .
+
+== Area and volumeEdit ==
+The area A and the volume V of a truncated cube of edge length a are:
+
+== Orthogonal projectionsEdit ==
+The truncated cube has five special orthogonal projections, centered, on a vertex, on two types of edges, and two types of faces: triangles, and octagons. The last two correspond to the B2 and A2 Coxeter planes.
+
+== Spherical tilingEdit ==
+The truncated cube can also be represented as a spherical tiling, and projected onto the plane via a stereographic projection. This projection is conformal, preserving angles but not areas or lengths. Straight lines on the sphere are projected as circular arcs on the plane.
+
+== Cartesian coordinatesEdit ==
+The following Cartesian coordinates define the vertices of a truncated hexahedron centered at the origin with edge length 2:
+(, 1, 1),
+(1, , 1),
+(1, 1, )
+where  = .
+The parameter  can be varied between 1. A value of 1 produces a cube, 0 produces a cuboctahedron, and negative values produces self-intersecting octagrammic faces.
+
+If the self-intersected portions of the octagrams are removed, leaving squares, and truncating the triangles into hexagons, truncated octahedrons are produced, and the sequence ends with the central squares being reduced to a point, and creating an octahedron.
+
+== DissectionEdit ==
+
+The truncated cube can be dissected into a central cube, with six square cupola around each of the cube's faces, and 8 regular tetrahedral in the corners. This dissection can also be seen within the runcic cubic honeycomb, with cube, tetrahedron, and rhombicuboctahedron cells.
+This dissection can be used to create a Stewart toroid with all regular faces by removing two square cupola and the central cube. This excavated cube has 16 triangles, 12 squares, and 4 octagons.
+
+== Vertex arrangementEdit ==
+It shares the vertex arrangement with three nonconvex uniform polyhedra:
+
+== Related polyhedraEdit ==
+The truncated cube is one of a family of uniform polyhedra related to the cube and regular octahedron.
+
+=== Symmetry mutationsEdit ===
+This polyhedron is topologically related as a part of sequence of uniform truncated polyhedra with vertex configurations (3.2n.2n), and [n,3] Coxeter group symmetry.
+It is topologically related to a series of polyhedra and tilings with face configuration Vn.8.8.
+
+=== Alternated truncationEdit ===
+A cube can be alternately truncated producing tetrahedral symmetry, with six hexagonal faces, and four triangles at the truncated vertices. It is one of a sequence of alternate truncations of polyhedra and tiling.
+
+== Related polytopesEdit ==
+The truncated cube, is second in a sequence of truncated hypercubes:
+
+== Truncated cubical graphEdit ==
+In the mathematical field of graph theory, a truncated cubical graph is the graph of vertices and edges of the truncated cube, one of the Archimedean solids. It has 24 vertices and 36 edges, and is a cubic Archimedean graph.
+
+== See alsoEdit ==
+Spinning truncated cube
+Cube-connected cycles, a family of graphs that includes the skeleton of the truncated cube
+
+== ReferencesEdit ==
+
+Williams, Robert (1979). The Geometrical Foundation of Natural Structure: A Source Book of Design. Dover Publications, Inc. ISBN 0-486-23729-X.  (Section 3-9)
+Cromwell, P. Polyhedra, CUP hbk (1997), pbk. (1999). Ch.2 p.79-86 Archimedean solids
+
+== External linksEdit ==
+Eric W. Weisstein, Truncated cube (Archimedean solid) at MathWorld
+Weisstein, Eric W., "Truncated cubical graph", MathWorld.
+
+Richard Klitzing, 3D convex uniform polyhedra, o3x4x - tic
+Editable printable net of a truncated cube with interactive 3D view
+The Uniform Polyhedra
+Virtual Reality Polyhedra www.georgehart.com: The Encyclopedia of Polyhedra
+VRML model
+Conway Notation for Polyhedra Try: "tC"

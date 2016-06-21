@@ -1,0 +1,40 @@
+En gomtrie algbrique, une varit rationnelle est une varit algbrique (intgre) V sur un corps K qui est birationnelle (en)  un espace projectif sur K, c'est--dire qu'un certain ouvert dense de V est isomorphe  un ouvert d'un espace projectif. De faon quivalente, cela signifie que son corps de fonctions est isomorphe au corps des fractions rationnelles  d indtermines K(U1,  , Ud), l'entier d tant alors gal  la dimension de la varit.
+
+== Rationalit et paramtrage ==
+Soit V une varit algbrique affine de dimension d dfinie par un idal premier f1,  , fk de K , Xn. Si V est rationnelle, il existe n+1 polynmes g0,  , gn dans K , Ud tels que fi (g1/g0,  , gn/g0) = 0. Autrement dit, on a un paramtrage rationnel xi = gi/g0 (u1,  , ud) de la varit. Rciproquement, un tel paramtrage rationnel induit un morphisme du corps de fonctions de V dans K(U1,  , Ud), mais ce morphisme peut ne pas tre surjectif. Si un tel paramtrage existe, la varit est dite unirationnelle. Le thorme de Lroth assure que toute courbe algbrique unirationnelle est rationnelle. Un thorme de Castelnuovo assure qu'en caractristique nulle, toute surface algbrique unirationnelle est aussi rationnelle.
+
+== Questions de rationalit ==
+Une question de rationalit consiste  demander si une extension de corps donne L / K est rationnelle, c'est--dire isomorphe au corps de fonctions K(U1,  , Ud) d'une varit rationnelle, dont la dimension d est alors gale au degr de transcendance de L sur K. Ces extensions sont aussi dites purement transcendantes.
+Cette question possde diverses variantes, selon la faon dont les corps K et L sont construits.
+Par exemple, soient K un corps, y1,  , yn des indtermines sur K et L l'extension de K qu'elles engendrent. Soit G un groupe fini qui agit sur L en fixant chaque lment de K et en permutant les indtermines. Par un argument standard de thorie de Galois, l'ensemble des points fixes de cette action est un sous-corps de L, couramment not LG. La question de la rationalit de cette extension de K est appele le problme de Noether.
+Dans son article de 1918 sur la thorie de Galois inverse, Emmy Noether a tudi le problme de construire une extension galoisienne de  de groupe de Galois donn, question qu'elle a rduite au problme de Noether ci-dessus pour K = . (Elle avait dj mentionn ce problme dans un article de 1913, en l'attribuant  Ernst Fischer.) Elle a dmontr que la rponse  ce problme tait positive pour n = 2, 3 ou 4. Richard Swan a publi en 1969 un contre-exemple, pour n = 47, avec G cyclique d'ordre 47. Par la suite, Lenstra a donn un contre-exemple avec n = 8 et G cyclique d'ordre 8.
+
+== Unirationalit ==
+Une varit Y est unirationnelle s'il existe un morphisme dominant X  Y pour une certaine varit rationnelle X, ce qui se traduit par le fait que le corps de fonctions de Y est inclus dans une extension transcendante pure de K de degr de transcendance fini. Lorsque le corps de base est infini, on peut alors trouver un tel morphisme X  Y qui soit de plus gnriquement fini, c'est--dire que l'extension de corps de fonctions correspondante est de degr fini. Gomtriquement, c'est quivalent  dire qu'en dehors d'une partie ferme stricte de Y, l'image rciproque d'un point est toujours un ensemble fini.
+Le thorme de Lroth montre que toute courbe unirationnelle est rationnelle et le thorme de Castelnuovo implique que toute surface complexe unirationnelle est rationnelle, car les deux sont caractrises par la nullit simultane du genre arithmtique (en) et du deuxime plurigenre (en). En caractristique p > 0, les surfaces de Zariski (en) sont des exemples de surfaces unirationnelles mais non rationnelles. Les hypersurfaces cubiques de 4 sont unirationnelles, mais Clemens et Griffiths (de) ont montr,  l'aide de la jacobienne intermdiaire (en), que toutes celles qui sont lisses sont non rationnelles. Iskovskih et Manin ont dmontr que toutes les hypersurfaces quartiques lisses de 4 sont non rationnelles, bien que certaines soient unirationnelles. Artin et Mumford ont dcouvert des varits unirationnelles de dimension 3 dont le troisime groupe de cohomologie possde une torsion non triviale, ce qui implique qu'elles ne sont pas rationnelles.
+Jnos Kollr (en) a dmontr en 2000 qu'une hypersurface cubique (en) lisse de dimension au moins 2 dfinie sur un corps K est unirationnelle si elle a un point rationnel. Ceci amliore de nombreux rsultats classiques,  commencer par le cas des surfaces cubiques (qui sont rationnelles sur une clture algbrique). Parmi les autres exemples dont on sait qu'ils sont unirationnels figurent beaucoup d'espaces de modules de courbes.
+
+== Varits rationnellement connexes ==
+Une varit projective V sur un corps k est rationnellement connexe si, sur la clture algbrique de k, par deux points quelconques de V passe toujours une courbe rationnelle. Par exemple, on montre que toute varit rationnelle est rationnellement connexe.
+Cette dfinition ne diffre de celle de la connexit par arcs que par la nature du chemin, mais elle est trs diffrente, car les seules courbes algbriques qui sont rationnellement connexes sont les courbes rationnelles.
+Le produit de deux varits rationnellement connexes est rationnellement connexe.
+Si K est une extension du corps k, alors V est rationnellement connexe si et seulement si VK est rationnellement connexe.
+Les varits rationnellement connexes de dimension 1 (en toute caractristique) ou 2 (en caractristique nulle) sont rationnelles. Ceci n'est plus vrai en dimension suprieure. Par exemple, les cubiques lisses dans 4 sur  sont unirationnelles (donc rationnellement connexes, cf. infra) mais non rationnelles.
+Une hypersurface dans n (sur les nombres complexes) est rationnellement connexe si et seulement si elle est de degr au plus n.
+La connexit rationnelle est invariante par applications birationnelles. Plus gnralement, si on a une application rationnelle dominante d'une varit rationnellement connexe vers une varit V, alors cette dernire est galement rationnellement connexe. Il suit en particulier que toute varit unirationnelle est rationnellement connexe. La rciproque n'est pas connue et est conjecturalement fausse.
+
+== Notes et rfrences ==
+(en) Cet article est partiellement ou en totalit issu de larticle de Wikipdia en anglais intitul  Rational variety  (voir la liste des auteurs).
+
+== Voir aussi ==
+
+=== Bibliographie ===
+(en) Jnos Kollr, Karen E. Smith (de) et Alessio Corti (en), Rational and nearly rational varieties, CUP, coll.  Cambridge Studies in Advanced Mathematics  (no 92), 2004 (ISBN 978-0-521-83207-6, prsentation en ligne, lire en ligne)
+(en) Olivier Debarre, Higher-dimensional algebraic geometry, Springer, coll.  Universitext , 2001 (ISBN 0-387-95227-6)
+Les notes de Jack Huizenga et celles de Joe Harris  AMS Summer Institute on Algebraic Geometry in Seattle, 2005.
+
+=== Articles connexes ===
+Surface rationnelle (en)
+Varit de Severi-Brauer (en)
+ Portail de lalgbre
+ Portail de la gomtrie

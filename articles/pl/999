@@ -1,0 +1,57 @@
+Reguy wyboru  warunki w spektroskopii, ktre musz by spenione, aby nastpio oddziaywanie promieniowania z molekuami.
+
+== Widmo rotacyjne ==
+Warunkiem podstawowym w spektroskopii, jest to, aby foton, pochonity przez moleku, pasowa do odstpu poziomw energetycznych:
+E  rnica energii
+h  staa Plancka
+  czsto
+Jest to warunek konieczny, lecz niewystarczajcy.
+Drugim warunkiem koniecznym pochonicia fotonu jest wystpowanie trwaego dipolowego momentu elektrycznego. Znaczy to, e czsteczki bez momentu dipolowego nie pochaniaj fotonw pomimo, e speniaj warunek dopasowania poziomw energetycznych (np, H2, N2, O2). Czsteczki obdarzone trwaym momentem dipolowym maj absorpcyjne widmo rotacyjne.
+Dla wyjanienia tego zjawiska, moe suy model rotujcej molekuy. Dipol, znajdujcy si na drodze fali jest obracany przez dodatni i ujemn powk fali. Dodatnia przyciga ujemny biegun, a odpycha dodatni. Natomiast ujemna powka, przyciga biegun dodatni, a odpycha ujemny. W ten sposb, czsteczka wykonuje obrt o 180. Jeli przed oddziaywaniem z promieniowaniem, czsteczka wykazywaa czsto, na poziomie J=1, rwn czstoci promieniowania (i nie wykonywaa wczeniej rotacji), to opisane dziaanie spowoduje jej przejcie na poziom wzbudzony J=1. Molekua, ktra ju znajduje si na poziomie J0, czyli taka, ktra ju wykonuje rotacje z okrelon czstoci, moe by pobudzona i do odpowiednio wyszej czstoci i moe zosta przeniesiona na poziom J+1.
+Czsteczki nieposiadajce trwaego momentu dipolowego rwnie wykonuj rotacje. Energia rotacyjna jest czerpana ze zderze z innymi molekuami, co powoduje przetworzenie energii ruchu translacyjnego na rotacyjny. Takie rotacje jednak nie objawiaj si w widmie absorpcyjnym.
+Trzecim warunkiem jest warunek wynikajcy bezporednio z rozwizania rwnania Schrdingera. Mwi on, e molekua moe si przenie tylko na poziom ssiedni, w jednym akcie absorpcji fotonu:
+Przejcia na bardziej odlege poziomy (jednorazowe) np. J = +2 J = +3 itd., s wzbronione.
+
+== Oscylator ==
+Dla oscylatora harmonicznego, odstpy pomidzy kolejnymi poziomami energetycznymi s rwne i wynosz:  staa Diraca
+f  staa siowa
+mred  masa zredukowana
+Wic kwantowa regua wyboru pozwala tylko na przejcia pomidzy ssiednimi poziomami:
+Znak minus oznacza przejcie z wyemitowaniem fotonu, natomiast plus  pochoniciem energii.
+Dla oscylatora anharmonicznego, wzr na odstp pomidzy poziomami ulega modyfikacji do:
+f0  staa siowa na poziomie 0
+x  wspczynnik anharmonicznoci
+Ze wzgldu na drgania anharmoniczne, kwantowa regua wyboru ulega rozszerzeniu:
+Przejcia te nazywaj si tonami (analogia do akustyki). Przejcie  = 1 to ton podstawowy, natomiast kade kolejne nazywa si nadtonem (np.  = 2 to pierwszy nadton).
+
+== Widmo oscylacyjne ==
+W przypadku widma oscylacyjnego pierwsza regua wyboru jest taka sama, jak w przypadku widma rotacyjnego:
+Druga regua jest taka sama jak w przypadku oscylatora anharmonicznego:
+S to warunki konieczne lecz niewystarczajce.
+Aby przejcie byo moliwe, musi by speniona jeszcze jedna regua, mianowicie: przejcie pomidzy poziomami energetycznymi musi by prawdopodobne, zatem:
+n i w  funkcje falowe stanw n i w
+  funkcja momentu dipolowego molekuy wzgldem wsprzdnej normalnej
+|nw| to moment przejcia, z ktrym zwizany jest wzr na wspczynnik Einsteina:
+Jeli prawdopodobiestwo przejcia jest rwne zero, to przejcie nie jest moliwe i w widmie intensywno te jest rwna zero. Im wiksze jest prawdopodobiestwo, tym wiksza intensywno pasma.
+
+== Widmo Ramana ==
+W widmie Ramana, poza podstawowymi reguami wyboru, obowizuje regua, ktra mwi, e w widmie Ramana pojawi si pasma tych drga normalnych, w czasie ktrych zmienia si przynajmniej jedna skadowa tensora polaryzowalnoci.
+Integralna intensywno pasma ramanowskiego, zwizanego z przejciem ze stanu podstawowego na wzbudzony oscylatora, jest wprost proporcjonalna do kwadratu pierwszej pochodnej polaryzowalnoci wzgldem wsprzdnej normalnej:
+
+== Widmo elektronowe ==
+Pierwsz regua wyboru jest regua, ktra mwi, e przejcie pomidzy termami elektronowymi musi by prawdopodobne:
+Gdy Rnw jest rwne zero, to przejcie jest wzbronione.
+Druga regua wyboru mwi, e dozwolone jest tylko przejcie pomidzy termami o tej samej multipletowoci:
+np. przejcia singlet-singlet lub tryplet-tryplet. Przejcia pomidzy termami o rnej multipletowoci np. singlet-tryplet s wzbronione. Regua ta nie uwzgldnia wzajemnych oddziaywa elektronw, dziki ktrym przejcia te s czasem widoczne w widmie elektronowym. Oddziaywaniem, ktre moe powodowa pojawianie si pasm wzbronionych jest sprzenie wibronowe.
+Dla szczeglnego rodzaju przej elektronowych, mianowicie przej d-d, istnieje trzecia regua wyboru  regua Laporte'a. Mwi ona, e przejcia gg (symetryczne wzgldem rodka) i uu (brak symetrii wzgldem rodka) s wzbronione, poniewa momenty tych przej s rwne zero. Oznaczaoby to, e w kompleksach oktaedrycznych nie wystpowayby przejcia. Jest jednak inaczej  naruszenie reguy Laporte'a wynika z tego, e ligandy wykonuj oscylacje wzgldem centrum i, przez to, pojawiaj si domieszki przej gu (dozwolonych).
+
+== Widmo NMR ==
+W widmie NMR , pierwsza regua wyboru mwi, e kwantowa liczba spinowa jdra wchodzcego w rezonans zmienia si o jeden: dla jder wchodzcych w rezonans
+Natomiast kwantowa liczba spinowa jder rozszczepiajcych i nie wchodzcych w rezonans (h nie pasuje do odstpw poziomw energetycznych) nie zmienia si: dla jder rozszczepiajcych
+
+== Widmo EPR ==
+W spektroskopii EPR, istniej bardzo podobne reguy wyboru jak w przypadku NMR. Dla spinu elektronu, kwantowa liczba spinowa zmienia si o jeden:
+Natomiast dla jder rozszczepiajcych kwantowa liczba spinowa nie zmienia si:
+
+== Bibliografia ==
+Zbigniew Kcki: Podstawy spektroskopii molekularnej. Wyd. 3. Warszawa: Wydawnictwo Naukowe PWN, 1992, s. 43, 63, 84, 101, 185, 196, 254, 309. ISBN 83-01-10503-8.

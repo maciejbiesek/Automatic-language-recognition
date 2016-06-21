@@ -1,0 +1,17 @@
+Eine Monochromatische Welle (Wortherkunft von monochromatischem Licht, d.h. mit einer einzigen Frequenz) ist eine Welle, deren Auslenkung an einer festen Stelle eines Inertialsystems beschrieben werden kann durch die Funktion
+
+mit
+A die Amplitude
+t die Zeit
+ die Kreisfrequenz
+ die Anfangsphase.
+Bei transversalen Wellen hat man fr jede Polarisationskomponente eine solche Funktion mit bereinstimmender Kreisfrequenz.
+
+== Komplexe Schreibweise ==
+In der Optik und Elektrotechnik werden Wellen oft in der komplexen Schreibweise dargestellt:
+
+Dabei wird die Auslenkung  aufgefasst als Realteil  des zugehrigen analytischen Signals  Dieses ist eine komplexe Zahl, die fr t von 0 bis  einen Kreis um den Ursprung des Koordinatensystems mit Radius A beschreibt:
+
+mit
+der Eulerschen Zahl 
+der imaginren Einheit

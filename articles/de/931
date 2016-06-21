@@ -1,0 +1,15 @@
+Der Kompaktheitssatz von Cheeger und Gromov, hufig auch als Gromovs Kompaktheitssatz oder Gromovs Prkompaktheitssatz bezeichnet, ist ein mathematischer Lehrsatz aus dem Gebiet der Differentialgeometrie. Er macht eine Aussage ber die Gromov-Hausdorff-Konvergenz von Folgen Riemannscher Mannigfaltigkeiten mit vorgegebenen Durchmesser-, Volumen- und Krmmungsschranken. Eine unmittelbare Folgerung aus dem Kompaktheitssatz ist Cheegers Endlichkeitssatz.
+
+== Kompaktheitssatz ==
+Wenn es fr eine Folge  Riemannscher Mannigfaltigkeiten Konstanten , ,  gibt, so dass fr alle  die Abschtzungen
+
+gelten, dann konvergiert eine Teilfolge  in der Gromov-Hausdorff-Topologie gegen eine Riemannsche Mannigfaltigkeit . Hierbei bezeichnen  das Volumen,  den Durchmesser und  die Schnittkrmmungen der Riemannschen Mannigfaltigkeit .
+Man kann die Teilfolge Riemannscher Mannigfaltigkeiten  so whlen, dass es Diffeomorphismen  gibt, fr die  gegen die Riemannsche Metrik  konvergiert.
+
+== Literatur ==
+Michail Leonidowitsch Gromow: Metric structures for Riemannian and non-Riemannian spaces. Auf der Grundlage der franzsischen Originalausgabe von 1981. Mit Anhngen von M. Katz, P. Pansu und S. Semmes. bersetzung aus dem Franzsischen von Sean Michael Bates. Progress in Mathematics, 152. Birkhuser Boston, Inc., Boston, MA, 1999. ISBN 0-8176-3898-9
+R. E. Greene, H. Wu: Lipschitz convergence of Riemannian manifolds. Pacific J. Math. 131 (1988), no. 1, 119141.
+
+== Weblinks ==
+Peter Petersen: Convergence Theorems in Riemannian Geometry
+Robert Haslhofer: Convergence of Riemannian Manifolds

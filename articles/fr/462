@@ -1,0 +1,16 @@
+L'effet Early est un phnomne physique qui se manifeste dans la rgion de fonctionnement linaire d'un transistor bipolaire. Cet effet a t dcouvert en 1952 par James M. Early.
+
+== Description ==
+
+Thoriquement, dans sa zone de fonctionnement linaire, le courant de collecteur Ic d'un transistor bipolaire ne devrait pas tre influenc par la tension collecteur-metteur Vce. En ralit, la hausse de cette tension (Vce) modifie lgrement le courant de collecteur. C'est ce qu'on appelle l'effet Early. Lorsque le courant de base Ib est faible, l'effet se fait moins ressentir. Par contre, plus le courant de base est grand, plus l'effet Early se manifeste.
+
+== Explication ==
+Le transistor bipolaire tant par essence un amplificateur de courant : un courant de base induit un courant de collecteur en fonction du gain propre au transistor. Une augmentation de la diffrence de potentiel prsente entre le collecteur et l'metteur a pour effet de modifier lgrement l'paisseur de la base et donc, pour un mme courant de base, d'augmenter lgrement le courant de collecteur.
+
+== Liens internes ==
+Transistor
+Transistor bipolaire
+lectronique
+Semi-conducteur
+Effet Kirk
+ Portail de llectricit et de llectronique

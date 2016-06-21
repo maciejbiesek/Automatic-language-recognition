@@ -1,0 +1,42 @@
+El Joy es un lenguaje de programacin funcional que fue producido por Manfred von Thun de la Universidad de La Trobe en Melbourne, Australia. Joy est basado en la composicin de funciones en vez del clculo lambda. Ha resultado tener muchas semejanzas con el lenguaje Forth, debido menos al diseo que a una suerte de evolucin paralela y convergente.
+
+== Funcionamiento ==
+Joy es inusual, (excepto para lenguajes para programacin a nivel funcional y algunos cosas esotricas), por su carencia de un operador lambda, y por lo tanto la carencia de parmetros formales. Para ilustrar esto con un ejemplo comn, aqu est cmo la funcin square (elevar al cuadrado) puede ser definida en un lenguaje de programacin imperativo (C):
+
+La variable x es un parmetro formal que es sustituido por el valor real al que se le calcular el cuadrado cuando la funcin sea llamada. Ahora aqu est cmo la misma funcin sera definida en un lenguaje funcional (Scheme):
+
+Esto es diferente en muchas formas, pero todava utiliza el parmetro formal x de la misma manera. Ahora, aqu est cmo la funcin cuadrado pudiera ser definida en Joy:
+
+DEFINE square == dup *
+
+Explicando el cdigo de arriba: En Joy, todo es una funcin que toma una pila como argumento y retorna una pila como resultado. Por ejemplo, el nmero 5 no es, como puede parecer, una constante entera, sino que por el contrario es un corto programa que empuja (push) al nmero 5 sobre la pila.
+El operador dup simplemente duplica el elemento superior de la pila empujando (push) una copia de este elemento.
+El operador * extrae (pop) dos nmeros de la pila y empuja (push) su producto.
+As que esta definicin de la funcin cuadrado hace una copia del elemento superior y despus multiplica los dos elementos superiores, dejando el cuadrado en el elemento superior original sobre de la pila. No hay necesidad de un parmetro formal en absoluto. Este diseo hace que el lenguaje Joy sea conciso y poderoso, segn lo ilustrado por esta definicin del quicksort:
+
+DEFINE qsort ==
+   [small]
+   []
+   [uncons [>] split]
+   [[swap] dip cons concat]
+   binrec .
+
+el binrec es uno de muchos combinadores recursivos de Joy, para implementar recursividad. binrec espera cuatro programas indicados en el tope de la pila que representan:
+la condicin de terminacin, si una lista es "small" (pequea) (de 1  0 elementos) ya est ordenada,
+qu hacer si se cumple la condicin de la terminacin (en este caso nada),
+qu hacer por defecto (divide la lista en dos mitades comparando cada elemento con el pivote),
+y finalmente qu a hacer al final (insertar el pivote entre las dos mitades clasificadas).
+
+== Pureza matemtica ==
+En Joy, el significado de una funcin es un homomorfismo desde el monoide sintctico sobre el monoide semntico. Es decir, la relacin sintctica de la concatenacin de smbolos mapea directamente sobre la relacin semntica de la composicin de funciones. Es un homomorfismo en vez de un isomorfismo porque est sobre pero uno a uno, es decir, algunas secuencias de smbolos tienen el mismo significado (ej. dup + y 2 *) pero ningn smbolo tiene ms de un significado.
+Joy maneja ser prctico y potencialmente til, a diferencia del, de otra manera similar, Unlambda. Sus biblioteca de rutinas reflejan las del ISO C, aunque la implementacin actual no es fcilmente extensible con las funciones escritas en C.
+
+== Vase tambin ==
+Forth
+Lenguaje de programacin Factor
+Mquina de pila
+Lenguaje de programacin orientado a pila
+
+== Enlaces externos ==
+Joy homepage
+JoyJ project

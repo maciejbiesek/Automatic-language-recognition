@@ -1,0 +1,145 @@
+Les machines  crire IBM Selectric, dites  machines  boule , sont une ligne de produit commercialise par IBM en 1961 ayant rencontr un grand succs auprs du public.
+
+== Annes 1960, une technologie nouvelle dans la machine  crire ==
+
+La technologie de la machine  crire  boule invente par IBM (Image A), est mise sur le march dans les annes 1960. Elle se caractrise principalement par l'usage d'une boule qui peut imprimer tous les caractres d'une langue (Image B). La principale innovation de ce systme, dans ces annes-l, est de pouvoir changer de boule, et donc la police d'criture, en deux secondes. Par exemple passer d'une police de caractre traditionnelle, par exemple Courier  une criture qui est du genre manuscrite comme Script.
+
+Cette invention fut une grande rvolution par rapport aux machines  crire  barres  caractre (Image C) o la police d'criture tait jusqu'alors fige et dfinie  l'achat de la machine. Il n'y a plus de chariot qui se dplace de gauche  droite, l'impression se fait sous le capot de la machine; ce qui en fait aussi une impression un peu plus silencieuse qu'avec les machines traditionnelles  barres  caractres. C'est aussi une esthtique plaisante et d'avant-garde.
+La technique de commercialisation par un marketing trs labor et des vendeurs comptents, ont t la base de la russite d'une large implantation de cette machine  crire  boule.
+
+=== Petite histoire d'inspiration ===
+
+Pour la petite histoire, le principe de la boule sur une machine  crire, aurait t inspir par l'antique machine  crire Mignon. Comme vous le voyez sur l'image D, sur ce systme trs antique, on slectionnait le caractre  imprimer sur un tableau des caractres. Le systme d'impression se faisait au moyen d'un cylindre avec tous les caractres sur son pourtour. Comme on le verra plus loin avec notre machine  crire  boule, on remarque dj sur le tableau des caractres, que les majuscules sont d'un ct et les minuscules de l'autre.
+
+=== Quelques volutions en images ===
+Ci-dessous, on voit quelques volutions en image des processus qui ont permis l'criture. Avant la premire machine machines  barres  caractres, il y a eu des essais d'autres types de mcanique de machines  crire qui n'ont pas abouti. Le lien (en)  Antique Typewriter, de Martin Howard Collection , sur antiquetypewriters.com donne un aperu des antiques machines avant d'en arriver aux premires machines  crire conventionnelles.
+Maintenant, on ne parle plus de machines  crire, qu'elles soient  barres  caractres,  boule ou  marguerite, tout se fait sur les ordinateurs, avec des programmes de traitement de texte comme Word ou d'autres programmes.
+
+=== Ultime technologique mcanique de la Bureautique ===
+
+La machine  crire  boule a certainement t la dernire technologie mcanique o il y avait quelque chose  voir ou  prsenter dans le fonctionnement de la machine. Cette machine tait en effet uniquement mcanique, si ce n'est le moteur d'entranement lectrique (comme le montre l'Image E, de la dite machine, sans sa carrosserie). Les systmes d'criture de la gnration suivante ont t remplacs par l'lectronique. Dans un premier temps par des machines  crire lectroniques  impression  marguerite, ensuite par des systmes de traitement de texte, dans un premier pas aussi  marguerite et ensuite par l'informatique avec ses imprimantes Laser ou Jet d'encre.
+
+== La technique ==
+
+=== Rotation de la boule pour crire ===
+Pour faire tourner cette boule et faire frapper le bon caractre, il faut donner des informations pour qu'elle s'oriente sur le choix des divers caractres  crire qui sont sur les 360 de sa circonfrence et sur les quatre hauteurs de ces lignes de caractres.
+
+=== Code binaire pour la slection des caractres ===
+De mme que pour nos ordinateurs actuels, les choix des caractres de cette machine  boule ne pouvaient recevoir que deux informations, qui se rsume par Oui ou par Non et c'est ce que l'on nomme un Code binaire, compos de 0 ou de 1. Toutes les informations de nos ordinateurs actuels et celles ncessaires  la position de la boule en rotation (rotate) ou en hauteur (dclic), sont donnes par une combinaison de  0  et de  1 . Ci-dessous, un petit exemple de ce que pourrait tre un codage d'une combinaison de ce code binaire compos de  oui  ou de  non  pour amener  une slection de caractres  crire (cet exemple de codage n'est pas forcment celui de la boule).
+Une info de Wikipdia sur le Code binaire
+
+=== Les diffrents claviers de par le monde ===
+
+Il y a bien des diffrentes sortes de clavier de par le monde, le clavier Franais (Azerty) qui est assez diffrent de la plupart des autres, l'anglophone qui est le Qwerty (Image F: exemple du clavier Qwerty), le Suisse franais et Suisse allemand (Qwertz), le Turc, etc. Pourtant, pour tous les pays et tous les claviers du monde les boules sont les mmes, avec les caractres placs au mme endroit; alors que sur le clavier, l'emplacement des caractres peuvent tre placs  des places totalement diffrentes. C'est par les diffrents codages des interposes (expliqu ci-dessous) en relation avec ce processus binaire, que la machine va trouver le caractre correspondant sur la boule.
+
+=== Des touches du clavier  la bonne slection sur la boule ===
+Quand l'on presse une touche du clavier, celle-ci active sous chaque touche une barre verticale appele interpose (interposer) (Image/schma 3). Cette interpose est code diffremment, suivant le positionnement que la machine devra activer, pour orienter la boule en circonfrence ou en hauteur, afin d'imprimer le caractre correspondant. Le codage de ces interposes est fait au moyen de taquets prsents ou pas prsents au dessous de l'interpose, ce qui fait qu'il va presser ou pas sur une des six barres transversales horizontales places au-dessous, que l'on voit sous les Images 1 et 2. L'information d'activation ou non de ces barres transversales (crosswise bars) vont tre transmisses  six tringles de connexion (link) (on en voit surtout cinq sur l'image 2).
+
+Ces six Link aboutissent chacun  un loquet (latch) (Image 4). Suivant que le ou les loquets sont activs ou pas, ils vont plus ou moins tirer sur un balancier nomm whiffletree, que l'on entrevoit dans l'Image 5 et 6.
+2 de ses tringles et loquets sont pour donner la position en hauteur (dclic). Donc 4 possibilits du code binaire, pour 4 ranges sur la boule
+4 de ses tringles et loquets sont pour donner la position sur la circonfrence de la boule (rotate), qui a 22 positions sur sa circonfrence (11 du ct des minuscules et 11 de celui des majuscules)
+Pour passer de minuscule en majuscule, c'est un autre mcanisme qui gnre la rotation voulue de la boule.
+
+==== Le balancier ou whiffletree et les bras de dveloppement dclic et rotate ====
+L'image 7, montre un schma de ce balancier ou whiffletree. L'image 8 est un dessin d'essai d'explication de ce balancier pour le positionnement dclic, donc pour les quatre possibilits de hauteur de la boule. Ce lien suivant donne accs  deux petits films explicatifs, en anglais, qui donnent un peu plus en dtail visuel sur le fonctionnement de ce balancier, que l'on revoit aussi dans l'Image 9. Dans ce film, la partie jaune gnre le mouvement en hauteur (dclic), avec deux connexions et les quatre autres link de connexions qui sont en bleu ou blanc, sont pour la rotation en circonfrence de la tte (rotate).
+
+Ce balancier (whiffletree) est donc compos de deux parties, actives par deux jeux de tringles ou link en langage IBM. Nous retrouvons notre code binaire  deux possibilits de  oui  ou de  non , ou de  tir  ou  pas tir . Suivant que les loquets (latch) sont activs ou pas, ils vont se placer ou pas sous le balancier. Ces latch activs ou pas, de par l'effet d'une came tournante, que l'on voit sur l'Image 5, vont plus ou moins tirer la connexion rsultante de ce balancier, qui elle va plus ou moins tirer sur un bras articul (Image 10). Ce bras articul, termin par une poulie, va lui tirer sur un cble mtallique (tape) pour activer la rotation de la boule et la positionner face au caractre  frapper. On a une certaine vue de ces tapes dans l'image 5.
+
+==== Du balancier  la tte d'impression ====
+Donc ce balancier, suivant le codage qu'il reoit, tirera plus ou moins sur une tringle de connexion. On voit la tringle pour la rotation sous l'Image 4, avec ces trois crous et contre-crous de rglage. Sur l'Image 6, on devine celle qui est plate en noir, qui active le mcanisme de hauteur. Ces deux mcanismes diffrents vont chacun activer en tirement un bras articul (arm). Un bras pour la hauteur (tilt arm) et un autre pour la slection sur la circonfrence de la boule (rotate arm). On voit ces deux bras articuls avec leurs poulies, qui se trouvent sur la gauche de la machine,  l'Image 10. Ces bras articuls vont plus ou moins tirer les cbles mentionns tape. Ces cbles sont raccords au mcanisme de la boule, dans le chariot d'impression,  laquelle ils vont pouvoir donner le mouvement ncessaire pour positionner le bon caractre  imprimer (Image 11, on voit les tapes).
+
+==== Les majuscules et le positionnement du soulign sur la boule ====
+Pour passer des majuscules aux minuscules, c'est un peu plus simple. Les majuscules sont d'un ct de la boule et les minuscules de l'autre. En appuyant sur la touche majuscule, on actionne un embrayage qui actionne une came situe sur le ct droite de la machine (Image 12). Celle-ci fait s'tirer un 3e bras articul (Shift arm), qui celui-ci va faire une tension sur le cble tape rotate, afin de faire pivoter la boule de 180.
+Une autre particularit technique, est le soulign (ex: _______). On aimerait qu'il soit le plus parfaitement rectiligne. Cette recherche d'un trait le plus beau possible est un des rglages courant d'entretien rgulier de la machine par le technicien du service aprs-vente. Pour arriver au meilleur rsultat possible, la solution trouve par les concepteurs de la machine, a t de mettre ce caractre du soulign _   la position de base de la boule, le plus proche du papier. Cela signifie qu'elle va frapper ce caractre, sans devoir tre active en hauteur (dclic) ou en rotation (rotate).
+Cependant, on verra plus loin, que cette boule il faut aussi la verrouiller dans sa position de frappe, envoyer l'impact de frappe et avancer le chariot transporteur de la boule d'un espace pour frapper le caractre suivant.
+
+== Le chariot - ruban - verrouillage de la boule et dplacement ==
+
+=== Verrouillage de la boule ===
+Pour que l'criture se fasse proprement, il faut que la boule soit verrouille, une fois le bon caractre plac face au papier sur lequel il va s'crire. Sur l'image 15, on voit un gros plan du support de la boule (ring). Au centre de l'image 14, on voit le chariot d'impression avec au centre ce support. Sur son ct gauche du support de la tte, face  nous, on voit une petite crmaillre avec 4 dents (on voit surtout les deux premires). Devant ces dents on voit un petit axe articul termin par un ressort. C'est ce petit axe qui va se fixer dans la cavit entre les dents de la crmaillre, ce qui fait le verrouillage vertical. Dessous les dents du support, on voit un axe arrondi articul de couleur noir. Le bout  gauche de cet axe (on en devine le bout dans un peu de poussire blanche de papier), va se fixer dans une des encoches, entre les dents de la boule (Image 16: boule avec ses dents). Ce mcanisme verrouillera la tte d'impression dans son emplacement de rotation.
+
+=== Chariot et ruban ===
+Comme on l'a remarqu, ce chariot support de la boule d'criture, se dplace  l'intrieur de la machine. Son dplacement caractre par caractre, que ce soit dans le sens de l'criture ou en arrire (Backspace, par exemple pour la correction), est  quelque chose prt ce qu'on trouve dj dans la technologie des machines  crire  Barres  caractres. Sur l'image 13, on voit le chariot d'criture avec son support de la boule, qui se trouve  droite dans la machine. Les deux lments ronds en plastique blanc dentels sur les bords, sont les lments d'entranement du ruban encreur du modle IBM 72. Sur le modle 82 on trouve un nouveau mcanisme adapts aux nouvelles cassettes rubans carbone et au processus du ruban correcteur automatique.
+
+=== Chariot d'impression  son dplacement latral ===
+L'image 17 donne une vue de l'axe d'entranement du chariot de support de la boule. La poulie dente en plastique blanc entrane une des cordes qui tirent le chariot. Il y a une deuxime poulie, cache  l'arrire, que l'on devine sur l'Image 14, dessous  l'arrire du chariot. Sur cet axe, on voit au milieu un embrayage  ressort (spring-clutchs) de couleur lgrement orange et un peu plus sur la gauche autre de couleur gris. Suivant si ces embrayages sont activs, ils entranent les roues crantes grise, qui font avancer le chariot dans un sens ou dans l'autre. Donc pour avancer avec la fonction de Retour  la ligne (qui va  gauche du papier) ou pour avancer jusqu'au prochain tabulateur (avance contre la droite). Ces embrayages sont activs ou pas, suivant s'ils sont serrs ou pas sur l'axe de transmission par un sabot. Sur la droite de l'embrayage gris (Image 17), on voit sur son arrire un sabot plastique blanc. Si celui-ci est activ il s'appuie sur l'embrayage, de ce fait il le serre et le rend solidaire de l'axe et de ce fait actionne la roue dente grise, qui fera tourner la poulie blanche dans un sens. L'embrayage rouge la fera tourner dans l'autre sens.
+ droite de cette image 17, on voit une came ronde mtallique. Sur l'Image 19, on voit ces deux cames dans leur ensemble. Celles-ci interviennent pour le dplacement caractre par caractre du chariot, que ce soit lors de la frappe ou en espaces d'espace ou Spacebar ou en arrire ou Backspace ou encore lors de la correction.
+
+==== La touche morte (^) et la Force de frappe ====
+La "touche morte" et celle qui permet de frapper le circonflexe (par exemple: ^ ). Cette touche se frappe en premier, mais en ce cas le chariot de la machine n'avance pas (ce pourquoi on la nomme "la touche morte". Elle attend que vous ayez frapp le caractre suivant, qui irra sous le circonfexe (un exemple: tte).
+
+==== Rglage de la force de frappe ====
+Sur la droite de l'image 15 on voit un petit bouton rouge; celui-ci sert  rgler la force de frappe sur le papier.
+
+==== Les tabulateurs ====
+Sur l'image 18, on voit dans le fond de la machine, la barre transversale avec des taquets tous les 5 millimtres environ. Ce sont les taquets de tabulateurs. Si on regarde bien cette barre, le 7e taquet depuis la gauche est enclench, c'est l'emplacement d'un tabulateur.
+L'images 20 nous donne une autre vue lathrale de l'intrieur de la machine.
+
+== Service technique ==
+
+=== Rparations et entretien des machines ===
+
+Pour contrler et affiner les rglages, il faut pouvoir activer lentement la mcanique des diverses fonctions. Sur l'image 22, on voit la mollette que le technicien a fixe sur la droite de l'arbre de transmission principal, afin de pouvoir faire tourner manuellement et lentement le mcanisme.
+Pour rparer cette machine, il faut des petits outils, genre cl  fourche, cl Imbus, brucelles, crochet  ressort, pince  clips, pinces, fixe vis, tournevis, etc. Sur l'image 23, on voit quelques-uns de ces outils spciaux pour la petite mcanique (on dirait presque des outils de dentiste !).
+Les pas ou format des vis, vis imbus et crous sont au format amricain, nomm SAE ou systme Sellers. Du fait que ces outils, vis, pices de rechange et informations techniques n'taient pas ordinairement disponibles dans le commerce courant, les clients taient presque amens  recourir aux services de la socit IBM pour l'entretient et les rparations.
+
+=== Service aprs-vente, rparations et entretien ===
+La socit IBM proposait un contrat de service technique tout inclus. Ce service comprenait les rparations, les pices de rechange, les dplacements et un ou deux services d'entretien par anne. Selon le type de bris ou de casse, la socit dcidait si elle honorait ou non le contrat en changeant gratuitement la pice. Par exemple: si une dent de la boule tait use, cela provenait gnralement d'un drglage du mcanisme et en ce cas la boule tait change gratuitement. Par contre, si une dent tait casse, cela provenait gnralement du fait que l'utilisateur avait laiss tomber la boule. Il y avait aussi le cas d'un caractre cass ou abim. Cela provenait gnralement du fait que l'on avait mis du papier avec une agrafe mtallique dans la machine et que la machine avait frapp (crit) sur cette agrafe et de ce fait endommag un caractre de la boule. Ces deux derniers cas taient considrs de cas en cas,  savoir si le remplacement de la boule tait gratuit ou  la charge du client.
+La socit IBM mettait une grande importance commerciale sur son temps d'intervention. Elle avait mis en place un systme de communication entre les techniciens et la base, qui faisait que la rapidit d'intervention de ce service se dmarquait fortement vis--vis de la concurrence. Ces communications passaient dans les premires annes par des contacts tlphoniques rguliers que devait avoir le technicien avec la secrtaire-tlphoniste responsable. Par la suite, ce fut au moyen d'une petite radio dont tait quip chaque technicien.
+Chaque technicien avait dans sa valise un jeu de pices de rechanges, tudi en relation avec celles qui taient le plus couramment utilises, que ce soit dans l'entretien courant ou pour les rparations. Cependant, si une pice manquait et qu'il la fallait dans l'urgence, un responsable de la socit pouvait l'amener chez le client ou la faire livrer par un taxi. Il y avait des cas o la pice n'tait pas en stock  l'agence rgionale. En ce cas, elle tait commande en express au stock central du pays et tait disponible chez le client dans l'espace de quelques heures.
+
+=== Le technicien ===
+Les candidats  un engagement comme technicien chez IBM taient choisis  la suite de tests de comptences, ainsi que de ses motivations pour la fonction et de sa personnalit. Les premiers pas du nouveau technicien dans l'entreprise commenaient par une solide formation technique. En parallle de celle-ci, il y avait aussi les  Cours Contact Client  (CCC). Le technicien se devait de reprsenter l'image de l'entreprise auprs de la clientle,  la fois par son comportement et son habillement. Le port de la veste et de la cravate tait obligatoire, que ce soit internet entreprise et chez la clientle.
+
+Les cadres ou suprieurs taient en gnral des personnes qui avaient commenc comme techniciens. Ils taient choisis selon leurs comptences. En plus de leurs activits de manager, ces responsables avaient fonction de soutenir les techniciens en cas de problme.
+
+== Nomenclature IBM ==
+Les informations et termes techniques taient surtout bass sur les termes en anglais. La documentation en anglais tait base sur environs 300 mots de cette langue, que le technicien tait encourag  connatre. Le nom des pices taient gnralement toutes en anglais, ce qui signifiait que le personnel parlait de  tilt ,  rotate ,  clutch ,  tape ,  spring , etc., sans forcment en connatre le nom correspondant en franais.
+Quelques mots de cette nomenclature de la machine IBM  boule, en anglais avec un essai de traduction:
+ keyboard  : clavier
+ backspace  : espacement arrire
+ spacebar  : barre d'espace
+ carriage return  : retour de chariot
+ shift  : majuscule
+ keyboard  : clavier
+
+ tilt  : lvation en hauteur
+ rotate  : rotation dans le sens circonfrentiel
+ tape  : cble mtallique plat
+ typewriter  : machine  crire
+ shaft  : arbre de transmission
+ arm  : bras mtallique articul
+ latch  : loquet
+ ring  : support de tte
+ interpose  : lments de codage mcanique sous chaque touche clavier
+ crosswise bars  : barres transversale (sous interposer)
+ link  : tringles de connexion
+ clutch  : embrayage
+ spring  : ressort
+ spring clutch  : embrayage  ressort sur un axe.
+
+== Notes et rfrences ==
+
+== Source ==
+Perrier, Machines de bureau et muse de la machine  crire, Lausanne.  mis  disposition une IBM 72/Selectric, pour la prise de vue de photos technique, sous le capot.
+Page de Perrier sur Wikipdia Muse de la machine  crire de Lausanne
+
+== Annexes ==
+
+=== Article connexe ===
+IBM
+
+=== Liens externes ===
+Machine  crire Mignon, photo et descriptif
+(en)  Film sur le Wiffletree, balancier , sur hackaday.com
+[vido] (en) Mcanisme pendant la frappe Par Mashpedia Vido
+(en) Un peu d'histoire et de technique
+(en) Dtail sur l'histoire de l'IBM  boule sur Magic Margin
+(en) De la machine mcanique  une utilisation lectronique
+(en) Un historique de l'IBM  boule
+(en) Historique de l'IBM  boule sur la Wikipdia en anglais
+Des images de l'IBM  boule
+Un historique en image de la machine  crire
+Petit historique de la machine  crire
+ Portail des technologies
+ Portail de lcriture

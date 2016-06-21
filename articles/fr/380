@@ -1,0 +1,142 @@
+Le systme dinformation est un lment essentiel de lentreprise de nos jours. Les entreprises sont prtes  investir de fortes sommes afin dobtenir un systme dinformation performant et adapt  leur activit. Cest galement un enjeu majeur pour la comptitivit de lentreprise.
+Cependant, comment savoir si le systme dinformation en place est adapt  lentreprise ? Il se pose donc le problme de lvaluation des systmes dinformation.
+
+== Pourquoi valuer ? ==
+Les objectifs de lvaluation dun systme dinformation sont nombreux pour une entreprise. Cela permet de vrifier la contribution du SI  la performance de lentreprise, et favorise le progrs dans lorganisation, avec lapprentissage organisationnel. On voit galement un objectif de motivation et de guide des acteurs en les situant dans une perspective damlioration continue, ou encore valuer la qualit des actes de gestion et lusage des ressources.
+
+== Quand valuer ? ==
+La premire valuation est effectue pendant la phase de conception du systme dinformation dans le but daffecter des ressources matrielles, logicielles, ou mme personnelles au projet de mise en place dun nouveau systme.
+La premire valuation denvergure aprs implantation doit tre ralise six mois aprs la n de la phase de mise en uvre, et annuellement par la suite, pour assurer lalignement optimal des processus avec le nouveau logiciel. De plus, la fonctionnalit et la capacit  produire des bnfices doivent tre analyses pour dterminer ce qui est utilis ou non. Sur cette base, il est alors possible de dcouvrir des opportunits dutiliser mieux le logiciel ou linformation. Il est important que les procdures de rvision soient intgres dans les cycles de planification de linstitution. Il est ainsi recommand de raliser une rvision de routine un ou deux mois avant lexercice annuel de planification stratgique et budgtaire.
+
+== Par qui valuer ? ==
+Lvaluation dun systme dinformation est, le plus souvent, fait par des personnes extrieures  lentreprise, appartenant  un cabinet daudit. On distingue deux types daudit pour un systme dinformation :
+Audit oprationnel : permettant de vrifier lefficience et l'efficacit des SI. Cet audit va vrifier la gestion du SI en analysant de manire globale le systme mis en place. On aura ainsi une vision de la performance du systme dinformation et de lorganisation de ce dernier.
+Audit financier : permettant de vrifier la validit des informations et donc la qualit de la scurit dans les SI. Cet aspect de laudit va vrifier que les informations transmises par le SI ne sont pas errones, mais aussi la cohrence de ces informations. Par exemple, si une entreprise a un logiciel de comptabilit, vrifier que le compte de rsultat indiqu par le logiciel soit en accord avec les informations rentres par les utilisateurs.
+
+== Comment valuer ? ==
+Lvaluation d'un systme d'information doit se faire sur une priode plus ou moins longue. La dtermination de la dure sur laquelle on fait porter lvaluation est primordiale, et doit ncessairement tre la mme pour le calcul des cots et des gains. Une dure de 3  5 ans est recommande afin dobtenir, dune part, une bonne appropriation de loutil par les utilisateurs, et de pouvoir dmontrer, dautre part, un dlai de recouvrement suffisamment rapide. Le choix de la dure reste nanmoins fonction de la nature du projet et de son niveau de complexit.
+
+=== Critres classiques d'valuation des processus ===
+
+==== Cot ====
+Dans les faits, le systme dinformations reprsente une part importante des dpenses de lentreprise, croissante dans de nombreuses industries. Il est peru comme trop cher car la valeur quil produit est difficile  apprhender. Dans une grande entreprise dun secteur de services tel que la banque, lassurance ou les tlcommunications, les logiciels accumuls reprsentent plusieurs centaines de millions deuros. Ils sont mesurs en utilisant des  points de fonctions , qui sont lquivalent abstrait, dun point de vue fonctionnel, des composants lmentaires dun systme physique. L o un avion moderne comporte plusieurs millions de composants (par opposition  une automobile pour laquelle on compte par milliers), les SI des grandes entreprises mentionnes comptent des millions de points de fonctions. Lessentiel des cots du SI est directement li  cette mesure, quil sagisse de cots dacquisition du logiciel (de lordre de 200 euros par point de fonction) ou de cots dexploitation (reprsentant environ 15 % des cots dacquisition).
+Les cots dun projet informatique sont donc, a priori, fonction de deux facteurs :
+le poids fonctionnel du projet, que lon mesure prcisment avec des points de fonction
+les exigences  non fonctionnelles .
+Ces exigences sont dterminantes dans le cot des projets, ce qui a t tabli scientifiquement par la mthode Cocomo. Cest la premire cause dincomprhension des cots de la DSI. Nous avons tous dj entendu un avis du type :  Je ne comprends pas, la DSI rclame 100 000 euros pour faire un projet quun stagiaire pourrait faire en six mois et quune start up ferait pour 20 000 euros . Il y a de nombreuses raisons pour une telle diffrence de prix (et toutes ne sont pas acceptables), mais les raisons principales sont lies aux exigences non fonctionnelles dont la disponibilit, la performance et linteroprabilit sont les trois plus importantes.
+Comment valuer le retour sur investissement des systmes dinformations?
+Lapproche de retour sur investissement est focalise sur la mise en vidence du rapport entre les cots dun systme dinformation et les bnfices quil apporte  lorganisation qui laccueille, dans une logique doptimisation gnrale.Le retour sur investissement  ROI : Return On Investment - dsigne le rapport entre les montants cumuls des gains et de cots gnrs par un projet. Il permet dvaluer le niveau de rentabilit de linvestissement et sexprime le plus souvent en taux (pourcentage de linvestissement).
+ROI = (Gains-Cots)/Cots
+Par exemple : pour un investissement de 1000, rapportant 1200, le ROI est de :
+(1200-1000)/1000=20% 
+Quelle que soit la nature des gains propres au projet, les consquences potentielles se mesurent toujours par diffrence  la situation ou trajectoire actuelle, en termes : 
+Daugmentation des gains (financiers, qualit de service, etc.)
+Dacclration des gains (diminution des cots de fonctionnement, raccourcissement des dlais de recette, etc.)
+De rduction des cots de lactivit ou du processus concern par le projet.
+De manire gnrale, les gains sont par nature trs dpendants du type dactivit ou secteur.
+
+==== Dlai ====
+Le respect des dlais est un critre primordial de lvaluation dun systme dinformation. Nanmoins, comment ces dlais sont-ils estims, et pourquoi paraissent-ils parfois excessifs? Diffrentes mthodes sont utilises pour estimer les dlais de conception dun systme dinformation par la DSI, comme le modle Cocomo de Boehm par exemple.
+Ils prennent en compte plusieurs tapes ncessaires  la ralisation dun systme dinformations telles que ltude pralable (observations et collecte des informations, conception et organisation, apprciation), la conception dtaille, ltude technique, la ralisation et la mise en uvre. Il est  savoir que les phases dtude et de conception occupent la majeure partie du temps. En effet, plus les tudes seront menes srieusement, plus la phases de mise en uvre du systme dinformation sera rapide. De plus, il est vident que le temps octroy  ltude dpend de la surface  tudier: plus le primtre  prendre en compte est important, plus ltude sera longue.
+De manire gnrale, le temps est dcoup de la faon suivante:
+Analyse: 20%
+Conception: 30%
+Codage : 40%
+Dbogage, test et correction: 10%
+Les phases danalyse et de conception sont donc les plus importantes pour avoir le moins possible de corrections  apporter au code, et ainsi limiter le cot d  ces corrections derreurs.
+Enfin, le dlai est parfois allong pour des questions de risques. Il est en effet conseill au chef de projet de recenser, en dbut de conception, tous les risques potentiels auxquels le projet pourrait tre soumis (absence demploys, panne de matriel, problmes logistiques), dvaluer leur probabilit dapparition, et de prendre les prcautions ncessaires en fonction de ces dernires. Ces prcautions seront videmment partiellement temporelle, et ajouteront un dlai supplmentaire  celui estim dans le cadre dun risque zro.
+
+==== Qualit ====
+La qualit dun produit ou dun service est son aptitude  satisfaire les besoins des utilisateurs, en termes de fonctionnalits, dlais, cots.
+En 1992, DeLone et McLean proposent un modle de succs des SI intgrant diffrentes mesures, dont la qualit :
+Qualit du systme technique
+Qualit de linformation produite
+Degr dutilisation (temps rel dutilisation, nombre de logiciels ou de fonctionnalits utiliss, etc.)
+Satisfaction de lutilisateur (traduisant lattitude de lusager  lgard du produit ou de loutil, etc.)
+Impact sur la performance individuelle (effet sur le temps et la qualit de la dcision, effet sur le niveau defforts, gains en productivit, amlioration de la qualit de vie au travail, etc.)
+Impact sur la performance de lorganisation (efficience gnrale, performance financire, avantage comptitif, flexibilit, cration de valeur, etc.)
+La qualit du systme technique reprsente  la fois un accs facile, un usage convivial, un temps de rponse court, un outil de travail pratique pour lutilisateur, qui lui permet de travailler de manire plus efficace, sans pour autant altrer  ses fonctions. La qualit de linformation produite inclut quant  elle la prcision de linformation, son accessibilit, son exhaustivit, sa fiabilit, etc. Lutilisateur doit se sentir en confiance pour ne pas tre gner dans son travail.
+De manire gnrale, un systme dinformation de bonne qualit devra rpondre aux besoins de lutilisateur en lui permettant dtre plus productif dans son travail, sans pour autant le dstabiliser dans sa manire de faire les choses. Lutilisateur doit sentir que le systme dinformations lui est adapt, et non que cest  lui de sy adapter.
+
+Ce modle montre trs clairement que la qualit du systme et la qualit de linformation sont des attributs spcifiques du SI qui vont dterminer le jugement dun utilisateur (en termes de satisfaction et dutilisation) relatif  ce SI. La partie droite du modle se rfre  la notion dimpact, donc de consquences de lutilisation dun SI, au niveau de lutilisateur puis  celui de lorganisation. Si lon considre la partie gauche de ce modle, on y trouve les lments dune mesure de la performance spcifique.
+Ce modle de la mesure de la performance dun SI a fait lobjet dune actualisation (2003) tenant compte des recherches effectues et de lexprience. La mesure de la qualit possde trois dimensions majeures:
+la qualit du systme
+la qualit de linformation
+la qualit du service.
+Cette dernire dimension intgre le fait que les applications soient  jour, scurises, les employs du service SI ractifs et comptents et quils manifestent de lempathie  lgard des utilisateurs.
+
+=== Critres relatifs  l'information et scurit ===
+
+==== Disponibilit ====
+Le systme doit fonctionner sans faille durant les plages d'utilisation prvues, et garantir l'accs aux services et ressources installes avec le temps de rponse attendu. La disponibilit est en fait dfinie par son complment : le temps maximal dindisponibilit, quil sagisse darrt programm (le soir, les week-ends) ou des incidents. La nature stratgique de lactivit du SI conduit  des exigences de plus en plus strictes (7 jous/7, 24 heures/24, disponibilit  99,9 %, voire 99,99 %). Ces exigences ont un impact direct sur les cots, quil sagisse de matriel (la disponibilit sobtient par leur redondance) ou de logiciel. Boehm Cocomo cite des surcots de 30  50 % sur le simple aspect du dveloppement.
+
+==== Intgrit ====
+L'intgrit est la garantie que le systme et l'information traite ne sont modifis que par une action volontaire et lgitime. Lintgrit des donnes est donc la confirmation que les donnes qui ont t envoyes, reues ou stockes sont compltes et n'ont pas t modifies de faon fortuite. Elles doivent tre ce que lon sattend  ce quelles soient.
+
+==== Confidentialit ====
+Seules les personnes autorises ont accs aux informations qui leur sont destines. Tout accs indsirable doit tre empch. Afin dassurer cette confidentialit de linformation, il peut tre mis  disposition de lutilisateur un systme dauthentification.
+
+=== Critres relatifs au futur ===
+
+==== Maintenabilit ====
+Au del de la conception, la maintenance d'un systme d'information est galement un critre d'valutation  prendre en compte. En effet, il existe un risque que le SI ne soit pas assez nettoy (voire pas nettoy du tout) de ses fonctionnalits inutilises. Pourtant une application sous-utilise ou mal utilise cote presque aussi cher quune application  populaire . Certes, laccumulation de gnrations de logiciels est un vritable casse-tte, mais le nettoyage est galement une discipline exigeante et difficile  ne pas ngliger.
+
+==== volutivit ====
+Les SI doivent pouvoir voluer. 80% des informaticiens soccupent de la maintenance (volutive et corrective), 20% de nouveaux projets.
+
+=== Critres relatifs au pass ===
+Les systmes dinformations doivent souvent prendre en compte un suivi de lactivit afin de respecter des normes de traabilit de linformation. Cela peut tre un enjeu majeur dans certaines entreprises comme dans le domaine de lalimentaire par exemple. On peut donc distinguer deux critres principaux permettant de tracer linformation.
+
+==== Non-rpudiabilit ====
+La rpudiation est le fait de nier avoir particip  des changes, totalement ou en partie. Dans la non rpudiation, l'objectif est de donner des preuves indiscutables de l'excution d'oprations, les parties impliques ne pouvant plus nier les faits. De ce fait, le systme dinformation doit permettre de garder une trace des personnes, des acteurs, impliqus dans les changes. Par exemple, connatre les fournisseurs de matires premires.
+
+==== Traabilit ====
+Le SI doit permettre une traabilit de linformation,  des fins lgislatives ou dcisionnaires. La traabilit est un moyen complmentaire aux mthodes habituelles contribuant  la protection de lintgrit des donnes du systme dinformation. Cela permettra en cas de problmes de cohrence des donnes, ou encore denqutes judiciaire, de retrouver la cause de lincident.
+
+=== Critres relatifs  la lgislation ===
+Lintgration dun systme dinformation au sein dune entreprise ne doit en rien entraver la protection des personnes ni des biens de lentreprise.
+
+==== Protection des personnes ====
+En France, la loi informatique et liberts impose que les organismes mettant en uvre des fichiers garantissent la scurit des donnes qui y sont traites. Cette exigence se traduit par un ensemble de mesures que les dtenteurs de fichiers doivent mettre en uvre, essentiellement par lintermdiaire de leur direction des systmes dinformation ou de leur responsable informatique.
+Dix conseils pour la scurit du systme dinformation selon la CNIL:
+Adopter une politique de mot de passe rigoureuse
+Concevoir une procdure de cration et de suppression de comptes utilisateurs
+Scuriser les postes de travail
+Identifier prcisment qui peut avoir accs aux fichiers
+Veiller  la confidentialit des donnes vis--vis des prestataires
+Scuriser le rseau local
+Scuriser laccs physique aux locaux
+Anticiper le risque de perte ou de divulgation des donnes
+Anticiper et formaliser une politique de scurit du systme dinformation
+Sensibiliser les utilisateurs aux  risques informatiques  et  la loi informatique et liberts
+
+==== Protection des biens ====
+Le systme doit tre protg face aux tentatives de piratage, dintrusion, de virus, cela est dtaill dans l'article sur la Scurit des systmes d'information
+
+=== Critres relatifs au processus de dveloppement ===
+
+==== Plan qualit ====
+Le systme d'information mis en place doit respecter la Srie des normes ISO 9000.
+
+==== Plan qualit logiciel ====
+Un plan qualit logiciel est un document dcrivant les dispositions spcifiques prises par une entreprise pour obtenir la qualit du produit ou du service considr.
+
+== Articles connexes ==
+Systme d'information
+Gouvernance des systmes d'information
+Gouvernance des technologies de l'information
+Scurit du systme d'information
+Directeur des systmes d'information
+
+== Bibliographie ==
+Robert Reix, Bernard Fallery, Michel Kalila, Frantz Rowe, Systmes d'information et management des organisations, Vuibert, 471 p. (ISBN 978-2-7117-4381-0)
+(en) Kenneth Laudon, Jane Laudon, Management information systems, Pearson, 2009
+(en) Raymond McLeod, Management Information Systems, Pearson, 2006
+(fr) Pierre Pezziardi, Une Politique pour le Systme d'Information - Descartes, Wittgenstein, "XML", OCTO, 2006 ISBN 978-2-9525895-0-5
+Pascal Vidal, Philippe Planeix, Systmes dinformation organisationnels, Pearson, 2005 (ISBN 2-7440-7119-6)
+Marie-Hlne Delmond, Yves Petit, Jean-Michel Gautier, Management des systmes dinformation, Dunod, 2008
+
+== Notes et rfrences ==
+
+Portail de linformatique
+ Portail des entreprises

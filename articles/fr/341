@@ -1,0 +1,48 @@
+libavcodec est une bibliothque libre crite en C, dveloppe dans le cadre du projet FFmpeg. Elle permet de dcoder et d'encoder de nombreux codecs audios et vidos. Elle est distribue sous licence GNU LGPL et est disponible sous Linux (Unix), Mac OS X et Windows.
+Cette bibliothque est indissociable de libavformat et libavutil.
+
+== Codecs vido implments ==
+MPEG-1
+MPEG-2
+MPEG-4 Part 2
+H.261
+H.263
+H.264 (dcodage seulement)
+WMV (WMV9: dcodage seulement)
+Sorenson codec
+Cinepak
+MJPEG
+Huffyuv
+Snow
+Theora
+VP3
+Xvidcap
+
+== Codecs audio implments ==
+Apple Lossless
+Cook Codec
+FLAC
+MP2
+MP3 (dcodeur natif, encodage par LAME)
+Shorten
+QDM2
+RealAudio 1.0
+RealAudio 2.0
+Vorbis
+Windows Media Audio
+
+== Applications qui utilisent libavcodec ==
+Avidemux
+ffdshow
+FFmpeg
+GStreamer
+Kdenlive
+MPlayer
+MPlayerXP
+VLC media player
+xine
+Chroma Player
+Blender (depuis la version 2.42)
+DvPlayer
+ Portail des logiciels libres
+ Portail de linformatique

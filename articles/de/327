@@ -1,0 +1,38 @@
+Die Linard-Wiechert-Potentiale (Emil Wiechert fhrte unabhngig von Alfred-Marie Linard (1898) in einem Aufsatz 1900 die nach beiden benannten Linard-Wiechert-Potentiale einer bewegten Ladung ein) beschreiben die elektrischen und magnetischen Felder, die von einer bewegten elektrischen Punktladung erzeugt werden. Sie verallgemeinern das Coulomb-Potential, das von einer ruhenden Punktladung erzeugt wird und keinen magnetischen Anteil hat, und stellen eine Nherung an das Potential dar, welches sich durch den Doppler-Effekt bei hohen Energien einstellen wrde.
+Das skalare Linard-Wiechert-Potential ist ein modifiziertes Coulomb-Potential. Das Vektorpotential, das die Information ber das Magnetfeld enthlt, ist im Wesentlichen das skalare Potential multipliziert mit der Teilchengeschwindigkeit.
+Gegenber dem Coulomb-Potential bestehen folgende Unterschiede:
+Die Felder, die man zum Zeitpunkt  beobachtet, werden von dem Teilchen zu einem zurckliegenden (retardierten) Zeitpunkt  erzeugt. Die Differenz  ist gleich der Laufzeit vom Teilchen zum Beobachter mit Lichtgeschwindigkeit.
+Es gibt einen Verstrkungsfaktor, wenn sich das Teilchen auf den Beobachter zubewegt (Abschwchungsfaktor, wenn es sich wegbewegt). Der Verstrkungsfaktor geht gegen unendlich, wenn die Teilchengeschwindigkeit gegen die Lichtgeschwindigkeit geht.
+Aus den Potentialen knnen die elektrische und magnetische Feldstrke durch Ableitungen nach Raum- und Zeitkoordinaten gewonnen werden (siehe auch Potentiale und Wellengleichung der Elektrodynamik). Die Feldstrken zerfallen in einen Geschwindigkeits- und einen Beschleunigungsanteil. Der Anteil, der nur die Teilchengeschwindigkeit enthlt, ist in der Nhe des Teilchens stark, in groem Abstand dagegen schwach (kein Fernfeld). Der zur Beschleunigung proportionale Anteil fhrt zur Abstrahlung von Energie ins Unendliche .
+
+== Die Formeln ==
+Der Ort des Teilchens wird als vorgegebene Funktion  betrachtet. Wie die Bahnkurve zustande kommt (etwa durch elektromagnetische Felder, die Krfte auf das Teilchen ausben) wird nicht in Betracht gezogen. Im Internationalen Einheitensystem lauten die Linard-Wiechert-Potentiale (nach , jedoch fr Felder im materiefreien Raum formuliert)
+
+Der Punkt ber einem Vektorsymbol bedeutet Ableitung nach der Zeit. Der Index ret bedeutet, dass Teilchenposition und -geschwindigkeit zum retardierten Zeitpunkt zu nehmen sind. Der Vektor  ist der Einheitsvektor, der vom Sende- zum Empfangspunkt zeigt. Fr den retardierten Zeitpunkt gilt die implizite Gleichung
+
+Abgesehen vom Spezialfall gleichfrmiger Bewegung ist die Auflsung nach  oft nur nherungsweise mglich.
+
+== Anwendungen ==
+
+=== Synchrotronstrahlung ===
+Hierbei bewegt sich das Teilchen auf einer Kreisbahn mit einer Geschwindigkeit  nahe der Lichtgeschwindigkeit . Der geschwindigkeitsabhngige Faktor nimmt dann bei jedem Umlauf einen hohen Spitzenwert an. Denn wenn die tangentiale Richtung der Geschwindigkeit mit der Richtung zum Beobachter bereinstimmt, d.h. wenn  parallel zu  ist, dann gilt mit
+
+wobei  den Lorentzfaktor bezeichnet. Die Potentiale und Feldstrken sind damit proportional zu . Weil die Feldstrken quadratisch in die Strahlungsenergie eingehen (siehe Poynting-Vektor) wird die Energie der Synchrotronstrahlung proportional zu .
+
+=== Beschleunigtes Teilchen mit niedriger Geschwindigkeit in groer Entfernung ===
+Niedrige Geschwindigkeit hat man zum Beispiel am Beginn eines Beschleunigungsvorganges. Groe Entfernungen sind der Bereich, der fr elektromagnetische Strahlung relevant ist. Mit dieser Spezialisierung vereinfachen sich die Ausdrcke fr die elektrische und magnetische Feldstrke (siehe  im Limes ). Fr das Magnetfeld gilt
+
+Die elektrische Feldstrke folgt daraus mit einer allgemeinen Relation fr Felder in der Fernzone
+
+Damit ist die ins Unendliche gehende Energiestromdichte (Poynting-Vektor) im Abstand  betragsmig gleich
+
+wobei  der Winkel zwischen dem Beschleunigungsvektor und der Beobachtungsrichtung ist. Den Energiestrom pro Raumwinkel erhlt man durch Weglassen des  im Nenner.
+Herleitung des B-Feldes: Die Teilchengeschwindigkeit soll klein gegenber der Lichtgeschwindigkeit sein, so dass alle Terme vernachlssigt werden knnen, die im Ergebnis einen Faktor  enthalten. Wenn Ableitungen nach  auf die retardierte Zeit wirken, braucht deswegen der Teilchenort nicht mitdifferenziert zu werden. Damit gilt nherungsweise
+
+Bei Ableitungen des Vektorpotentials darf der Faktor  nicht stehenbleiben; also muss berhaupt nur dieser Faktor differenziert werden. Fr das Magnetfeld erhlt man so
+
+wobei eine Kettenregel fr die Rotation benutzt wurde. Auerdem wurde  benutzt.
+
+== Einzelnachweise ==
+ a b c W. Nolting, Grundkurs Theoretische Physik, Band 3 Elektrodynamik, 8. Auflage, Springer 2007, Abschnitt 4.5.5
+ J. D. Jackson, Klassische Elektrodynamik, 4. Auflage, de Gruyter 2006, Abschnitt 9.8. Dort wird gezeigt, dass die Relation fr alle Multipolordnungen gilt. Vorsicht: Der Ausdruck fr  auf Seite 472 enthlt zwei Druckfehler; richtig ist  fr das Vakuum, siehe Abschnitt Feldwellenwiderstand im Hauptartikel Wellenimpedanz

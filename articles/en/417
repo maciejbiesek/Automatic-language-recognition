@@ -1,0 +1,11 @@
+Dialed Number Identification Service (DNIS) is a service sold by telecommunications companies to corporate clients that lets them determine which telephone number was dialed by a customer. This is useful in determining how to answer an inbound call. The telephone company sends a DNIS number to the client phone system during the call setup. The DNIS number is typically 4 to 10 digits in length.
+Any DID (Direct inward dial) number will have a DNIS. This is the number sent from the central office to the PBX (Private branch exchange) or key system, telling the telephone system which number was dialed.
+For example, a company may have a different toll-free telephone number for each product line it sells. If a call center is handling calls for multiple product lines, the switch that receives the call can analyze the DNIS and play an appropriate recorded greeting. A company may also use multiple toll free numbers for multilingual customer support, for which each support language is associated with a dedicated toll free number.
+With interactive voice response (IVR) systems, DNIS is used as routing information for dispatching purposes, to determine which script or service should be played based on the number that was dialed to reach the IVR platform. e.g. 0906 123 4567 and 0906 123 4568 may both connect to the same IVR system but one number or last 4 digit only may be required to provide a competition service and the other might be an information line. The DNIS is what distinguishes these lines or the last n digits from each other and hence the IVR will know which service to provide to the caller.
+DNIS is commonly used for 800 and 900 services. DNIS differs from DID in that DID is always a subset/or complete set of the number dialed and DNIS is a part of the DID number or DID number dialled itself is DNIS.
+
+== See also ==
+Direct inward dialing
+Automatic number identification
+
+== References ==

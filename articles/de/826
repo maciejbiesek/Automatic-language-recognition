@@ -1,0 +1,32 @@
+Als Linearisierer werden elektronische Schaltungen bezeichnet, mit deren Hilfe das nichtlineare Verhalten von Verstrkern bei maximaler Aussteuerung verbessert wird.
+Die Umsetzung erfolgt beispielsweise durch Schaltungsgruppen mit dem inversen Verhalten des Verstrkers. Diese wirken den Nichtlinearitten entgegen und minimieren die Verzerrungen. Dadurch erhht sich der linear aussteuerbare Leistungsbereich bis hin zur Nennleistung des Verstrkers. Diese Linearitt ist besonders bei der Verarbeitung von modulierten Signalen erforderlich. Linearisierte Verstrker besitzen einen deutlichen hheren Wirkungsgrad mit verbesserter Signalqualitt. Es gibt mehrere Mglichkeiten den Verstrker zu linearisieren. Hierzu gehren zum Beispiel Vor-/Nachverzerrung und rckgekoppelte Schaltungskonzepte. Am gebruchlichsten ist die Realisierung mit Vorverzerrern.
+
+== Funktionsweise von vorverzerrenden Linearisierern ==
+In realen Verstrkern entstehen Nichtlinearitten durch abnehmende Verstrkung und Phasennderungen bei Aussteuerung nahe der Nennleistung. Dieses Verhalten wird im Allgemeinen als Kompression bezeichnet. Der vorverzerrende Linearisierer ist derart ausgelegt, dass er diese nderungen kompensiert. Dies wird - analog zur Kompression - als Expansion bezeichnet.
+
+In Abbildung 1 ist die Verstrkung in Abhngigkeit von der Eingangsleistung dargestellt. Ab einer bestimmten Eingangsleistung setzt die Kompression des Verstrkers ein (rote Kurve). Schaltet man vor den Verstrker einen vorverzerrenden Linearisierer (blaue Kurve), wird der Kompressionseffekt bis zu einem gewissen Leistungspegel ausgeglichen (grne Kurve). Der Leistungspegel, an dem die Verstrkung des Gesamtsystems abnimmt, wird somit zu hheren Leistungen verschoben und der lineare Bereich vergrert. Durch den Einsatz des Linearisierers lsst sich in der Praxis die lineare Ausgangsleistung des Verstrkers deutlich erhhen (bis zum Vierfachen).
+
+Der erhhte lineare Leistungsbereich wird auch in Abbildung 2 veranschaulicht (hellblau hinterlegter Bereich). Die Grafik zeigt hier das Verhltnis von Eingangs- und Ausgangsleistung eines Verstrkers mit und ohne vorgeschalteten Linearisierer. Die gestrichelte Kurve zeigt die Ausgangsleistung des Verstrkers als Funktion der Eingangsleistung im logarithmischen Mastab. In dieser Darstellung zeigt sich die Kompression durch das Abknicken von der idealen 45-Linie. Der Verstrker mit vorgeschaltetem Linearisierer (durchgezogenen Linie) weicht dann von der idealen Geraden deutlich spter ab. Hellblau hinterlegt ist in der Grafik der durch den Vorverzerrer gewonnene zustzliche lineare Bereich der Ausgangsleistung.
+
+== Vorteile von vorverzerrenden Linearisierern ==
+Vorverzerrende Linearisierer arbeiten im Kleinsignalbereich und erhhen den DC-Stromverbrauch des Gesamtsystems nur geringfgig. Hieraus lassen sich u.a. weitere Vorteile ableiten:
+Geringe Abmessungen, geringes Gewicht
+Kostengnstig im Vergleich zu leistungsstrkeren Verstrkern bei gleicher Linearitt
+Umweltfreundlich, da das System effizienter wird
+Nachtrglich integrierbar
+Anpassung an diverse Verstrkertypen mglich
+Zuverlssig
+
+== Typische Eigenschaften eines vorverzerrenden Linearisierers ==
+Abmessungen: abhngig von der Aufbautechnik im Bereich weniger cm
+Gewicht: min. 20g bis ca. 200g abhngig von Ausbaustufe
+Frequenzbereiche: 1 bis 50 GHz mit unterschiedlichen Bandbreiten
+Expansionswerte:
+Verstrkung: bis 10 dB, abhngig von Verstrkerdaten
+Phase: bis 60
+
+== Anwendungsgebiete ==
+Linearisierer werden vorzugsweise bei Leistungsverstrkern mit Rhren (Wanderfeldrhren, Klystron, Magnetron) oder Halbleitern (GaN, GaAs, Si) eingesetzt. Diese Systeme werden in schnellen Datenbertragungssystemen wie z.B. Satellitenkommunikation, Internet und HD/3D-Fernsehen eingesetzt. An dieser Stelle wird eine hohe Signalqualitt gefordert. Die Optimierung der Verstrkereigenschaften ermglicht dabei eine ideale Leistungsausnutzung und fhrt zu Energieeinsparungen von mehr als 50 Prozent.
+
+== Weblinks ==
+http://www.astyx.net/satellitenkommunikation/linearisierer.html

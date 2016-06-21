@@ -1,0 +1,41 @@
+L'Inertial Upper Stage ou IUS (initialement Interim Upper Stage), est un tage suprieur de fuse dvelopp par la socit Boeing pour rpondre aux besoins de lancement de satellites gostationnaires et de sondes interplantaires par la navette spatiale amricaine en attendant la mise au point du Space Tug. Aprs l'abandon de ce dernier puis l'arrt de l'adaptation de l'tage Centaur aprs l'accident de la navette Challenger, l'IUS devient incontournable pour le lancement de satellites depuis la navette. Sa conception lui permet de servir d'tage suprieur au lanceur militaire Titan. Il comprend deux tages utilisant chacun un propulseur  propergol solide. Capable de placer un satellite de 2  3 tonnes sur une orbite gostationnaire, il est utilis  24 reprises entre 1989 et 2002 pour lancer des satellites de tlcommunications, des satellites militaires et des sondes spatiales ainsi qu'un tlescope spatial. L'arrt des lancements de satellite depuis la navette spatiale trop coteux puis le remplacement du lanceur Titan par les nouveaux lanceurs Atlas V et Delta IV entrainent son retrait du service.
+
+== Dveloppement ==
+Le dbut de la conception de l'IUS remonte  1969 lorsque les premiers travaux sur la navette spatiale amricaine sont entams. Cette dernire ne peut pas dpasser l'orbite basse ; pour lancer avec la navette un satellite sur les orbites plus hautes, en particulier l'orbite gostationnaire, la NASA envisage le dveloppement du Space Tug un remorqueur spatial rutilisable qui serait charg de transfrer le satellite de l'orbite basse vers son orbite dfinitive et pourrait se ravitailler auprs d'une station spatiale en orbite. En attendant la mise au point du Space Tug, la NASA et l'Arme de l'Air amricaine dcident de dvelopper un engin temporaire l'Interim Upper Stage (tage suprieur intrimaire). L'architecture de ce dernier fait l'objet de longues tudes et dbats. Finalement en 1985 le DOD propose de dvelopper un tage utilisant du propergol solide pour des raisons de cot ; cette solution est accepte par la NASA qui est  l'poque hostile  un tage  ergols liquides, comme le Centaur prconis par certains, qui pourrait s'avrer dangereux  transporter par la navette spatiale. Peu avant le lancement de l'appel d'offres l'Arme de l'Air amricaine dcide d'ajouter une clause au cahier des charges : l'IUS devra pouvoir servir d'tage suprieur au lanceur lourd Titan utilis par l'Arme pour lancer les satellites militaires les plus lourds et son avionique devra pouvoir guider le lanceur Titan ds le dbut du lancement. Fin 1977 le concept de Space Tug est abandonn par la NASA et l'IUS est rebaptis Inertial Upper System (Inertial parce que l'tage dispose de son propre systme de guidage). Le constructeur Boeing est retenu pour dvelopper l'tage et les dveloppements dbutent en avril 1978. Celui-ci rencontrent de nombreux problmes techniques touchant l'enveloppe du propergol, la tuyre dployable du second tage, le bloc de poudre, l'avionique et les logiciels de vol. Le projet est galement handicap par de nombreuses modifications du cahier des charges. Le vol inaugural de l'IUS a lieu le 30 octobre 1982 : il est utilis comme tage suprieur d'un Titan 34D pour placer en orbite gostationnaire deux satellites de tlcommunications militaires Defense Satellite Communications System. Malgr la perte de la tlmtrie durant le vol, les deux satellites atteignent leur orbite. Le second vol de l'IUS a lieu depuis la navette spatiale le 4 avril 1983 : le lancement du satellite de la NASA TDRS connait galement des pripties mais les controleurs parviennent  rtablir la situation,. L'arrt des lancements de satellite depuis la navette spatiale trop coteux et trop dangereux (dernier lancement en 1999) puis le remplacement du lanceur Titan par les nouveaux lanceurs Atlas V et Delta IV entrainent le retrait du service de l'IUS en 2004 aprs 24 vols et un seul chec imputable  l'tage.
+
+== Caractristiques techniques ==
+L'IUS est long de 5,18 mtres pour un diamtre de 2,8 mtres et un poids total de 14,742 tonnes. Il comprend deux tages utilisant chacun un propulseur  propergol solide. Le premier tage est propuls par un moteur Orbus 21 contenant 9,7 tonnes de propergol et gnrant une pousse de 188,5 kNewtons. Le second tage est propuls par un tage Orbus-6 contenant 2,7 tonnes de propergol avec une pousse de 80,8 kN. Le moteur principal peut fournir une pousse continue durant 150 secondes ce qui reprsente  l'poque un record. La charge en propergol peut tre modifie pour rpondre aux exigences en termes de dure et de profil de la pousse propres  la mission. L'IUS dispose d'un systme de guidage et de pilotage et est stabilis 3 axes. Il dispose pour ces besoins de 3 calculateurs redondants prenant leur dcision  la majorit, de deux centrales  inertie chacune comprenant 5 gyroscopes et 5 acclromtres et d'un viseur d'toiles. Les deux tuyres des propulseurs  propergol solide sont orientables. Par ailleurs l'tage dispose de petits propulseurs  hydrazine pour contrler son orientation,.
+L'IUS peut tre utilis par les lanceurs Titan-34D, Titan-4A-, Titan-4B et la navette spatiale amricaine. L'tage permet de placer sur une orbite gostationnaire des satellites dont la masse dpend du lanceur utilis :
+Navette spatiale: 2 268 kg
+Titan-34D : 1 817 kg
+Titan-4A : 2 364 kg
+Titan-4B : 2 860 kg
+
+== Mise en uvre ==
+
+== Historique des lancements ==
+L'IUS a t utilis  24 reprises pour lancer depuis la Navette spatiale amricaine ou le lanceur Titan :
+des satellites de tlcommunications de la NASA de la srie TDRS ;
+des satellites militaires de tlcommunications de la srie Defense Satellite Communications System ;
+des satellites d'alerte avance de la srie DSP ;
+des satellites de reconnaissance amricaine notamment de la srie Magnum ;
+trois sondes spatiales (Magellan, Ulysses, Galileo) et le tlescope spatial  rayons X Chandra.
+En octobre 1990, la sonde Ulysses prsentait la particularit d'avoir t lance en utilisant  la fois un IUS (numro de srie 17) et un Payload Assist Module (PAM-S), lequel rajoutait ainsi un troisime tage de propulsion aux deux de l'IUS, pour pouvoir atteindre la vitesse souhaite.
+
+== Notes et rfrences ==
+
+== Bibliographie ==
+(en) J. D. Hunley, U.S. space-launch vehicle technology : Viking to space shuttle, Gainesville, University Press of Florida, 2008, 453 p. (ISBN 978-0-8130-3178-1)
+
+== Voir aussi ==
+
+=== Articles connexes ===
+Navette spatiale amricaine
+Titan
+
+=== Liens externes ===
+(en) Histoire de l'IUS
+(en) L'IUS sur le site de la Federation of American Scientists
+
+Portail de lastronautique
+ Portail des forces armes des tats-Unis

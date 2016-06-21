@@ -1,0 +1,78 @@
+Le noyau atomique dsigne la rgion situe au centre d'un atome constitue de protons et de neutrons (les nuclons). La taille du noyau (10-15 mtre) est environ 100 000 fois plus petite que celle de l'atome (10-10 mtre) et concentre quasiment toute sa masse. Les forces nuclaires qui s'exercent entre les nuclons sont  peu prs un million de fois plus grandes que les forces entre les atomes ou les molcules. Un noyau instable est dit radioactif, il est sujet  une transmutation, soit spontane soit provoque par l'arrive de particules supplmentaires ou de rayonnement lectromagntique.
+
+== Caractristiques physiquesModifier ==
+L'atome a une structure lacunaire, cest--dire qu'entre les lectrons et le noyau il n'y a que du vide, du vide quantique donc pas vraiment vide puisque d'nergie non nulle.
+
+=== Composition et structureModifier ===
+
+Le noyau d'un atome est compos de particules appeles nuclons (des neutrons lectriquement neutres et des protons chargs positivement) extrmement lies ( l'exception de l'hydrogne dont le noyau est simplement constitu d'un unique proton). Sa cohsion est assure par l'interaction forte, force principale dans le noyau, qui maintient les nuclons ensemble et les empche de s'loigner les uns des autres.
+Pour modliser cette attraction entre les nuclons, on peut dfinir une nergie de liaison nuclaire pouvant tre calcule  partir de la formule de Bethe-Weizscker.
+Deux modles nuclaires peuvent tre utiliss pour tudier les proprits du noyau atomique :
+le modle en couches ;
+le modle de la goutte liquide.
+
+=== IsotopesModifier ===
+
+Les isotopes sont des atomes ayant le mme nombre de protons (mme numro atomique Z) mais un nombre de neutrons diffrent.
+Un lment est caractris par le nombre de protons qui composent son noyau, prcisment appel numro atomique et not Z. Un atome possdant autant d'lectrons que de protons, ce qui explique sa neutralit lectrique, Z est galement le nombre d'lectrons d'un lment.
+Pour un mme lment, on trouve dans la nature diffrents nuclides possdant des nombres de neutrons diffrents. Ces noyaux sont appels isotopes de l'lment ayant ce numro atomique. Le nombre de masse A d'un atome est le nombre total de nuclons (protons et neutrons) qui composent un noyau. Le nombre de neutrons N est gal  A - Z.
+Un nuclide X est donc un noyau caractris par son nombre de masse A et son numro atomique Z ; il est not AZX (lire X A, le numro atomique tant implicite).
+Par exemple, l'hydrogne 11H, le deutrium D ou 21H et le tritium T ou 31H sont trois isotopes de l'hydrogne.
+En pratique, le numro atomique Z est gnralement omis car redondant avec le symbole chimique, pour ne conserver que la notation AX. Ainsi, si on reprend lexemple cit ci-dessus, lhydrogne ordinaire, le deutrium, et le tritium sont le plus souvent nots : 1H, 2H, et 3H.
+Diffrents isotopes d'un mme lment possdent des proprits chimiques similaires, car elles dpendent essentiellement de son nombre d'lectrons. Cependant, leur masse atomique distincte permet de les sparer  l'aide d'une centrifugeuse ou d'un spectromtre de masse.
+Les isotopes se diffrencient galement par leur stabilit et leur demi-vie (ou priode radioactive) : les isotopes dficitaires ou excdentaires en neutrons sont souvent plus instables, et donc radioactifs. Par exemple, le carbone 12 (le plus courant) et le carbone 13 sont parfaitement stables, alors que sont radioactifs les isotopes de carbone  plus lourds  que le 13C (comme le carbone 14, avec une demi-vie de 5730 annes) ou  plus lgers  que le 12C (comme le carbone 11, avec une demi-vie de 20 minutes).  noter quil existe galement des lments pour lesquels tous les isotopes sont instables, comme le techntium ou le promthium.
+
+=== IsomresModifier ===
+
+Les isomres nuclaires sont des atomes ayant des nombres identiques de protons et de neutrons (et qui donc appartiennent  un mme isotope) mais qui prsentent des tats nergtiques diffrents. Ceci est en gnral le rsultat dune organisation diffrente des nuclons au sein du noyau. Ltat qui prsente la plus faible nergie est nomm  tat fondamental , et tout tat de plus haute nergie est nomm  tat excit .
+Lorsque la distinction est ncessaire, les isomres autres que ltat fondamental sont identifis par la lettre  m  rajoute aprs le nombre de masse et ventuellement suivit dun chiffre sil existe plusieurs tats excits pour lisotope en question. Ainsi, laluminium 26 possde deux isomres nots 26Al pour ltat fondamental et 26mAl pour ltat excit. Autre exemple, le tantale 179 possde pas moins de sept isomres, qui sont nots (en allant de ltat fondamental  ltat excit de plus haute nergie) : 179Ta, 179m1Ta, 179m2Ta, 179m3Ta, 179m4Ta, 179m5Ta, et enfin 179m6Ta.
+En gnral les tats excits sont trs instables, et subissent rapidement une transition isomrique qui les amne vers ltat fondamental (ou un tat excit moins nergtique) et pendant laquelle le surplus dnergie est vacu sous forme de photon. Il existe cependant des exceptions, et certains tats excits de certains isotopes peuvent avoir une demi-vie plus importante que ltat fondamental correspondant (comme le tantale 180m ou lamricium 242m).
+
+=== Masse atomiqueModifier ===
+La masse atomique isotopique d'un lment est la masse correspondant  NA nuclides de ce mme isotope, NA tant le nombre d'Avogadro (environ 6,022 041023).
+Dfinition : NA atomes de carbone 12 psent exactement 12 g.
+La masse atomique d'un lment chimique est la moyenne pondre des masses atomiques de ses isotopes naturels ; certains lments chimiques possdent des isotopes radioactifs  trs longue priode, et par consquent leur composition isotopique naturelle, ainsi que leur masse atomique volue sur de longues priodes de temps, telles que les res gologiques. C'est notamment le cas pour l'uranium.
+
+=== StabilitModifier ===
+
+==== nergie de liaisonModifier ====
+Certains noyaux sont stables, c'est--dire que leur nergie de liaison est suffisante, rendant alors leur dure de vie illimite. D'autres sont instables et tendent  se transformer spontanment en un noyau plus stable par mission d'un rayonnement. Cette instabilit est due au grand nombre de nuclons qui fait diminuer l'nergie unitaire de chaque liaison dans le noyau, le rendant moins cohrent. La transformation (spontane) par radioactivit se traduit toujours par une augmentation de l'nergie de liaison moyenne des nuclons concerns.
+On distingue 3 types de radioactivits, selon le type de particule mise :
+Radioactivit  s'il met un ou plusieurs nuclons (proton, neutron ou particule )
+Radioactivit  s'il met un lectron ou un positron avec un neutrino.
+Ces deux types de radioactivit sont la plupart du temps accompagns d'un rayonnement gamma (mission de photons).
+Exemple :
+les uraniums 235 et 238 ont des demi-vies suprieures  ceux de leur  famille  respective avant de mener aux isotopes stables du plomb.
+l'azote 16 (16 nuclons, 7 protons, 9 neutrons) se transforme en oxygne 16 (16 nuclons, 8 protons, 8 neutrons) quelques secondes aprs sa cration par radioactivit bta : l'interaction faible transforme l'un des neutrons du noyau en un proton et un lectron, modifiant ainsi le numro atomique de l'atome.
+
+==== Nombre de nuclonsModifier ====
+La stabilit d'un noyau atomique dpend de la nature et du nombre de nuclons qui le composent.
+Il a t constat une plus grande frquence de noyaux stables (152) s'ils sont composs d'un nombre de protons (Z) et de neutrons (N) pairs. Ce nombre passe  55 pour Z pair et N impair et  52 pour Z impair et N pair. Il n'existe que quelques noyaux stables dont le nombre de protons et le nombre de neutrons sont impairs.
+Il existe galement des nombres magiques (nombre de protons et/ou nombre de neutrons) pour lesquels l'abondance naturelle d'isotopes stables est plus grande : 2, 8, 20, 28, 50, 82, 126. C'est le cas par exemple du noyau d'hlium, doublement magique, correspondant  la particule alpha mise par certains noyaux.
+
+==== Demi-vieModifier ====
+La demi-vie d'un isotope est la priode au bout de laquelle, statistiquement, la moiti des atomes d'un chantillon initial se seront dsintgrs. Les noyaux peuvent possder des demi-vies trs diffrentes : couvrant en fait toute la plage des dures.
+Un noyau est considr comme tant un lment (par opposition  une rsonance) lorsque son temps de vie est assez long pour qu'un cortge lectronique ait le temps de se former (soit ~10-15 s)
+
+==== Noyau stableModifier ====
+En fait, les noyaux dits stables ne le sont que dans la mesure o leur dure de vie avoisine celle du proton, seul baryon (mta?)stable. Le proton aurait, selon la thorie, une demi-vie d'environ 1033 ans, mais les expriences menes pour mesurer cette dsintgration du proton, vritable pierre angulaire de la matire, n'ont pas vrifi cette prdiction : le proton serait plus stable que prvu.
+
+=== Taille et formeModifier ===
+Le rayon d'un nuclon est de l'ordre de 1015 m, soit 1 fm (femtomtre), le terme de rayon s'entendant ici au sens d'avoir une probabilit significative de dtecter le nuclon dans le volume d'espace considr. En premire approximation, on considre gnralement que le rayon r d'un noyau de nombre de masse A vaut (modle de la goutte liquide) , avec ro = 1,4 fm.  noter lorsque A est petit, notamment infrieur  16, ro peut valoir 1,2 fm.
+Cela reprsente moins de 0,01 % du rayon total de l'atome. La masse volumique du noyau est donc considrablement plus grande que celle de l'atome lui-mme. Elle est  peu prs constante pour tous les noyaux dans leur tat fondamental (non excit) : environ 200 millions de tonnes au cm3 (21014 gcm-3), masse volumique du fluide nuclaire. (Cette valeur semble trop faible : voir la discussion).
+La taille et la forme relles d'un noyau spcifique dpendent fortement du nombre de nuclons qui le composent, ainsi que de leur tat nergtique. Les noyaux les plus stables ont en gnral une forme sphrique au repos et peuvent prendre, par exemple, la forme d'un ellipsode s'ils sont excits. Des formes assez tranges peuvent tre observes selon les tats d'excitation, en poire, en soucoupe, voire en cacahute.
+Dans le cas des noyaux  halo, quelques nuclons peuvent avoir des fonctions d'onde nettement distendues, entourant donc d'un halo le noyau plus compact form par les autres nuclons. Le lithium 11 semble par exemple compos d'un noyau de lithium 9 (l'isotope le plus stable) entour d'un halo de deux neutrons ; sa taille est alors proche de celle du plomb 208, qui possde 20 fois plus de nuclons.
+Le noyau stable le plus lourd est constitu de 82 protons et 126 neutrons : il s'agit du plomb 208. Les lments plus lourds sont tous radioactifs. Jusqu' l'uranium inclus, ils sont prsents naturellement sur Terre tandis que les lments de numro atomique plus grand que l'uranium ont t synthtiss en laboratoire. L'lment le plus lourd connu  ce jour compte 118 protons : il s'agit de l'ununoctium.
+
+== Notes et rfrencesModifier ==
+
+== Voir aussiModifier ==
+
+=== Articles connexesModifier ===
+
+=== BibliographieModifier ===
+Luc Valentin, Le monde subatomique des ditions
+
+Portail de la physique
+ Portail de la chimie
+ Portail du nuclaire

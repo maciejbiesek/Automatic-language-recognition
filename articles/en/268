@@ -1,0 +1,18 @@
+An acidity function is a measure of the acidity of a medium or solvent system, usually expressed in terms of its ability to donate protons to (or accept protons from) a solute (Brnsted acidity). The pH scale is by far the most commonly used acidity function, and is ideal for dilute aqueous solutions. Other acidity functions have been proposed for different environments, most notably the Hammett acidity function, H0, for superacid media and its modified version H for superbasic media. The term acidity function is also used for measurements made on basic systems, and the term basicity function is uncommon.
+Hammett-type acidity functions are defined in terms of a buffered medium containing a weak base B and its conjugate acid BH+:
+
+where pKa is the dissociation constant of BH+. They were originally measured by using nitroanilines as weak bases or acid-base indicators and by measuring the concentrations of the protonated and unprotonated forms with UV-visible spectroscopy. Other spectroscopic methods, such as NMR, may also be used. The function H is defined similarly for strong bases:
+
+Here BH is a weak acid used as an acid-base indicator, and B is its conjugate base.
+
+== Comparison of acidity functions with aqueous acidity ==
+In dilute aqueous solution, the predominant acid species is the hydrated hydrogen ion H3O+ (or more accurately [H(OH2)n]+). In this case H0 and H are equivalent to pH values determined by the buffer equation or Henderson-Hasselbalch equation.
+However, an H0 value of 21 (a 25% solution of SbF5 in HSO3F) does not imply a hydrogen ion concentration of 1021 mol/dm3: such a "solution" would have a density more than a hundred times greater than a neutron star. Rather, H0 = 21 implies that the reactivity (protonating power) of the solvated hydrogen ions is 1021 times greater than the reactivity of the hydrated hydrogen ions in an aqueous solution of pH 0. The actual reactive species are different in the two cases, but both can be considered to be sources of H+, i.e. Brnsted acids.
+The hydrogen ion H+ never exists on its own in a condensed phase, it is always solvated to a certain extent. The high negative value of H0 in SbF5/HSO3F mixtures indicates that the solvation of the hydrogen ion is much weaker in this solvent system than in water. Other way of expressing the same phenomenon is to say that SbF5FSO3H is a much stronger proton donor than H3O+.
+
+== References ==
+^ IUPAC Commission on Physical Organic Chemistry (1994). "Glossary of Terms used in Physical Organic Chemistry." Pure Appl. Chem. 66:10771184. "Acidity function." Compendium of Chemical Terminology.
+^ a b Rochester, C. H. (1970). Acidity Functions. New York: Academic Press.
+^ a b Hammett, L. P. (1940). Physical Organic Chemistry. New York: McGraw-Hill.
+^ Cox, R. A.; Yates, K. (1983). Can. J. Chem. 61:2245.
+^ Jolly, William L. (1991). Modern Inorganic Chemistry (2nd Edn.). New York: McGraw-Hill. ISBN 0-07-112651-1. p. 234.

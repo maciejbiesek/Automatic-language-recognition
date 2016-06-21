@@ -1,0 +1,17 @@
+Das s88-Rckmeldesystem ist eine Technik fr die Rckmeldung bei der Modelleisenbahnsteuerung.
+
+== Geschichte ==
+Ursprnglich wurde die Technik fr Mrklin in den 1980er-Jahren entwickelt und erhielt den Namen von dessen Rckmeldebaustein s88. Technisch ist diese Lsung eher einfach aufgebaut und wurde daher bald von verschiedenen anderen Firmen nachgebaut. So verbreitete sich diese kostengnstige Lsung sehr weit.
+
+== Funktionsweise ==
+
+Pro Baustein sind meist 16 (manchmal nur 8) Rckmeldungen mglich. Die Module werden von der Zentrale aus in Serie angeschlossen. Als Verbindung dient ein sechspoliges Kabel. In Summe drfen 31 Module verbunden sein, eine Grenze, die willkrlich festgesetzt wurde.
+Technisch handelt es sich um ein langes Schieberegister, das mit einfachen CMOS-Bausteinen aufgebaut ist. Bei einem Lesevorgang werden die Daten ber alle angeschlossen Module hintereinander abgefragt und zur Auswertung zur Verfgung gestellt.
+Die Adressierung erfolgt durch die Basisadresse des Stranges und die Position in der Kette. Die Meldung erfolgt mit der Adresse und dem Status ein bzw. aus.
+Die Auswertung erfolgt normalerweise ber einen Computer, an dessen serieller Schnittstelle die Module ber die Digitalzentrale oder auch direkt ber ein Interface angeschlossen werden.
+Durch den einfachen Aufbau und die Verwendungen einfacher Flachbandkabel ist das System eher strungsanfllig gegenber Fremdeinflssen. Inzwischen werden statt der Flachbandkabel auch die gngigen RJ-45-Netzwerkkabel verwendet (Norm s88-N). Bei der Verlegung sollte auf andere Leitungen Rcksicht genommen werden, damit es nicht zum bersprechen kommt.
+
+== Quellen ==
+Littfinski DatenTechnik, Hersteller von s88-Modulen
+Railware, Hersteller von Modellbahnsteuerungssoftware
+Bolls Modellbahntechnik, Hersteller von s88-Modulen

@@ -1,0 +1,79 @@
+Das MBP-Schweien (Pressschweien mit magnetisch bewegtem Lichtbogen)  ist ein Lichtbogenpressschweiverfahren nach DIN 1910100:2008-02  und hat die Ordnungsnummer 185 nach EN ISO 4063 . Das Verfahren wird auch als MBL- oder Magnetarc-Schweien bezeichnet. In der englischsprachigen Literatur ist es bekannt als MIAB Welding (magnetically impelled arc butt welding).
+Mit dem Verfahren werden Hohlprofile unter Schutzgas stumpf verschweit. Ein Lichtbogen wird zwischen den Fgeteilflchen gezndet und in einem Magnetfeld zur Bewegung entlang der Fgeteilkanten veranlasst. Die Kanten erwrmen sich und schmelzen auf. Anschlieendes Zusammenstauchen fhrt zu einer Pressschweiverbindung mit einer gleichmigen Stauchwulst, die in der Regel nicht abgearbeitet wird. Es wird mit Gleichstrom geschweit. Zusatzwerkstoffe sind nicht erforderlich.
+
+== Physikalisches Prinzip ==
+
+Die Lorentzkraft bewegt den Lichtbogen entlang der Fgekanten. Sie entsteht durch die Wechselwirkung eines externen radialen Magnetfelds senkrecht zur Lichtbogenstromrichtung mit dem Eigenmagnetfeld des Lichtbogens. Wird der Lichtbogen mit konstanten Lichtbogenstrom  vereinfacht als kompakter elektrischer Leiter der Lnge  angesehen, auf den eine konstante magnetische Flussdichte  wirkt, kann fr die Lorentzkraft  geschrieben werden:
+
+oder, wenn ein Winkel  zwischen der Flussdichte des externen Magnetfeldes und der Stromrichtung in Betracht gezogen wird:
+.
+Der Lichtbogen brennt im Luftspalt zwischen den Fgeteilen und bewegt sich nach dem Znden mit wachsender Geschwindigkeit. Die Fgeteilkanten erwrmen sich bis sich Schmelze auf den Stirnflchen bildet und sich ein ausreichender Temperaturgradient ins Innere der beiden Teile einstellt. Zusammenstauchen der Teile fhrt zu einer Schweiverbindung.
+
+== Prozessablauf ==
+
+Das Schweien durchluft vier Prozessstufen:
+Ausgangsposition
+Die Werkstcke berhren sich.
+Der Schweistrom und das Magnetfeld werden eingeschaltet.
+
+Schweibeginn
+Die Werkstcke werden bis zu einem definierten Spalt zwischen den Fgeteilkanten zurckgefahren.
+Der Lichtbogen zndet und bewegt sich mit wachsender Geschwindigkeit an den Innenkanten.
+
+Erwrmung
+Der Lichtbogen bewegt sich beschleunigt von den Innenkanten nach auen. Das Rotationsmaximum ist erreicht, wenn sich ein Gleichgewicht zwischen der den Lichtbogen beschleunigenden Kraft und dem auf die Sulenoberflche wirkenden Staudruck einstellt. Es ist vom Lichtbogenstrom abhngig . Sofern sich Schmelze auf den Kanten bildet, wird die Rotationsgeschwindigkeit gehemmt.
+Das Material wird bis zum Anschmelzen der Kanten erwrmt.
+
+Schweiende
+Die Fgeteile werden zusammengefahren und gestaucht.
+Das Magnetfeld und der Schweistrom werden abgeschaltet.
+
+== Schweiparameter ==
+
+=== Abhub ===
+Durch Rckfahrbewegung wird der Lichtbogen gezndet. Die eingestellte Spaltbreite bestimmt die Lichtbogenlnge und damit die Schweispannung, die Lichtbogenbeweglichkeit (Rotationsgeschwindigkeit) und Lichtbogenstabilitt.
+
+=== Schwei- und Magnetspulenstrom ===
+nderungen des Schwei- und Magnetspulenstroms whrend des Prozessablaufs knnen zur Optimierung des Znd- und Erwrmungsvorgangs fhren (Schweien mit Stromprogramm ). Besonders beim Schweien von Teilen mit grerer Wanddicke haben sich Stromprogramme bewhrt.
+Das Schweien mit Stromprogramm wird in drei Phasen durchgefhrt:
+Znd- und Anlaufphase zum sicheren und gleichmigen Anlauf der Lichtbogenbewegung.
+Anwrmphase zum gleichmigen und tiefen Erwrmen des Fgebereichs.
+Anschmelzphase zum Anschmelzen und Reinigen der Stoflchen vor dem Stauchen durch stoartige Stromerhhung.
+
+=== Stauchkraft ===
+Die Werkstcke werden durch das Stauchen mit vorwhlbarer Kraft geschweit, wobei die Stauchgeschwindigkeit die Qualitt der entstehenden Verbindung wesentlich beeinflusst. Um eine definierte Endlnge des geschweiten Bauteils zu gewhrleisten, kann gegen einen Anschlag gestaucht werden. Dabei ist auf den Materialverlust in der Anschmelzphase zu achten, um gengende Materialverformung zu erreichen.
+
+=== Schutzgas ===
+
+Schutzgas wird bei un- und niedriglegierten Sthlen zur Stabilisierung des Lichtbogens eingesetzt, um die Reproduzierbarkeit des Znd- und Laufverhaltens und das Wulstaussehen zu verbessern. Es hat nicht die Aufgabe, die Schweistelle gegen die Atmosphre abzuschirmen und damit gegen Oxidation und Porenbildung zu schtzen.
+
+=== Schweiprozesssteuerung und -regelung ===
+
+In den Znd- und Anwrmphasen knnen stochastische nderungen des Lichtbogenstroms, der Lichtbogenspannung oder der Rotationsgeschwindigkeit den Erwrmungsprozesses beeinflussen. Die Lichtbogenspannung ndert sich mit vernderter Lichtbogenlnge. Diese ist sowohl von der Breite des Spalts zwischen den Fgesteilen, aber auch von der Strke und der Form des Magnetfeldes im Luftspalt und vom Ionisationsgrad (Gaszusammensatzung, Gastemperatur, Anteile von Metalldampf in der Bogenumgebung) abhngig. Form und Lage des Magnetfeldes und damit die den Lichtbogen treibende Radialkomponente  ndern sich durch die Erwrmung der Fgeteilkanten auf Temperaturen ber die Curie-Temperatur, wodurch der magnetische Luftspalt zunimmt. Der Lichtbogen bewegt sich nach dem Znden an den Innenkanten der Fgeteile, da hier die Lichtbogenauslenkung durch das Magnetfeld am geringsten ist (entsprechend dem von M. Steenbeck beschriebenen Minimumprinzip der Bogensbrennspannung). Mit beginnender Kantenerwrmung wandert er an die Auenkanten. Es knnen Spannungsnderungen bis zu 4 V innerhalb des Erwrmungszyklus auftreten, die zu verndertem Energieumsatz fhren.
+Durch Steuerung und/oder Regelung der Schweiparameter Lichtbogenstrom , Magnetstrom , Luftspalt   und Anwrmzeit  wird versucht, einen reproduzierbaren Energieeintrag und damit gleichbleibende Schweiqualitt zu erreichen.
+
+Der Zeitpunkt , bei dem die Schmelztemperatur der Schweikanten erreicht wird, hngt von der durch den Lichtbogen eingetragenen Energie  ab. Die erwhnten nderungen von Strom , Spannung  und Wirkungsgrad  machen eine Anpassung der Zeit  an die aktuellen Bedingungen ntig. Ausgehend von einer bekannten Funktion  kann die Anwrmzeit  gesteuert werden, wenn die Spannung  und der Strom  gemessen werden, der Istwert  in Echtzeit berechnet und mit dem Sollwertmodell verglichen wird .
+Die geglttete Lichtbogenspannung durchluft whrend der Anwrmzeit einen typischen Zyklus. Sie steigt zunchst, durchluft ein Maximum, um dann wieder abzufallen. Mit dem Beginn des Anschmelzens der Kanten hat die Lichtbogenspannung ein Minimum erreicht, das zur Steuerung des Zeitpunktes  genutzt werden kann .
+Eine geregelte Schweieinrichtung zum Schweien mit magnetisch bewegtem Lichtbogen wird in der Gebrauchsmusterschrift DE 202008005534U1  beschrieben. Mit der beschriebenen Schweieinrichtung kann der axiale Abstand zwischen den Fgeteilen whrend der Anwrmzeit gesteuert oder ggf. geregelt werden, um den Erwrmungs- und Schmelzprozess gezielt zu beeinflussen. Dies kann unabhngig oder in Abstimmung mit einer Schweistromregelung oder Magnetfeldbeeinflussung geschehen.
+
+== Schweieignung von Werkstoffen ==
+Es liegen Erfahrungswerte ber die Schweieignung von unlegierten und legierten Sthlen mittels MBP-Schweien vor, ebenso von Gusseisen und Stahlguss. Wegen des Ausstauchens der flssigen Phase aus der Fgezone und des Abkhlens unter Kraftwirkung ist die Rianflligkeit der Verbindung gering, was sich vorteilhaft beim Schweien von Sthlen mit hherem Kohlenstoffgehalt und von Automatensthlen auswirkt. Gehrtete oder vergtete Sthle verlieren durch das MBP-Schweien einen Teil der Hrte bzw. Festigkeit in der Wrmeeinflusszone. Bei oberflchenbeschichteten (verzinkten oder verchromten) Fgeteilen muss darauf geachtet werden, dass die Stoflchen unbeschichtet sind.
+
+== Materialgeometrie ==
+
+Es knnen rohrfrmige Querschnitte mit einer Querschnittsflche bis 2300 mm, Wanddicken bis 6 mm und Rohrdurchmesser bis 140 mm mit dem MBP-Schweien verbunden werden . In Russland soll eine portable Schweianlage fr den Rohrleitungsbau eingesetzt werden, die Rohre mit einem Durchmesser von 529 mm verschweit .
+
+== Referenzen ==
+ a b DIN 1910-100:2008-02 Schweien und verwandte Prozesse - Begriffe - Teil 100: Metallschweiprozesse mit Ergnzungen zu DIN EN 14610:2005.
+ DVS:"Preschweien mit magnetisch bewegtem Lichtbogen (MBP-Schweien)" DVS Merkblatt 2934, 2001.
+ EN ISO 4063:2011-03 Schweien und verwandte Prozesse - Liste der Prozesse und Ordnungsnummern.
+ a b  ..,  ..:   . In: . 1970 (Ju.G. Gagen, W.D. Taran: Schweien mit magnetisch gesteuertem Lichtbogen. In: Mashinostrojenie. 1970.).
+ a b c M. Schellhase: Der Schweilichtbogen als technologisches Werkzeug. VEB Verlag Technik, Berlin, 1985.
+ Patent  DE1565041: Schweimaschine mit umlaufendem Lichtbogen. Erfinder: D. Sciaky (B23k 11/04).
+ Patent  DD129179A1: Verfahren zum MBL-Pressschweien geschlossener Querschnitte. Erfinder: H. Krohn, J. Burmeister, H. J. Posselt (B23K9/08).
+ Patent  GB2094694A: Method and apparatus for arc butt welding. Erfinder: D. A. Edson (B23K9/08).
+ a b J. Burmeister: Automatische Gtesicherung bei MBL-Schweissen. Diss. TH Karl-Marx-Stadt (Chemnitz), 1984, DNB 941807835.
+ Patent  EP0409990A1: VERFAHREN ZUM PRESSSCHWEISSEN MIT EINER ERWRMUNG MITTELS EINES IN EINEM MAGNETISCHEN FELD BEWEGENDEN LICHTBOGENS. Verffentlicht am 1991, Erfinder: S. Kuchuk-Yatsenko, et al..
+ Gebrauchsmuster  DE202008005534U1: Schweieinrichtung. Verffentlicht am 2009, Anmelder: KUKA Systems GmbH.
+ F. Trommer: MagnetArc Schweien - Prozessberblick und industrielle Anwendungen. 2. Fachtagung Sensitive Fertigungstechnik, Hochschule Magdeburg-Stendal, 2013.
+     :   (russisch; Groe Enzyklopdie Erdl und Erdgas: Lichtbogenpressschweien)

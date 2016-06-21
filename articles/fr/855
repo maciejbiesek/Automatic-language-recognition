@@ -1,0 +1,25 @@
+PreviSat est un logiciel libre permettant de suivre les satellites artificiels sur une carte du monde. Il est dvelopp en C++/Qt et disponible sous les systmes d'exploitation Windows, GNU/Linux et Mac OS X. Son interface simple et intuitive est conue pour rpondre aussi bien aux attentes du nophyte qu' celles de l'observateur averti.
+
+== Fonctionnalits ==
+PreviSat permet de connatre la position des satellites dans plusieurs systmes de coordonnes (cartsiennes, quatoriales, horizontales). Pour cela, il utilise le modle orbital SGP4 (en) - rvis en 2006 par David Vallado - et les lments orbitaux appels TLE fournis par Celestrak ou par le Space-Track . Il affiche galement la position du Soleil et de la Lune.
+PreviSat possde 2 modes de fonctionnement : un mode temps rel et un mode manuel. Le premier mode permet de suivre en temps rel l'volution de la position des satellites. Le second mode permet de visualiser les satellites pour des dates autres que la date systme. Les donnes numriques correspondent au satellite slectionn, et il est possible de passer d'un satellite  un autre en cliquant sur un satellite affich sur la carte du monde.
+L'onglet lments osculateurs contient les paramtres orbitaux instantans de l'orbite du satellite slectionn. Cela permet notamment d'estimer la taille et le type de l'orbite du satellite. L'onglet Informations satellite dtaille les diffrentes composantes du TLE et fournit aussi des informations sur le satellite lui-mme (dimensions, magnitude maximale...).
+PreviSat permet de calculer les prvisions de passage des satellites pour un lieu d'observation donn, avec rglage possible de nombreux paramtres (slection du lieu d'observation, hauteur minimale du satellite, hauteur du Soleil...). PreviSat est capable de dterminer trs rapidement et avec prcision les flashs produits par les satellites Iridium, qui peuvent atteindre une magnitude de -8.3, ce qui est 30  40 fois plus brillant que Vnus.
+De nombreuses options d'affichage permettant de personnaliser l'interface graphique sont disponibles (zone de visibilit des satellites, trace au sol, Soleil, zone d'ombre, Lune...). La gestion des lieux d'observation est particulirement simple d'utilisation. Les lieux d'observation sont regroups par catgories (France, Monde, ...). Grce  l'interface graphique, il est possible de crer de nouveaux lieux d'observation ainsi que de nouvelles catgories. Une catgorie de lieux d'observation particulire, appele "Mes Prfrs", permet de regrouper les lieux d'observation les plus utiliss.
+Plusieurs outils compltent le logiciel tels que la mise  jour des TLEs ou la cration d'un fichier TLE  partir d'un fichier existant.
+Trois autres outils permettent de faire des calculs de prvisions :
+le calcul des vnements orbitaux dtermine les dates des transitions ombre/pnombre/lumire, apoge/prige, passage aux nuds de l'orbite, etc.,
+le calcul des transits de l'ISS devant la Lune ou le Soleil,
+le calcul des flashs MetOp et COSMO-SkyMed
+
+== Notes et rfrences ==
+ (en) Modle orbital SGP4
+ (en) Celestrak, Dr T.S. Kelso
+ (en) Space-Track
+ (en) Jean Meeus, Astronomical Algorithms (1998), 2nd ed, (ISBN 0-943396-61-1), modles simplifis de la position du Soleil et de la Lune, calcul du temps sidral, etc.
+
+== Liens externes ==
+(fr) Astropedia Site officiel
+(en) http://sourceforge.net/projects/previsat/ Code source et excutables
+ Portail de lastronomie
+ Portail des logiciels libres

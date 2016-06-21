@@ -1,0 +1,12 @@
+MC68030  mikroprocesor firmy Motorola nalecy do rodziny M68000 (zwanej te rodzin 68k).
+Debiutowa w roku 1987, a obecnie osign status end of life, co oznacza, e wkrtce nie bdzie dostpny w sprzeday. Skada si z okoo 273 tys. tranzystorw. MC68030 nie posiada zintegrowanego koprocesora (FPU), ale moe by uywany z zewntrznym ukadem MC68881 lub MC68882.
+Wane modyfikacje w stosunku do MC68020:
+zintegrowanie z procesorem ukadu zarzdzania pamici (MMU) kompatybilnego z MC68851,
+wprowadzenie trybu 'burst' celem szybkiego wypeniania pamici podrcznej (cache); polega to na przeczeniu magistrali danych w tryb synchroniczny (patrz niej) i sekwencyjnym odczycie czterech kolejnych dugich sw w cigu siedmiu kolejnych cykli magistrali,
+dodanie dodatkowego 256-bajtowego cache dla danych,
+obsuga zarwno synchronicznego jak i asynchronicznego dostpu do pamici (z moliwoci przeczania trybw podczas pracy).
+Procesor wystpuje w obudowach PGA oraz PLCC. Dostpne s modele o szybkociach 16, 20, 25, 33, 40 i 50 MHz. Zasilany jest napiciem 5 V. Istnieje te wersja EC (ekonomiczna)  MC68EC030  pozbawiona MMU (tylko 25 i 40 MHz).
+Uywany by midzy innymi w komputerach Amiga, Atari oraz Apple Macintosh.
+
+== Linki zewntrzne ==
+Strona producenta

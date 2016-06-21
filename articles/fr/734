@@ -1,0 +1,26 @@
+Unified Parallel C (UPC) est une extension du langage de programmation C conue pour les calculs hautes-performances sur des supercalculateurs parallles, y compris les architectures  espace d'adressage global (SMP et NUMA) et celles  mmoire distribue (clusters). Le langage dfinit un espace d'adressage partag et partitionn, o les variables peuvent tre directement lues et crites par n'importe quel thread, mais chaque variable est physiquement associe avec un simple processeur. UPC utilise un modle de calcul de type SPMD (Single Program Multiple Data) dans lequel la quantit de thread est fixe  la compilation, typiquement avec un seul thread d'excution par processeur.
+Pour implmenter le paralllisme, UPC tend la norme C ISO 99 avec les concepts suivants:
+Un modle d'excution parallle explicite
+Un espace d'adressage partag
+Des primitives de synchronisation et un modle de cohrence de la mmoire
+Des primitives de gestion de la mmoire
+Le langage UPC est issu des expriences avec trois autres langages antrieurs qui proposaient des extensions parallles au C ISO 99 (AC, Split-C, and Parallel C Preprocessor (PCP)). UPC n'est pas un simple agrgat de ces trois langages, mais plutt une tentative de synthse des meilleures caractristiques de chacun. UPC combine les avantages du paradigme de la programmation  mmoire partage, du contrle de la disposition des donnes et des performances du paradigme de programmation par change de messages.
+
+== Support par les compilateurs ==
+UPC a t implment dans certains compilateurs commerciaux et de recherche, dont :
+HP Unified Parallel C (UPC)
+Cray UPC
+IBM XL UPC Compilers
+Berkeley UPC
+GCC UPC
+Michigan Tech MuPC
+
+== Voir aussi ==
+Co-array Fortran
+High Performance Fortran
+OpenMP
+
+== Liens externes ==
+Page principale de Unified Parallel C
+Wiki UPC
+ Portail de la programmation informatique

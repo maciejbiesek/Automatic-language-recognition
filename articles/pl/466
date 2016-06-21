@@ -1,0 +1,10 @@
+Przerwanie niemaskowalne (ang. NMI  Non-Maskable Interrupt)  specjalny rodzaj przerwania wystpujcy w wikszoci architektur procesorw. Tym, co odrnia je od zwykego przerwania, jest brak moliwoci zignorowania (zamaskowania) go poprzez ustawienie odpowiedniej maski bitowej w rejestrze IMR (ang. Interrupt Mask Register) kontrolera przerwa, std termin "niemaskowalne".
+Obecnie przerwa NMI uywa si gwnie do debugowania kodu programw, ktry moe wycza zwyke przerwania poprzez zwieranie ich obwodu (np. kod systemu operacyjnego).
+
+== Zobacz te ==
+Procesor
+Przerwanie
+
+== Uwagi ==
+
+ Zobacz: NMI button

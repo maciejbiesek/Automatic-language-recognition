@@ -1,0 +1,54 @@
+La mthode de l'entropie-croise (CE) attribue  Reuven Rubinstein est une mthode gnrale d'optimisation de type Monte-Carlo, combinatoire ou continue, et d'chantillonnage prfrentiel. La mthode a t conue  l'origine pour la simulation d'vnements rares, o des densits de probabilit trs faibles doivent tre estimes correctement, par exemple dans l'analyse de la scurit des rseaux, les modles de file d'attente, ou l'analyse des performances des systmes de tlcommunication. La mthode CE peut tre applique  tout problme d'optimisation combinatoire o les observations sont bruites comme le problme du voyageur de commerce, l'optimisation quadratique, le problme d'alignement de squences d'ADN, le problme de la coupure maximale et les problmes d'allocation de mmoire, tout comme des problmes d'optimisation continue avec de nombreux extrema locaux.
+La mthode CE se dcompose en deux phases :
+Crer alatoirement un chantillon de donnes (trajectoires, vecteurs, etc.) selon un mcanisme spcifique.
+Mettre  jour les paramtres du mcanisme de cration alatoire  partir de l'chantillon de donnes pour produire un meilleur chantillon  l'itration suivante. Cette tape implique de minimiser l'entropie croise ou la divergence de Kullback-Leibler.
+
+== Estimation via l'chantillonnage prfrentielModifier ==
+Considrons le problme gnral d'estimation de la quantit , o  est une fonction objectif et  est une densit de probabilit paramtrique. En utilisant l'chantillonnage prfrentiel cette quantit peut tre estime par , o  est un chantillon de variables alatoires de densit . Pour  positif, l'optimum thorique de la densit de probabilit des variables alatoires est donn par . Cependant  est un paramtre inconnu. La mthode CE propose d'approcher la densit optimale en slectionnant les lments de l'chantillon qui sont les plus proches (au sens de Kullback-Leibler) de la densit optimale .
+
+== Algorithme CE gnriqueModifier ==
+Choisir un vecteur des paramtres initial ; poser .
+Crer un chantillon de variables alatoires  selon la densit 
+Calculer , o
+Si l'algorithme a converg alors stopper; sinon, incrmenter  de 1 recommencer  l'tape 2.
+Dans certains cas, la solution de l'tape 3 peut tre trouve analytiquement. Les situations o cela se produit sont
+Quand  fait partie des fonctions de la famille exponentielle naturelle
+Quand  est discrte avec un support fini
+Quand  et , alors  correspond  l'estimateur du maximum de vraisemblance bas sur les .
+
+== Optimisation continueexempleModifier ==
+Le mme algorithme CE peut tre utilis pour l'optimisation et l'estimation. Soit le problme consistant  maximiser une fonction , par exemple, . Pour utiliser l'entropie croise on doit d'abord considrer le problme stochastique associ de l'estimation de  pour un niveau donn , et une famille de distributions de probabilit paramtriques , par exemple la loi normale  une dimension, dont les paramtres sont la moyenne  et la variance  (tel que  ici). Ainsi, pour un  donn, l'objectif est de dterminer  tel que la quantit  soit minimise. Ce qui est fait en utilisant la version chantillonne (contrepartie stochastique) du problme de la minimisation de la divergence KL, comme prcdemment dans l'tape 3. Il se trouve que pour ce choix de distribution les paramtres qui minimisent la version stochastique du problme sont la moyenne et la variance empirique de l'chantillon d'lite qui est compos des tirages dont la valeur de la fonction score est . Le plus mauvais des lments de l'chantillon d'lite sert de paramtre de niveau  l'itration suivante. Cela donne l'algorithme stochastique suivant pour ce problme.
+
+=== Pseudo-codeModifier ===
+
+1. mu:=-6; sigma2:=100; t:=0; maxits=100;    // Initialisation des paramtres
+2. N:=100; Ne:=10;                           //
+3. while t  epsilon     // Tant que l'on n'a pas converg et que maxits n'est pas dpass
+4.  X = SampleGaussian(mu, sigma2,N);         // Cre N chantillon  partir de la distribution
+5.  S = exp(-(X-2)^2) + 0.8 exp(-(X+2)^2);   // Calcule le score de chaque chantillon
+6.  X = sort(X, S);                           // Classe X selon le score (de faon descendante)
+7.  mu = mean(X(1:Ne)); sigma2=var(X(1:Ne)); // Mise  jour des paramtres de la distribution
+8.  t = t+1;                                 // Incrmentation du nombre d'itrations
+9. return mu                                 // Renvoie la moyenne des derniers chantillons comme la solution
+
+== Mthodes liesModifier ==
+Recuit simul
+Algorithme gntique
+Algorithme  estimation de distribution
+Recherche tabou
+
+== Voir aussiModifier ==
+Entropie croise
+divergence de Kullback-Leibler
+algorithme probabiliste
+Importance sampling
+
+== RfrencesModifier ==
+(en) Cet article est partiellement ou en totalit issu de larticle de Wikipdia en anglais intitul  Cross-entropy method  (voir la liste des auteurs).
+De Boer, P-T., Kroese, D.P, Mannor, S. and Rubinstein, R.Y. (2005). A Tutorial on the Cross-Entropy Method. Annals of Operations Research, 134 (1), 1967.
+Rubinstein, R.Y. (1997). Optimization of Computer simulation Models with Rare Events, European Journal of Operations Research, 99, 89-112.
+Rubinstein, R.Y., Kroese, D.P. (2004). The Cross-Entropy Method: A Unified Approach to Combinatorial Optimization, Monte-Carlo Simulation, and Machine Learning, Springer-Verlag, New York.
+
+== Liens externesModifier ==
+Page d'accueil de la mthode CE
+ Portail des mathmatiques

@@ -1,0 +1,46 @@
+Dyskietka, inaczej dysk mikki  dysk wymienny, przenony nonik magnetyczny o niewielkiej pojemnoci, umoliwiajcy zarwno odczyt, jak i zapis danych; nonikiem danych jest wirujcy krek z wytrzymaego tworzywa sztucznego (najczciej mylaru  politereftalanu etylenu w postaci cienkiej folii) pokryty warstw magnetyczn. rednica krka wraz iloci moliwych do zapisania danych stanowi podstawowe parametry dyskietki.
+Polska nazwa dyskietka zostaa prawdopodobnie zaproponowana przez Jana Bieleckiego.
+Wspczenie dostpne s na rynku praktycznie tylko dyskietki 3,5-calowe i ich warianty. S m.in. dostarczane przez producentw systemw operacyjnych i pyt gwnych jako nonik ze sterownikami lub plikami startowymi, gdzie w innym wypadku zapis tak maych plikw na caej pycie CD lub innym noniku byby nieekonomiczny. Ponadto, dziki moliwoci szybkiego, wielokrotnego zapisu, dyskietki te znajduj zastosowanie w magazynowaniu i przenoszeniu maych plikw takich jak dokumenty tekstowe i pliki obrazw. Nadaj si rwnie do wykonywania szybkich kopii bezpieczestwa dokumentw ze wzgldu na dostateczn pojemno i stosunkowo wysok wytrzymao i dugowieczno.
+W drugiej dekadzie XXI wieku dyskietki zostay wyparte przez pamici USB i pamici flash, ktre cechuj jeszcze mniejsze rozmiary i znacznie wiksza pojemno.
+
+== Historia ==
+
+Jako pierwsze pojawiy si dyskietki 8-calowe. Nastpnie zaczto stosowa dyskietki 5-cala o pojemnoci 360 KB (DD) (cho bardzo czsto wczesne napdy potrafiy formatowa na 180 KB lub nawet mniej), a nastpnie 1,2 MB (HD) (cho istniay programy, ktre potrafiy formatowa je na 1,4 lub nawet 1,6 MB). Miay mikk obudow, nie byo zamknicia otworu odczytu  naleao je przechowywa w papierowych kopertach. Miay jednak t zalet, e po wyciciu otworu zezwalajcego na zapis mona byo uywa obu ich stron w napdach jednostronnych. Zabezpieczenie przed zapisem polegao na zaklejeniu nieprzezroczystym kawakiem tamy samoprzylepnej wycicia z boku dyskietki. Mniej popularne byy inne dyskietki  3-calowe stosowane w komputerach firmy Amstrad i 2,5-calowe w pierwszych komputerach przenonych.
+Wspczenie dyskietki wyszy ju z powszechnego uycia, jednake s jeszcze dalej produkowane w niewielkich ilociach. Uywane s przewanie w starszych komputerach typu PC, Apple Macintosh, Amiga i Atari. Z uwagi na niewielk pojemno, zostay wyparte przez nowoczeniejsze noniki pamici, takie jak pyty CD, DVD oraz ich odpowiedniki wielokrotnego zapisu, przenone dyski twarde, pami pprzewodnikow typu flash, wbudowan w karty pamici, a take pamici USB (pendrive) oraz odtwarzacze MP3. Obecnie stacje dyskietek nie s ju montowane w laptopach ani w stacjonarnych komputerach osobistych. W komputerach Macintosh zaprzestano montowania stacji dyskw ju w 1998, od modelu iMac.
+Istniej te zewntrzne urzdzenia do odczytu dyskietek podczane kablem do komputera, zazwyczaj przez port USB.
+W komputerach klasy PC do niedawna najpowszechniej uywane byy dyskietki 3,5-calowe HD (High Density) o pojemnoci 1.44 MB (megabajt ten w rzeczywistoci by jednostk mieszan  10001024, a dyskietki te miay 1440 kB). Dyskietka taka skada si z twardej plastikowej obudowy z otworem dostpowym do nonika zasuwanym sprynowo metalow (pniej plastikow) zasuwk. Konstrukcja ta powstaa z wczeniej uywanych dyskietek identycznej budowy mechanicznej DD (Double Density) o pojemnoci 720 kB, powszechnie uywanych w komputerach klasy Amiga (komputer ten obsuguje fabrycznie dyskietki DD jako 880 kB. Modele wyposaone w stacje HD zapisuj na dyskietkach 1,76 MB) oraz Atari ST (dyskietki DD mog mie 946 176 bajtw oraz format zgodny z PC, natomiast HD moe mie maksymaln pojemno 1 892 352 bajtw). Rozwiniciem tej konstrukcji jest standard dyskietek ED (Extra Density) 2.88 MB (dla Atari ST dostpne byy napdy ED zapewniajce odpowiednio wiksze pojemnoci), ale nie przyj si, m.in. z powodu konkurencji ze znacznie bardziej pojemnymi dyskietkami napdw typu ZIP czy JAZ. Zachowana jest kompatybilno wsteczna.
+
+=== Zakoczenie produkcji ===
+W kwietniu 2010 prasa doniosa, e firma Sony, jako jedna z ostatnich spord producentw dyskietek magnetycznych, zakoczya produkcj tych nonikw danych. W 2009 zaprzestay ich produkcji firmy Hitachi Maxell i Mitsubishi Kagaku Media. Przed 2010 sprzeday dyskietek zaprzestano ju w wielu krajach, a na pocztku 2011 dyskietki Sony znikny ostatecznie z rynku japoskiego. Przedstawiciele koncernu uzasadniali decyzj spadkiem opacalnoci.
+Firma Sony produkowaa 3,5-calowe dyskietki od 1981, a ich rekordow sprzeday zanotowaa w 2002, gdy nabywcw znalazo ponad 47 mln sztuk. Od tamtego czasu sprzeda malaa, a do wielkoci 12 mln dyskietek w 2009. W tym te roku Sony zaprzestaa produkcji napdw do tego typu nonikw. Oceniano wwczas, e z magnetycznych nonikw danych korzystaj jeszcze uytkownicy przestarzaego sprztu w rodowisku akademickim oraz w owiacie.
+Firma Verbatim nadal produkuje 3,5-calowe dyskietki oceniajc aktualny popyt w 2009 na 50 milionw sztuk rocznie. Badania firmy oceniaj, e ten rodzaj pamici przenonej jest jeszcze wymagany przez uytkownikw sprztu starego typu, jak instrumenty klawiszowe czy maszyny przemysowe. Dyskietki s te wykorzystywane w samolotach starszego typu, np. Boeing 737. Firma prognozuje utrzymanie si popytu na dyskietki 3,5-calowe na staym poziomie jeszcze przez pewien czas.
+
+== Budowa dyskietki ==
+
+=== Dyskietka 5,25 cala ===
+
+=== Dyskietka 3,5 cala ===
+
+=== Inne dyskietki ===
+
+== Organizacja danych ==
+
+Najmniejsz fizyczn iloci danych jak mona zapisa i odczyta z dyskietki, jest sektor. Jego pojemno informacyjna wynosi w wikszoci systemw plikw 512 bajtw. Przed kadym sektorem zapisywane s dane synchronizacyjne i informacyjne oraz suma kontrolna; informacje te s niedostpne z poziomu uytkownika systemu operacyjnego dla uytkownika (s to parametry dla kontrolera dysku oraz dane wymagane do korekcji bdw odczytu).
+Logiczn jednostk zapisu danych na dyskietkach jest klaster (ang. cluster), zwany take czasami JAP, czyli Jednostk Alokacji Pliku. W odrnieniu od dyskw twardych na dyskietce klaster ograniczony jest do maksymalnie dwch sektorw (1024 bajty), aczkolwiek istniay programy, pozwalajce obej to ograniczenie.
+Cay nonik podzielony jest na cieki (ang. track), ktrych liczba zaley od formatu i zazwyczaj wynosi 40 lub 80, cho niektre napdy umoliwiay zapisane kilka cieek ponad standard (komputery zgodne z Atari ST zapisuj do 83 cieek). cieka, w zalenoci od typu dysku, moe skada si z 8 lub nawet 36 sektorw. Dla przykadu dyskietka w gstoci HD zgodna z MS/DR-DOS zawiera 18 sektorw na ciece. Kada cieka skada si z dodatkowych znacznikw, ktre oznaczaj pocztek (BOT) i koniec cieki (EOT).
+Dyskietki wymagaj procesu zwanego formatowaniem nonika. Dzieli on powierzchni nonika na cieki i sektory poprzez zapisanie na niej przebiegu synchronizujcego, dane informacyjne oraz testowe dane w sektorach, dane te s wykorzystywane do sprawdzenia poprawnoci formatowania. Zapisuje te dane systemowe. Dla dyskietki uywanej pene formatowane wie si z wymazaniem wszystkich danych.
+
+== Ciekawostki ==
+Atari ST i Amiga byy komputerami, w ktrych format zapisu danych na noniku by cakowicie programowalny. Komputery zgodne z IBM PC i Apple charakteryzoway konkretne gstoci zapisu, czsto niekompatybilne z pozostaymi architekturami. Atari zapisywao standardowo dyskietk w formacie zgodnym z PC (czyli pojemno 720 KB) natomiast mogy te zapisa dowolny inny format (ograniczony jedynie parametrami technicznymi stacji dyskw). Maksymalnym formatem zapisu dla dyskietek np. DD byo 946 176 bajtw, ktry jeszcze mg by zwikszany poprzez manipulowanie iloci wpisw w katalogu gwnym. Moliwe byo te sformatowanie dyskietki dla przykadu na 5632 bajtw, na ktre dostpnych byo 3584 bajty (format: 1 strona, 1 sektor, 1 sektor na klaster, 10 cieek).
+Na komputerach Amiga dyskietki 3,5" i 5,25" formatowane s na te same pojemnoci. Z tego faktu wynika moliwo bezstratnego kopiowania caej zawartoci dyskietki 3,5" na 5,25" i odwrotnie.
+Stacje dyskw wyposaone s we wskanik aktywnoci LED, ktry w przypadku komputerw Atari ST oraz Amiga by w peni programowo kontrolowany. Byo to wykorzystywane w demach oraz grach.
+Systemy operacyjne Atari TOS, AmigaOS i Mac OS wykorzystyway sensor obecnoci dysku w napdzie, dziki czemu pewne operacje byy pomijane, jeli nonik nie zosta wyjty/zamieniony. Innym przykadem jest to, e w czasie, gdy inne komputery wywietlay uytkownikowi komunikat, aby nacisn dowolny klawisz, gdy np. zmieni dyskietki, w systemach tych komunikat nie pojawia si, gdy wczytywanie z dyskietki nastpowao automatycznie (po woeniu jej do napdu).
+W komputerach Macintosh stacja dyskw bya cakowicie zautomatyzowana (ang. motorized) i kontrolowana przez system operacyjny. Nie miaa nawet przycisku do wysuwania dyskietki  moliwe byo jedynie uycie komendy Eject Disk, ktra powodowaa wysunicie dyskietki przez stacj, podobnie jak wysuwane byy kasety wideo w wikszoci magnetowidw.
+
+== Zobacz te ==
+Popularne firmy z brany nonikw pamici:
+Dysan
+TDK
+Verbatim
+
+== Przypisy ==

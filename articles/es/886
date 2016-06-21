@@ -1,0 +1,130 @@
+La investigacin de operaciones o investigacin operativa o investigacin operacional (conocida tambin como teora de la toma de decisiones o programacin matemtica) (I.O.) es una rama de las matemticas que consiste en el uso de modelos matemticos, estadstica y algoritmos con objeto de realizar un proceso de toma de decisiones. Frecuentemente trata del estudio de complejos sistemas reales, con la finalidad de mejorar (u optimizar) su funcionamiento. La investigacin de operaciones permite el anlisis de la toma de decisiones teniendo en cuenta la escasez de recursos, para determinar cmo se puede optimizar un objetivo definido, como la maximizacin de los beneficios o la minimizacin de costos.
+
+== Origen militar ==
+Cuando comenz la Segunda Guerra Mundial, haba un pequeo grupo de investigadores militares, encabezados por A. P. Rowe, interesados en el uso militar de una tcnica conocida como radioubicacin (o radiolocalizacin), que desarrollaron cientficos civiles. Algunos historiadores consideran que esta investigacin es el punto inicial de la investigacin de operaciones. Otros creen que los estudios que tienen las caractersticas del trabajo de investigacin de operaciones aparecieron posteriormente. Algunos consideran que su comienzo est en el anlisis y solucin del bloqueo naval de Siracusa que Arqumedes present al tirano de esa ciudad, en el siglo III A.C. F. W. Lanchester, en Inglaterra, justo antes de la primera guerra mundial, desarroll relaciones matemticas sobre la potencia balstica de las fuerzas opositoras que, si se resolvan tomando en cuenta el tiempo, podan determinar el resultado de un encuentro militar. Thomas Alva Edison tambin realiz estudios de guerra antisubmarina. Ni los estudios de Lanchester ni los de Edison tuvieron un impacto inmediato; junto con los de Arqumedes, constituyen viejos ejemplos del empleo de cientficos para determinar la decisin ptima en las guerras, optimizando los ataques.
+No mucho despus de que estallara la Segunda Guerra Mundial, la Bawdsey Research Station, bajo la direccin de Rowe, particip en el diseo de utilizacin ptima de un nuevo sistema de deteccin y advertencia prematura, denominado radar (Radio Detection And Ranging  Deteccin y medicin de distancias mediante radio). Poco despus este avance sirvi para el anlisis de todas las fases de las operaciones nocturnas, y el estudio se constituy en un modelo de los estudios de investigacin de operaciones que siguieron.
+En agosto de 1940 se organiz un grupo de 20 investigadores, bajo la direccin de P. M. S. Blackett, de la Universidad de Mnchester, para estudiar el uso de un nuevo sistema antiareo controlado por radar. Se conoci al grupo de investigacin como el Circo de Blackett, nombre que no parece desatinado a la luz de sus antecedentes y orgenes diversos. El grupo estaba formado por tres fisilogos, dos fisicomatemticos, un astrofsico, un oficial del ejrcito, un topgrafo, un fsico general y dos matemticos. Generalmente se acepta que la formacin de este grupo constituye el inicio de la investigacin de operaciones.
+Blackett y parte de su grupo participaron en 1941 en problemas de deteccin de barcos y de submarinos mediante un radar autotransportado. Este estudio condujo a que Blackett fuera nombrado director de Investigacin de Operacin Naval del Almirantazgo Britnico. Posteriormente, la parte restante de su equipo pas a ser el grupo de Investigacin de Operaciones de la Plana de Investigacin y Desarrollo de la Defensa Area, y luego se dividi de nuevo para formar el Grupo de Investigacin de Operaciones del Ejrcito. Despus de la guerra, los tres servicios tenan grupos de investigacin de operaciones.
+Como ejemplo de esos primeros estudios est el que plante la Comandancia Costera, que no lograba hundir submarinos enemigos con una nueva bomba antisubmarina. Las bombas se preparaban para explotar a profundidades de no menos de 30 m. Despus de estudios detallados, un profesor apellidado Williams lleg a la conclusin de que la mxima probabilidad de muerte ocurrira con ajustes para profundidades de entre 6 y 7 m. Entonces se prepararon las bombas para mnima profundidad posible de 10 m, y los aumentos en las tasas de muertes, segn distintas estimaciones, se incrementaron entre un 400 y un 700%. De inmediato se inici el desarrollo de un mecanismo de disparo que se pudiera ajustar a la profundidad ptima de 6 a 7 m. Otro problema que consider el Almirantazgo fueron las ventajas de los convoyes grandes frente a los pequeos. Los resultados fueron a favor de los convoyes grandes.
+A pocos meses de que Estados Unidos entrara en la guerra, en la fuerza area del ejrcito y en la marina se iniciaron actividades de investigacin de operaciones. Para el Da D (invasin aliada de Normanda), en la fuerza area se haban formado veintisis grupos de investigacin de operaciones, cada uno con aproximadamente diez cientficos. En la marina se dio un proceso semejante. En 1942, Philip M. Morris, del Instituto Tecnolgico de Massachussets, encabez un grupo para analizar los datos de ataque marino y areo en contra de los submarinos alemanes. Luego se emprendi otro estudio para determinar la mejor poltica de maniobrabilidad de los barcos en convoyes a fin de evadir aeroplanos enemigos, e incluso los efectos de la exactitud antiarea. Los resultados del estudio demostraron que los barcos pequeos deberan cambiar su direccin gradualmente.
+Al principio, la investigacin de operaciones se refera a sistemas existentes de armas y a travs del anlisis, generalmente matemtico, se buscaban las polticas ptimas para la utilizacin de esos sistemas. Hoy da, la investigacin de operaciones todava realiza esta funcin dentro de la esfera militar; sin embargo, lo que es mucho ms importante, ahora se analizan las necesidades del sistema de operacin con modelos matemticos, y se disean uno o ms sistemas de operacin que ofrezcan la capacidad ptima.
+El xito de la investigacin de operaciones en la esfera de lo militar qued bastante bien documentado hacia finales de la Segunda Guerra Mundial. El general Arnold encarg a Donald Douglas, de la Douglas Aircraft Corporation, en 1946, la direccin de un proyecto Research And Development (RAND  Investigacin y Desarrollo) para la Fuerza Area. La corporacin RAND desempea hoy da un papel importante en la investigacin que se lleva a cabo en la Fuerza Area.
+A partir del inicio de la investigacin de operaciones como disciplina, sus caractersticas ms comunes son:
+enfoque de sistemas
+modelado matemtico
+enfoque de equipo
+Estas caractersticas prevalecieron a ambos lados del Atlntico, a partir del desarrollo de la investigacin de operaciones durante la Segunda Guerra Mundial.
+Para maximizar la capacidad militar de entonces, fue necesario un enfoque de sistemas. Ya no era tiempo de tomar decisiones de alto nivel sobre la direccin de una guerra que exiga sistemas complicados frente a la estrategia de guerras anteriores o como si se tratara de un juego de ajedrez.
+La computadora digital y el enfoque de sistemas fueron preludios necesarios del procedimiento matemtico de los sistemas militares de operaciones. Las matemticas aplicadas haban demostrado su utilidad en el anlisis de sistemas econmicos, y el uso de la investigacin de operaciones en el anlisis de sistemas demostr igualmente su utilidad.
+Para que un anlisis de un sistema militar de operaciones fuera tecnolgicamente factible, era necesario tener una comprensin tcnica adecuada, que tomara en cuenta todas las subcomponentes del sistema. En consecuencia, el trabajo de equipo result ser tan necesario como efectivo.
+
+== Aplicaciones humanas ==
+Charles West Churchman y Russell L. Ackoff, filsofos de la investigacin operativa, escribieron numerosos libros sobre la aplicacin de sus tcnicas en beneficio de la humanidad y de la sociedad fuera del mbito militar. Rusell Ackoff dio en ocasiones asesoramiento al gobierno de Mxico y de la UNAM (Universidad Nacional Autnoma de Mxico) sobre mtodos para mejorar la economa y la educacin del pueblo de Mxico, mismos mtodos descritos en sus Fbulas de Ackoff.
+
+== Investigacin operativa en contexto ==
+La investigacin operativa es una moderna disciplina cientfica que se caracteriza por la aplicacin de teora, mtodos y tcnicas especiales, para buscar la solucin de problemas de administracin, organizacin y control que se producen en los diversos sistemas que existen en la naturaleza y los creados por el ser humano, tales como las organizaciones a las que identifica como sistemas organizados, sistemas fsicos, econmicos, ecolgicos, educacionales, de servicio social, etctera.
+El objetivo ms importante de la aplicacin de la investigacin operativa es apoyar en la toma ptima de decisiones en los sistemas y en la planificacin de sus actividades.
+El enfoque fundamental de la investigacin operativa es el enfoque de sistemas, por el cual, a diferencia del enfoque tradicional, se estudia el comportamiento de todo un conjunto de partes o sub-sistemas que interaccionan entre s, se identifica el problema y se analizan sus repercusiones, y se buscan soluciones integrales que beneficien al sistema como un todo.
+Para hallar la solucin, la investigacin operativa generalmente representa el problema como un modelo matemtico, que se analiza y evala previamente.
+La investigacin de operaciones es una ciencia interdisciplinaria.
+
+== reas de aplicacin ==
+reas funcionales, Una muestra de los problemas que la IO ha estudiado y resuelto con xito en negocios e industria se tiene a continuacin:
+Personal: La automatizacin y la disminucin de costos, reclutamiento de personal, clasificacin y asignacin a tareas de mejor actuacin e incentivos a la produccin.
+Mercado y distribucin: El desarrollo e introduccin de producto, envasado, prediccin de la demanda y actividad competidora, localizacin de bodegas y centros distribuidores.
+Compras y materiales: Las cantidades y fuentes de suministro, costos fijos y variables, sustitucin de materiales, reemplazo de equipo, comprar o rentar.
+Manufactura: La planeacin y control de la produccin, mezclas ptimas de manufactura, ubicacin y tamao de planta, el trfico de materiales y el control de calidad.
+Finanzas y contabilidad: Los anlisis de flujo de efectivo, capital requerido de largo plazo, inversiones alternas, muestreo para la seguridad en auditoras y reclamaciones.
+Planeacin: Con los mtodos Pert para el control de avance de cualquier proyecto con mltiples actividades, tanto simultneas como las que deben esperar para ejecutarse.
+Algunas personas se veran tentadas a aplicar mtodos matemticos a cuanto problema se presentase, pero es que acaso siempre es necesario llegar al ptimo? Podra ser ms caro el modelar y el llegar al ptimo que a la larga no ofrezca un margen de ganancias muy superior al que ya se tiene.
+Tmese el siguiente ejemplo:
+La empresa EMX aplica I.O. y gasta por el estudio y el desarrollo de la aplicacin $100, pero despus de aplicar el modelo observa que la mejora no es muy diferente a la que actualmente tena.
+Puede sealarse, entonces, que la investigacin de operaciones slo se aplicar a los problemas de mayor complejidad, sin olvidar que el simple uso de la I.O. trae un costo que, si se supera el beneficio, no resultar econmicamente prctico. Algunos ejemplos prcticos donde resulta til la aplicacin de I.O. son:
+En el dominio combinatorio, muchas veces la enumeracin es imposible. Por ejemplo, si hay 200 trabajos por realizar, que toman tiempos distintos y solo cuatro personas que pueden hacerlos, enumerar cada una de las combinaciones podra ser ineficiente (aparte de desanimante). Luego los mtodos de secuenciacin sern los ms apropiados para este tipo de problemas.
+De igual manera, la I.O. es til cuando en los fenmenos estudiados interviene el azar. La nocin de esperanza matemtica y la teora de procesos estocsticos ofrecen la herramienta necesaria para construir el cuadro en el cual se optimizar la funcin econmica. Dentro de este tipo de fenmenos se encuentran las lneas de espera y los inventarios con demanda probabilstica.
+Con mayor motivo, la investigacin de operaciones se muestra como un conjunto de instrumentos precioso cuando se presentan situaciones de concurrencia. La teora de juegos no permite siempre resolverlos formalmente, pero aporta un marco de reflexin que ayude a la toma de decisiones.
+Cuando se observa que los mtodos cientficos resultan engorrosos para el conjunto de datos, se cuenta con otra opcin: simular tanto el comportamiento actual as como las propuestas y ver si hay mejoras sustanciales. Las simulaciones son experiencias artificiales.
+Es importante resaltar que la investigacin de operaciones no es una coleccin de frmulas o algoritmos aplicables sistemticamente a situaciones determinadas. Si se cae en este error, ser muy difcil captar en condiciones reales los problemas que puedan deducirse de los mltiples aspectos de esta disciplina, la cual busca adaptarse a las condiciones variantes y particulares de los diferentes sistemas que puede afrontar, usando una lgica y mtodos de solucin muy diferentes a problemas similares mas no iguales.
+
+== Modelos de investigacin de operaciones ==
+La investigacin operacional consiste en la aplicacin del mtodo cientfico, por parte de grupos interdisciplinarios, a problemas de control de sistemas organizativos con la finalidad de encontrar soluciones que atiendan de la mejor manera posible a los objetivos de la organizacin en su conjunto.
+No sustituye a los responsables de la toma de decisiones; pero, dndoles soluciones al problema obtenidas con mtodos cientficos, les permite tomar decisiones racionales.
+Puede ser utilizada en la programacin lineal (planificacin del problema), en la programacin dinmica (planificacin de las ventas) y en la teora de las colas (para controlar problemas de trnsito).
+Entre los mtodos utilizados por la investigacin de operaciones (o ciencia de la administracin), los administradores utilizan las matemticas y las computadoras para tomar decisiones racionales en la resolucin de problemas. Aunque estos administradores pueden dar respuesta a algunos problemas con su experiencia, ocurre que en el complejo mundo real muchos problemas no pueden resolverse con base en la experiencia. Para resolverlos, la investigacin de operaciones los agrupa en dos categoras bsicas:
+problemas determinsticos: son aquellos en que la informacin necesaria se conoce para obtener una solucin con certeza;
+problemas estocsticos: son aquellos en los que parte de la informacin necesaria no se conoce con certeza, lo que s ocurre en el caso de los determinsticos, sino que ms bien se comporta de una manera probabilstica.
+Un modelo de decisin debe considerarse como un vehculo para resumir un problema de decisin en forma tal que haga posible la identificacin y evaluacin sistemtica de todas las alternativas de decisin del problema. Despus se llega a una decisin seleccionando la alternativa que se juzgue sea la mejor entre todas las opciones disponibles. Un modelo es una abstraccin selectiva de la realidad.
+El modelo se define como una funcin objetivo y restricciones que se expresan en trminos de las variables (alternativas) de decisin del problema.
+Una solucin a un modelo, no obstante, de ser exacta, no ser til a menos que el modelo mismo ofrezca una representacin adecuada de la situacin de decisin verdadera. El modelo de decisin debe contener tres elementos:
+ Alternativas de decisin, de las cuales se hace una seleccin.
+ Restricciones, para excluir alternativas infactibles.
+ Criterios para evaluar y clasificar alternativas factibles.
+Tipos de Modelos de Investigacin de Operaciones.
+Modelo Matemtico: Se emplea cuando la funcin objetivo y las restricciones del modelo se pueden expresar en forma cuantitativa o matemtica como funciones de las variables de decisin.
+Modelo de Simulacin: Los modelos de simulacin difieren de los matemticos en que las relaciones entre la entrada y la salida no se indican en forma explcita. En cambio, un modelo de simulacin divide el sistema representado en mdulos bsicos o elementales que despus se enlazan entre si va relaciones lgicas bien definidas. Por lo tanto, las operaciones de clculos pasaran de un mdulo a otro hasta que se obtenga un resultado de salida.
+Los modelos de simulacin cuando se comparan con modelos matemticos; ofrecen mayor flexibilidad al representar sistemas complejos, pero esta flexibilidad no est libre de inconvenientes. La elaboracin de este modelo suele ser costoso en tiempo y recursos. Por otra parte, los modelos matemticos ptimos suelen poder manejarse en trminos de clculos.
+Modelos de Investigacin de Operaciones de la ciencia de la administracin: Los cientficos de la administracin trabajan con modelos cuantitativos de decisiones.
+Modelos Formales: Se usan para resolver problemas cuantitativos de decisin en el mundo real. Algunos modelos en la ciencia de la administracin son llamados modelos determinsticos. Esto significa que todos los datos relevantes (es decir, los datos que los modelos utilizarn o evaluarn) se dan por conocidos. En los modelos probabilsticos (o estocsticos), alguno de los datos importantes se consideran inciertos, aunque debe especificarse la probabilidad de tales datos.
+Modelo de Hoja de Clculo Electrnica: La hoja de clculo electrnica facilita hacer y contestar preguntas de "que si" en un problema real. Hasta ese grado la hoja de clculo electrnica tiene una representacin selectiva del problema y desde este punto de vista la hoja de clculo electrnica es un modelo. En realidad es una herramienta ms que un procedimiento de solucin.
+Modelo Icnico: Una representacin fsica de algunos objetos, ya sea en forma idealizada (Bosquejos) o a escala distinta. Ejemplo, planos y mapas (2D)
+Modelo Analgico: Puede representar situaciones dinmicas o cclicas, son ms usuales y pueden representar las caractersticas y propiedades de acontecimiento que se estudia. Ejemplo, curvas de demanda; curvas de distribucin de frecuencia en las estadsticas y diagramas de flujo.
+Modelo simblico o matemtico: Son representaciones de la realidad en forma de cifras, smbolos matemticas y funciones, para representar variables de decisin y relaciones que nos permiten describir y analizar el comportamiento del sistema:
+ Cuantitativos y cualitativos La mayor parte de los problemas de un negocio u organizacin comienzan con un anlisis y definicin de un modelo cualitativo y se avanza gradualmente hasta obtener un modelo cuantitativo, la investigacin de operaciones se ocupa de la sistematizacin de los modelos cualitativos y de su desarrollo hasta el punto en que pueden cuantificarse.
+Cuando es posible construir un modelo matemtico insertando smbolos para representar relaciones entre constante y variables estamos ante un modelo cuantitativo, una ecuacin es un modelo de este tipo. Las frmulas, las matrices, los diagramas o series de valores que se obtienen mediante procesos matemticos.
+ Estndares y hechos a la medida Se llaman modelos estndar a los que solo hay que insertar o sustituir diferentes valores con el fin de obtener un valor a una respuesta de un sistema y son aplicables al miso tipo de problemas en negocios. Ejemplo, el clculo de costos o gastos, el clculo de ganancias, etc.
+Se llaman modelos hechos a la medida cuando se crean modelos para resolver un caso de problema especfico que se ajusta nicamente a este problema.
+ Probabilsticas y determinsticos Los modelos que se basan el as probabilidades y estadsticas y que se ocupan de incertidumbres futuras se llamas probabilsticas, y los modelos que no tienen consideraciones probalsticas se llaman determinsticos; el PERT, los inventarios, la programacin lineal, enfocan su atencin en aquellas circunstancias que no son crticas y en los que las cantidades son determinadas y exactas.
+ Descriptivos y de optimizacin Cuando un modelo constituye sencillamente una descripcin matemtica de una condicin real del sistema se llama descriptivo. Algunos de estos modelos se emplean para mostrar geogrficamente una situacin y ayudan al observador a evaluar resultados por secciones una sobre otra. Puede obtenerse una solucin, sin embargo, en este modelo solo se intenta describir la situacin y no escoger una alternativa.
+Cuando con la aplicacin del modelo se llega a una solucin ptima de acuerdo con los criterios de entrada se trata de un modelo de optimizacin.
+ Estticos y dinmicos Los modelos estticos se ocupan de determinar una respuesta para una serie especial de condiciones fijas que probablemente no cambiaran significativamente a corto plazo, es decir, la solucin est basada en una condicin esttica.
+Un modelo dinmico por el contrario est sujeto al factor tiempo que desempea un papel esencial en la secuencia de las decisiones, independientemente de cuales hayan sido las decisiones anteriores. A la programacin dinmica pertenecen estos modelos.
+ De simulacin y no simulacin. Con el uso de la computadora es fcil preparar un modelo simulado paso por paso donde se puede reproducir el funcionamiento de sistemas o problemas de gran escala. Es un modelo de simulacin, los datos de entrada pueden ser reales o generados en forma aleatoria.
+Los modelos que no se prestan para usar datos empricos o simulados en forma aleatoria son modelos no simulados como los de optimizacin o los creados a medida
+
+== Punto ptimo ==
+Es el punto donde la combinacin de los recursos productivos de un proceso proporcionan mximos resultados y beneficios con mnimos recursos o esfuerzos. Por encima del ptimo no hay tcnicamente otro punto mejor.
+
+== Objetivos y mtodos ==
+El objetivo y finalidad de la investigacin operacional es encontrar la solucin ptima para un determinado problema (militar, econmico, de infraestructura, logstico, etc.)
+Est constituida por un acercamiento cientfico a la solucin de problemas complejos, tiene caractersticas intrnsecamente multidisciplinares y utiliza un conjunto diversificado de instrumentos, prevalentemente matemticos, para la modelizacin, la optimizacin y el control de sistemas estructurales en conocimiento a dems cosas.
+En el caso particular de problemas de carcter econmico, la funcin objetivo puede ser obtener el mximo rendimiento o el menor costo.
+La investigacin operacional tiene un rol importante en los problemas de toma de decisiones porque permite tomar las mejores decisiones para alcanzar un determinado objetivo respetando los vnculos externos, no controlables por quien debe tomar la decisin.
+
+== Fases ==
+La elaboracin del problema est subdividida en fases obligatorias. Las principales son:
+examen de la situacin real y recoleccin de la informacin;
+formulacin del problema, identificacin de las variables controlables y las externas (no controlables) y la eleccin de la funcin objetivo, a ser maximizada o minimizada;
+construccin del modelo matemtico, destinado a dar una buena representacin del problema; debe ser fcil de usar; representar el problema, dando toda la informacin para poder tomar una decisin lo ms idnea posible;
+resolucin del modelo (mediante diferentes modalidades);
+anlisis y verificacin de las soluciones obtenidas: se controla si la funcin objetivo ofrece las ventajas esperadas; se verifica la representatividad del modelo; y, se efectan anlisis de sensibilidad de la solucin obtenida;
+utilizacin del sistema obtenido para su posterior uso.
+
+== Tcnicas de investigacin operativa ==
+La resolucin de un modelo analtico de I.O. se apoya matemticamente sobre una o ms de las siguientes teoras (entre las ms usadas):
+teora de juegos
+teora de colas de espera
+teora de control
+teora de la decisin
+teora de los grafos
+programacin lineal
+probabilidad y estadstica matemtica
+programacin dinmica
+cadena de Markov
+La resolucin de un modelo estocstico de I.O. se apoya en uno o ms de los siguiente mtodos (entre los ms usados):
+Simulacin por eventos discretos
+Mtodo de Montecarlo
+
+== Algoritmos ==
+Algunos algoritmos utilizados en la resolucin de sistemas modelados con investigacin operacional son:
+algoritmo de Omar, para resolver problemas de optimizacin lineal
+algoritmo de Prim o algoritmo de Kruskal
+algoritmo de Dijkstra
+algoritmo de Ford-Fulkerson
+algoritmo de la barrera logartmica
+algoritmo simplex
+Hay que aclarar que, en muchos casos, el investigador de operaciones puede y debe crear su propio mtodo, ya sea a partir de modificacin o integracin de los anteriores, o bien con la creacin de nuevos.
+
+== Referencias ==
+
+== Enlaces externos ==
+ Wikimedia Commons alberga contenido multimedia sobre Investigacin de operaciones. Commons

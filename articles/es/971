@@ -1,0 +1,17 @@
+En matemtica, la esfera de Riemann (o plano complejo extendido), llamada as en honor al matemtico del siglo XIX Bernhard Riemann, es una esfera obtenida del plano complejo mediante la adicin de un punto del infinito. La esfera es la representacin geomtrica de los nmeros complejos extendidos, denotado como   , (vase fig.1 y fig.2), la cual consiste en los nmeros complejos ordinarios en conjuncin con el smbolo  para representar el infinito.
+Los nmeros complejos extendidos son comunes en anlisis complejo porque permiten la divisin por cero en algunas circunstancias, en el sentido de hacer expresiones bien definidas tales como:
+
+Por ejemplo, cualquier funcin racional sobre el plano complejo puede ser extendida como una funcin continua sobre la esfera de Riemann, con los polos de la funcin racional mapeados al infinito. Ms generalmente, cualquier funcin meromorfa puede ser pensada como una funcin continua cuyo codominio es la esfera de Riemann.
+En geometra, la esfera de Riemann es el ejemplo prototpico de una superficie de Riemann, y una de las ms simples variedades complejas. En geometra proyectiva, la esfera puede ser pensada como la recta proyectiva compleja , el espacio proyectivo de todos las rectas complejas en . Como con cualquier superficie de Riemann compacta, la esfera tambin puede ser vista como una curva algebraica proyectiva, haciendo de esto un ejemplo fundamental de geometra algebraica. Tambin encuentra utilidad en otras disciplinas que dependen del anlisis y de la geometra, como puede ser la mecnica cuntica y otras ramas de la fsica.
+
+== Vase tambinEditar ==
+lgebra de Witt
+Punto del infinito
+
+== Notas y referenciasEditar ==
+
+Brown, James and Churchill, Ruel (1989). Complex Variables and Applications. New York: McGraw-Hill. ISBN 0070109052. 
+Griffiths, Phillip and Harris, Joseph (1978). Principles of Algebraic Geometry. John Wiley & Sons. ISBN 0-471-32792-1. 
+Penrose, Roger (2005). The Road to Reality. New York: Knopf. ISBN 0-679-45443-8. 
+Rudin, Walter (1987). Real and Complex Analysis. New York: McGraw-Hill. ISBN 0071002766. 
+Weisstein, Eric W. Riemann sphere. En Weisstein, Eric W. MathWorld (en ingls). Wolfram Research.

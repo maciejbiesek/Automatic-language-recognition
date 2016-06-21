@@ -1,0 +1,7 @@
+El Intel 440ZX (Intel 82443ZX), tambin conocido como el i440ZX, es un chipset de Intel que soporta CPUs Pentium II, Pentium III y Celeron. Fue lanzado en abril de 1998.
+
+== Caractersticas ==
+El chipset i440ZX es un derivado del i440BX, a igual que i440BX soporta originalmente procesadores Intel P6 en Slot 1 y posteriormente Socket 370 en configuraciones de un solo procesador hasta 1 GHz, Pero carece de soporte de Multiprocesamiento simtrico y el lmite de RAM se sita en 512 MB (En dos mdulos de 256 MB) y dos bancos DIMM.
+
+== i440ZX-66 ==
+El 440ZX-66 (Intel 82443ZX-66) es una varinte de i440ZX normal que ha sido diseado para el procesador Intel Celeron como remplazo del i440LX e i440EX, est limitado por un FSB a 66 MHz.

@@ -1,0 +1,32 @@
+LOpen Source Initiative est une organisation dvoue  la promotion des logiciels open source.
+Elle a t cre en 1998  Palo Alto par Todd Anderson, Chris Peterson, John "maddog" Hall, Larry Augustin, Sam Ockman et Michael Tiemann sous l'impulsion de Bruce Perens et Eric S. Raymond.
+
+== Point de dpart et historique ==
+N en 1998 d'une scission de la communaut du logiciel libre (communaut d'utilisateurs et de dveloppeurs) afin de conduire une politique juge plus adapte aux ralits conomiques et techniques, le mouvement open source dfend la libert d'accder aux sources des programmes qu'ils utilisent, afin d'aboutir  une conomie du logiciel dpendant de la seule vente de prestations et non plus de celle de licences d'utilisation.
+Parmi les applications de lopen source, on compte sa contribution au dveloppement du noyau Linux et de logiciels anims par ce systme d'exploitation. Une srie d'essais d'Eric S. Raymond, datant de 1998, tmoigne de la faon dont lopen source tait vu  l'poque comme une sorte de nouvel Eldorado. Au nombre de ces essais figurent La Cathdrale et le Bazar et  la conqute de la noosphre, qui exposent le mode de dveloppement open source.
+En 2005, plusieurs milliers d'informaticiens franais sont salaris grce  ce modlencessaire, tant dans de petites entreprises vendant des prestations spcialises que chez les  grands intgrateurs  et les entreprises utilisatrices. Par ailleurs des gants du secteur (IBM, Novell, HP) assoient certaines de leurs stratgies techniques et commerciales sur l'approche open source.
+
+==  Open source  et  logiciel libre  ==
+L'emploi des termes logiciel libre et open source de manire interchangeable est courant dans les mdias, les licences d'utilisation tant souvent les mmes et les dveloppeurs ne se souciant pas toujours de la distinction.
+Une vive polmique oppose les partisans de lopen source et les partisans du logiciel libre.
+Les logiciels qui supportent le mouvement du logiciel libre rpondent aux critres noncs par la Free Software Foundation dans la Free Software Definition, elle-mme rdige par Richard Stallman.
+La notion dopen source repose galement sur des dfinitions prcises. L'utilisation des termes open source a t suggre par Christine Peterson, du Foresight Institute, afin de lever l'ambigut smantique du mot anglais free qui signifie libre au sens de  libert , mais galement libre au sens de  libre accs, gratuit   et par le biais de cette rectification smantique, indiquer aux utilisateurs qu'un logiciel a un cot.
+La principale critique issue du mouvement parent du logiciel libre est le fait que lopen source ne communique presque exclusivement que sur une des caractristiques techniques des logiciels (la libert d'accs au fonctionnement du logiciel) en occultant les motivations premires dont elles sont issues, au risque de les perdre. Ils accusent lopen source d'tre m par la dynamique et les ressources financires et d'expertise de multinationales, l'opposant au logiciel libre m par des idaux dordre philosophique et politique.
+Un an aprs sa cration, Bruce Perens, dtenteur de la marque open source et crateur de lOpen Source Definition, dcide de se retirer du projet  la suite de ce quil appelle un  chec de lOpen Source Initiative  et rdige un essai publi par la Free Software Foundation intitul Pourquoi nous parlons de logiciels libres dans lequel il affirme que la Free Software Definition assure davantage de liberts aux utilisateurs des programmes.
+Ainsi, des logiciels libres sous licence copyleft sont open source, tandis que des logiciels open source peuvent ne pas tre  libres . En pratique, la plupart des licences de lopen source satisfont aux critres du libre selon la Free Software Foundation, les diffrentes subtilits qui les distinguent tant principalement dordre philosophique et commercial.
+ noter que seules certaines licences dont la GNU GPL (du projet GNU de Richard Stallman) garantissent la facult dite de copyleft, c'est--dire le partage des modifications du code source sous la mme licence que la version non-modifie. Ces licences permettent ainsi de protger les liberts des utilisateurs (le code source restera  jamais libre, car le copyleft garantit qu'on ne pourra pas ajouter de nouvelles restrictions). Elles assurent galement une coopration loyale et prenne envers la communaut du logiciel libre ainsi qu'envers tous les utilisateurs.
+
+== Notes ==
+
+== Voir aussi ==
+
+=== Articles connexes ===
+FLOSS
+
+=== Liens externes ===
+(en) Site officiel
+(fr) Libre comme Libert, chapitre 11 (l'apparition du mouvement open source, raconte par Sam Williams)
+
+Portail de linformatique
+ Portail des logiciels libres
+ Portail du droit

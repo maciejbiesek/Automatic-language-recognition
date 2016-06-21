@@ -1,0 +1,10 @@
+El Ruido Perlin es una funcin matemtica que utiliza interpolacin entre un gran nmero de gradientes precalculados de vectores que construyen un valor que vara seudo-aleatoriamente en el espacio o tiempo. Se parece al ruido blanco, y es frecuentemente utilizado en imgenes generadas por computadora para simular variabilidad en todo tipo de fenmenos, acercndose estas as a un aspecto ms natural.
+Result del trabajo de Ken Perlin, que lo invent para generar las texturas de la pelcula Tron. Gan un premio especial de la academia gracias al Ruido Perlin en 1997. Curiosamente Tron no gan los premios de la academia para efectos visuales en 1982 ya que haba hecho "trampa" por utilizar efectos e imgenes generadas por computadora.
+El Ruido Perlin es ampliamente usado en efectos de computadora como el fuego, humo, nubes y en general todo tipo de fenmenos que requieran aleatoriedad sin perder continuidad.
+
+== Enlaces externos ==
+Pgina personal de Ken Perlin
+Implementacin de referencia del Ruido Perlin en Java
+Implementacin y explicacin de cmo crear Ruido Perlin en 1 y 2 dimensiones
+Explicacin de Ken Perlin de cmo el ruido es creado y utilizado
+Otra explicacin de como crear y usar el ruido

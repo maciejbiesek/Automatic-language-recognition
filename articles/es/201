@@ -1,0 +1,18 @@
+Tasman es el nombre del motor de renderizado incluido por primera vez con la versin 5 de Internet Explorer para Mac e incluido en otras aplicaciones para el sistema operativo Mac OS X.
+
+== Desarrollo ==
+Tantek elik lider el equipo de desarrollo de Tasman. El principal objetivo fue mejorar la implementacin de estndares propuestos por el World Wide Web Consortium. En el momento de su lanzamiento fue reconocido por tener el mejor soporte para HTML y hojas de estilo en cascada de la poca.
+Aunque el desarrollo de Internet Explorar para Mac fue cancelado en 2001, nuevas versiones de Tasman fueron incorporadas en otras aplicaciones.
+
+== Historia ==
+La primera versin de Tasman, conocida como "v0", apareci incluida en Internet Explorer 5 Macintosh Edition el 27 de marzo de 2000. Una versin mejorada, la versin 0.1, fue incluida en Internet Explorer 5.1 for Mac.
+El 15 de mayo de 2003 Microsoft comenz a distribuir MSN for Mac OS X previo pago de una suscripcin. Este navegador web inclua la nueva versin 0.9 de Tasman. Entre las mejoras de esta versin se incluyen:
+Implementacin completa de Unicode.
+Mejor soporte para hojas de estilo en cascada, incluyendo selectores de CSS 3, perfil CSS para televisores y reglas @media.
+Mejor soporte para Document Object Model, incluyendo DOM 1 Core, DOM 2 Core, DOM 2 Style, y DOM 2 Events. Tambin se mejor la compatibilidad de la implementacin de DOM de Internet Explorer para Microsoft Windows.
+Soporte para XHTML 1.0 y 1.1, aunque no est activado.
+Mejor soporte para caractersticas de Mac OS X como CoreGraphics, ATSUI y CFSocket.
+Por un tiempo, la motivacin para el desarrollo de Tasman fueron los proyectos de set-top box que estaba desarrollando Microsoft. Sin embargo, ninguno de estos proyectos lleg a ser lanzado.
+El 11 de mayo de 2004 Microsoft comenz a distribuir Microsoft Office 2004 para Mac que incorpora la versin 1.0 de Tasman en el cliente de correo electrnico Entourage.
+
+== Referencias ==

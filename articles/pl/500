@@ -1,0 +1,7 @@
+Przewenie procentowe  stosunek zmniejszenia si pola przekroju poprzecznego w miejscu zerwania do pola przekroju poprzecznego roboczej czci prbki nieobcionej, wyraony w procentach. Zwykle oznaczany jako . Przewenie procentowe oblicza si na podstawie danych uzyskanych ze statycznej prby rozcigania na podstawie wzoru:
+,
+gdzie:
+ - pole najmniejszego przekroju poprzecznego prbki po zerwaniu
+ - pole przekroju poprzecznego roboczej czci nieobcionej prbki
+
+== Przypisy ==

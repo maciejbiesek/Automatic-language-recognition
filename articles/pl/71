@@ -1,0 +1,14 @@
+yes  uniksowa komenda, ktra zwraca twierdzc odpowied lub podany w argumencie cig znakw. Robi to a do zakoczenia procesu.
+
+== Opis ==
+Komenda yes zwraca 'y' lub dowolny cig znakw podany jako argument, dopki nie zostanie zatrzymana przez uytkownika lub zabita. Komenda po kadym zwrconym cigu znakw dodaje znak koca linii. Kiedy zostanie przekierowana jako cz strumienia bdzie pracowa dopki strumie nie zostanie zakoczony.
+Omawiana komenda moe by take uyta do testowania jak system radzi sobie z wysokimi obcieniami  uywanie yes skutkuje 100% zuyciem procesora dla systemw jednordzeniowych (dla systemw wielordzeniowych, trzeba by uruchomi odpowiedni proces na kadym rdzeniu). To moe by przydatne przy sprawdzaniu czy chodzenie komputera bdzie wystarczajce gdy procesor bdzie pracowa ze 100% obcieniem.
+
+== Uycie ==
+yes moe by uyte do wysyania twierdzcej (lub przeczcej; yes n) odpowiedzi do kadego polecenia ktre bdzie takowej wymagao, powodujc, e do dziaania nie jest potrzebna interakcja z uytkownikiem.
+Takie zastosowanie moe by przestarzae w dzisiejszych czasach, poniewa wikszo polece ktre mogyby wymaga odpowiedzi od uytkownika posiada albo opcje 'wymu' (np. rm -f) albo opcje 'przyjmij-tak' (np. apt-get -y).
+Dla przykadu nastpujcy kod:
+rm -f *.txt
+jest odpowiednikiem:
+yes | rm *.txt
+Ostatnio polecenie yes zyskao rozgos jako rodek do sprawdzenia czy uytkownicy MacBooka s naraeni na dziaanie Intermittent Shutdown Syndrome. Uruchamiajc komend yes dwukrotnie pod OS X, uytkownicy mogli zmaksymalizowa zuycie procesora i dowiedzie si czy wada jest zwizana z przegrzaniem.rdo

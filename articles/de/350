@@ -1,0 +1,129 @@
+In der klassischen Mechanik bezeichnet man eine aktive Transformation des Phasenraums als kanonisch, wenn sie wesentliche Aspekte der Dynamik invariant lsst. Die Invarianz der hamiltonschen Gleichungen ist dabei ein notwendiges, jedoch nicht hinreichendes, Kriterium. Notwendig und hinreichend ist die Invarianz der Poisson-Klammern, ein weiteres notwendiges Kriterium ist die Invarianz des Phasenraumvolumens. Ziel dabei ist, die neue Hamilton-Funktion mglichst zu vereinfachen, im Idealfall sogar unabhngig von einer oder mehreren Variablen zu machen. In dieser Funktion sind kanonische Transformationen der Ausgangspunkt zum Hamilton-Jacobi-Formalismus. Kanonische Transformationen knnen aus sogenannten erzeugenden Funktionen konstruiert werden.
+Wichtige Beispiele kanonischer Transformationen sind Transformationen des Phasenraums, die von Transformationen des Konfigurationsraums induziert werden  sogenannte Punkttransformationen  sowie der kanonische Fluss bei festgehaltener Zeitkonstanten, also Transformationen des Phasenraums, die durch Fortschreiten der Dynamik um eine konstante Zeitdifferenz entstehen. Die erzeugende Funktion in letzterem Fall ist die Hamiltonsche Prinzipalfunktion und entspricht gerade der Wirkung zwischen den beiden Zeitpunkten, aufgefasst als Funktion der alten und neuen Koordinaten.
+
+== Zeitunabhngiger Fall ==
+Im Folgenden wird zunchst nur der einfachere zeitunabhngige Fall behandelt. Der zeitabhngige Fall wird in einem eigenen Abschnitt dargestellt. Ferner sind folgende Ausfhrungen als lokale Beschreibung der Transformationen in Bndelkarten anzusehen. Fr das Verstndnis der globalen Zusammenhnge ist die Verwendung des Differentialformenkalkls unerlsslich. Sie werden ebenfalls in einem eigenen Abschnitt dargestellt.
+
+=== Definition ===
+Man betrachte ein Hamiltonsches System mit f Freiheitsgraden und der Hamilton-Funktion , die von den Koordinaten  und Impulsen  abhngt. Die kanonischen Gleichungen (hamiltonsche Bewegungsgleichungen) lauten somit:
+
+wobei im Folgenden fr die Argumente  der bersichtlichkeit halber kurz  geschrieben wird. Gesucht sind Transformationen , die die kanonischen Gleichungen invariant lassen, d. .h., durch Substitution  in der Hamilton-Funktion  soll dieselbe Dynamik beschrieben werden:
+
+Die Gltigkeit der Hamiltonschen Gleichungen ist quivalent zum Hamiltonschen Extremalprinzip
+
+wobei die  und  unabhngig voneinander variiert werden. Fr die gleichzeitige Gltigkeit dieses und des quivalenten Variationsprinzips fr das transformierte System ist es hinreichend, dass sich die Integranden nur bis auf einen konstanten Faktor (d. .h. bis auf eine Skalentransformation) und eine totale Zeitableitung unterscheiden:
+
+Kanonisch (eigentlich lokal kanonisch) heien gerade die Transformationen, die obige Gleichung mit  erfllen (solche mit anderen Koeffizienten werden auch als extended canonical transformations bezeichnet und sind immer als Komposition einer kanonischen Transformation und einer Skalentransformation darstellbar). Fr diese gilt:
+
+Andere Transformationen, die auch die kanonische Form der Bewegungsgleichungen invariant lassen (denkbar wren auch solche, die eine neue Hamilton-Funktion einfhren, wie es ohnehin im zeitabhngigen Fall geschieht), haben den Nachteil, dass sie sich nicht aus einer erzeugenden Funktion herleiten lassen und wichtige Resultate wie z. B. der Satz von Liouville oder die Invarianz der Poisson-Klammern nicht gelten. Beispielsweise lsst auch die Transformation  die kanonischen Gleichungen invariant, wird aber nicht zu den kanonischen Transformationen gezhlt.
+
+=== Poisson-Klammern ===
+Die Poisson-Klammer glatter Funktionen  und  auf dem Phasenraum bzgl.  und  ist durch
+
+definiert. Die Poisson-Klammern bezglich alter und neuer Koordinaten stimmen berein, es gilt also
+
+genau dann, wenn die Transformation  kanonisch ist (streng genommen, sollten die Funktionen auf der rechten Seite als pushforward  aufgefasst werden). quivalent ist ebenfalls die folgende Beziehung zwischen den fundamentalen Poisson-Klammern:
+
+Dabei ist  das Kronecker-Delta. Diese Eigenschaft wird auch gelegentlich zur Definition kanonischer Transformationen verwendet.
+
+=== Erzeugende Funktionen ===
+Kanonische Transformationen knnen durch erzeugende Funktionen (kurz auch Erzeugende) gefunden und konstruiert werden.
+Die Transformation  ist genau dann kanonisch, wenn
+
+Dabei ist  eine glatte Funktion auf dem Phasenraum und  ihr Differential. Die Funktionalmatrix der Transformation hat die Gestalt
+
+Von den vier Teilmatrizen knnen einige singulr sein. Unter ihnen sind jedoch mindestens zwei regulre, da fr die Determinante einer Blockmatrix
+
+gilt. Fr das Folgende sei zunchst angenommen, dass  gilt. Dann kann  substituiert werden und man erhlt mit :
+
+Falls , so ist gewiss . Dann kann  substituiert werden. Es ist . Das heit:
+
+Es ergibt sich:
+
+Von den Koordinaten  kann fr jeden Index  eine ausgewhlt werden, um zusammen mit den  eine Klasse unabhngiger Variablen einer erzeugenden Funktion zu liefern. Demnach gibt es fr ein Hamiltonsches System von  Freiheitsgraden  Klassen erzeugender Funktionen. Sie gehen jeweils durch eine Legendre-Transformation ineinander ber.
+Auf analoge Weise knnen erzeugende Funktionen der Klassen  und  gewhlt werden. Die Transformationsregeln fr die vier gngigen Klassen erzeugender Funktionen lauten:
+In der Literatur wird manchmal  und manchmal eine der  als kanonische Transformation bezeichnet,  die beiden Begriffe stimmen fr die Klasse  berein.
+Eine wichtige Eigenschaft erzeugender Funktionen der Klasse  ist ihre Additivitt bei Hintereinanderausfhrung kanonischer Transformationen. Gilt etwa
+
+so gilt auch
+
+=== Satz von Liouville ===
+Kanonische Transformationen lassen das Phasenraumvolumen  invariant.
+Im geometrischen Formalismus wird das Phasenraumvolumen durch die Differentialform  beschrieben. Da das Dachprodukt natrlich ist, gilt  und der Satz von Liouville ist ohne groen Aufwand bewiesen.
+
+=== Beispiele ===
+Im Folgenden sind einige kanonische Transformationen aufgelistet:
+Die identische Transformation  ist trivialerweise kanonisch mit der erzeugenden Funktion .
+Die Transformation  ist nicht kanonisch. Jedoch ist  kanonisch.
+Punkttransformationen des Konfigurationsraums  induzieren kanonische Transformationen, wenn die Impulse gem  transformiert werden (es handelt sich um das Transformationsverhalten von Kotangentialvektoren). Als erzeugende Funktion kann  verwendet werden.
+Die Zeitentwicklung induziert eine lokale kanonische Transformation: Es sei  fest gewhlt (falls die hamiltonschen Gleichungen keinen vollstndigen Fluss erzeugen, muss  hinreichend klein gewhlt werden). Zu  sei  eine Integralkurve der hamiltonschen Gleichungen mit  und es sei . Die Transformation  hat die Erzeugende
+
+die Hamiltonsche Prinzipalfunktion oder Wirkungsfunktion.
+Lineare Transformationen sind genau dann kanonisch, wenn ihre Matrizen symplektisch sind. Es sei  zusammengefasst. Dann ist durch  genau dann eine kanonische Transformation gegeben, falls , , wobei  die Einheitsmatrix bezeichnet. Symplektische Matrizen haben immer die Determinante 1. Ferner ist  genau dann Eigenwert von , wenn  Eigenwerte sind, und die entsprechenden Eigenrume sind isomorph.
+
+== Globale kanonische Transformationen ==
+Fr das Verstndnis der globalen Zusammenhnge ist der Differentialformenkalkl unerlsslich.
+Der Konfigurationsraum eines mechanischen Systems mit  Freiheitsgraden wird durch eine glatte -dimensionale Mannigfaltigkeit  modelliert. Die Lagrange-Funktion ist eine Funktion der verallgemeinerten Koordinaten und Geschwindigkeiten, also eine glatte Funktion auf dem Tangentialbndel . Durch eine Legendre-Transformation wird ein Isomorphismus zwischen dem Tangentialbndel und dem Kotangentialbndel hergestellt gem
+
+Dabei wird sich hier und im Folgenden, wenn von Koordinaten  gesprochen wird, immer auf Bndelkarten bezogen, das heit, die Karten sind von der Form
+
+wobei  eine Karte von  um  ist,  definiert ist mit einer den Tangentialvektor  reprsentierenden Kurve , und mit einem hochgestellten T die duale Abbildung bezeichnet wird. Diese Kartenwahl hat den Vorteil, dass die natrliche Paarung eines Tangential- und eines Kotangentialvektors mit dem euklidischen Skalarprodukt bereinstimmt  (hier wird die Einsteinsche Summenkonvention verwendet).
+Auf dem Kotangentialbndel gibt es einen natrlichen Zusammenhang zwischen Elementen  und Tangentialvektoren : . Dieser Zusammenhang soll nun auf Tangentialvektoren des Kotangentialbndels erweitert werden: Die natrliche Projektion  besitzt die Ableitung . Die fr  durch  definierte Differential-1-Form auf  heit kanonische 1-Form, in einer Bndelkarte hat sie die Form . Ihr negatives Differential  heit kanonische 2-Form (sie macht das Kotangentialbndel zu einer symplektischen Mannigfaltigkeit).
+Kanonische Transformationen sind Diffeomorphismen , die die kanonische 2-Form invariant lassen, d. h.  (allgemeiner bezeichnet man solche Abbildungen zwischen symplektischen Mannigfaltigkeiten als Symplektomorphismus, sie stellen also eine Verallgemeinerung kanonischer Transformationen dar). Entsprechende lokale Diffeomorphismen heien lokale kanonische Transformation. Somit ist , d. h., nach dem Lemma von Poincar ist  lokal (auf sternfrmigen Gebieten auch global) exakt:
+
+Hieraus folgt insbesondere, dass erzeugende Funktionen eine kanonische Transformation nur lokal beschreiben mssen.
+Die kanonische 2-Form definiert auch einen Zusammenhang  zwischen 1-Formen und Vektorfeldern gem
+
+Insbesondere wird  als hamiltonsches Vektorfeld bezeichnet (entsprechende Definitionen macht man fr beliebige glatte Funktionen), es erzeugt gerade den kanonischen Fluss. Die Poisson-Klammern lassen sich koordinatenfrei durch
+
+definieren. Auf diese Weise wird der Zusammenhang zwischen kanonischen Transformationen und den Poisson-Klammern besonders deutlich. Zunchst wird gezeigt, dass sich hamiltonsche Vektorfelder natrlich transformieren. Fr beliebige Vektorfelder  und  gilt:
+
+Jedoch ist auch  und somit
+
+Nun ist aber fr glatte Funktionen
+
+Die beiden Ausdrcke stimmen also genau dann berein, wenn
+
+also wenn  eine kanonische Transformation ist.
+
+== Zeitabhngiger und relativistischer Fall ==
+Es gibt mehrere Mglichkeiten, die Zeit in den Formalismus zu integrieren. Vor allem auch fr den relativistischen Fall ist es besonders gnstig, den Konfigurationsraum um eine Zeitvariable zum sogenannten erweiterten Konfigurationsraum zu erweitern. Der erweiterte Phasenraum enthlt dann zwei weitere Variable, die der Zeit entsprechende Impulsvariable wird blicherweise mit  bezeichnet. Insofern die Hamiltonfunktion  im nichtrelativischen Fall die Energie ausdrckt, kann die neue Hamiltonfunktion
+
+eingefhrt werden, die zwar keine physikalische Bedeutung hat, jedoch die korrekten Bewegungsgleichungen liefert. Die kanonischen Formen werden ohne nderung definiert und nehmen in Koordinaten die Gestalten  und  an. Das hamiltonsche Vektorfeld  erzeugt dann den Fluss:
+
+Auerdem ist  konstant entlang einer Integralkurve, sodass physikalisch nur der Fall  relevant ist und  mit  sowie  mit  identifiziert werden kann.
+Fr den relativistischen Fall sind auch kanonische Transformationen relevant, die die Zeitvariable ndern. Fr den nichtrelativistischen Fall sind solche Transformationen uninteressant. Im Folgenden werden die alten Koordinaten mit einem Querstrich gekennzeichnet. Es gelte nun
+
+Es wird angenommen, dass die neuen Koordinaten und die alten Impulse als Koordinaten verwendet werden knnen. Dann setzt man  ein und erhlt:
+
+Um sicherzustellen, dass  transformiert wird, kann  verwendet werden. Sodann lauten die Transformationsregeln:
+
+Hierbei wird  invariant gelassen, die Hamilton-Funktion  im Allgemeinen also verndert. Falls  die Hamilton-Jacobi-Gleichung erfllt, d. h.
+
+so folgt  und das System wird ins Gleichgewicht transformiert.
+
+== Symplektische Struktur ==
+Die Funktionalmatrizen kanonischer Transformationen
+
+bilden eine symplektische Gruppe, besitzen also die Eigenschaft
+
+mit
+
+und der ff-Einheitsmatrix .
+
+== Literatur ==
+V.I. Arnold: Mathematical Methods of Classical Mechanics.. Springer. ISBN 978-0387968902.
+H. Goldstein: Klassische Mechanik. Wiley-VCH. ISBN 978-3527405893.
+L. D. Landau, E. M. Lifschitz: Lehrbuch der Theoretischen Physik. Bd. 1: Mechanik. Verlag Harri Deutsch. ISBN 978-3808556122.
+W. Thirring: Lehrbuch der Mathematischen Physik. Bd. 1: Klassische Dynamische Systeme. Springer. ISBN 978-3211820896.
+
+== Einzelnachweise ==
+ Walter Thirring: Classical Mathematical Physics. New York 1997, S. 90.
+ Vladimir Arnold: Mathematical Methods of Classical Mechanics. New York 1989, S. 241.
+ Vladimir Arnold: Mathematical Methods of Classical Mechanics. New York 1989, S. 163.
+ Vladimir Arnold: Mathematical Methods of Classical Mechanics. New York 1989, S. 241.
+ a b Herbert Goldstein: Classical Mechanics. Addison-Wesley 2000, S. 371.
+ a b Herbert Goldstein: Classical Mechanics. Addison-Wesley 2000, S. 373.
+ Walter Thirring: Classical Mathematical Physics. Berlin 1901, S. 99.
+ a b Walter Thirring: Classical Mathematical Physics. New York 1997, S. 101.
+ Vladimir Arnold: Mathematical Methods of Classical Mechanics. New York 1997, S. 236.

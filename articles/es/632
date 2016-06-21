@@ -1,0 +1,70 @@
+La definicin de osmmetro ha evolucionado a travs del tiempo. En un principio un osmmetro era un aparato que se empleaba para medir la presin osmtica entre una solucin y un solvente: actualmente tambin se denomina osmmetro a los aparatos utilizados para determinar la osmolaridad de las soluciones, es decir, las concentraciones efectivas de solutos que causan la presin osmtica, algunos de los cuales no emplean medidas de presin osmtica sino otras propiedades coligativas que conducen a resultados ms exactos.
+
+== Historia ==
+El primer osmmetro fue inventado por el fisilogo francs Henri Dutrochet en 1828. El aparato es muy simple, y consta de un vaso lleno de solvente o de una solucin diluida. En otro recipiente en forma de embudo invertido se coloca una membrana semipermeable en la boca ms ancha, y en la otra boca se conecta un tubo capilar largo. Dentro de este recipiente se coloca la solucin concentrada y se introduce en el otro vaso de manera que la membrana quede en contacto con ambas soluciones. Al producirse la disolucin del solvente en la solucin concentrada, su nivel presionar sobre el tubo capilar hasta que la presin hidrosttica producida compense la presin osmtica.
+Dutrochet no realizaba mediciones precisas, sino que su aparato se utilizaba para visualizar el fenmeno. Los primeros experimentos de precisin fueron realizados por el alemn Wilhelm Pfeffer en 1877, quien construy un osmmetro perfeccionando el modelo de Dutrochet.
+En las dos primeras dcadas del Siglo XX las tcnicas para medir la presin osmtica mejoraron. Frazer y colaboradores trabajaron entre 1916 y 1921 en el diseo de un osmmetro de alta presin. Mejoraron los dispositivos porosos donde se depositaba el ferrocianuro de cobre, capaces de soportar grandes presiones. El osmmetro de Frazer dispone de un sofisticado mecanismo para medir los cambios de presin, basndose en los cambios de resistencia elctrica de los metales en contacto con la solucin, o el cambio del ndice de refraccin del agua, en lugar del usual manmetro de mercurio. Con este aparato Frazer consigui mediciones de presin osmtica del orden de 273 atmsferas.
+En esa misma poca, G. S. Hartley introdujo una nueva tcnica que permita mayor ahorro de tiempo en la medicin de la presin osmtica. Ocurra que las mediciones con osmmetros ordinarios estaban sujetas a una larga espera, porque el flujo osmtico es un proceso de transporte lento. La modificacin de Hartley fue muy simple y efectiva: consiste en lograr en forma inmediata el equilibrio, aplicando una presin para que el flujo osmtico sea cancelado. Esta modificacin disminuy considerablemente el tiempo en el registro de las medidas de la presin osmtica.
+La obtencin de buenos equipos durante la dcada de 1920 hizo posible la exitosa determinacin de los pesos moleculares de macromolculas, como polmeros, protenas y polisacridos.
+
+== Tipos de osmmetros de membrana ==
+
+=== Osmmetro esttico ===
+El aparato ms simple es el de Dutrochet. En el momento en que se llega a un equilibrio, mediante la medicin de la altura de la columna de solucin concentrada es posible determinar la presin osmtica:
+
+donde:
+ es la presin osmtica.
+Ph la presin hidrosttica.
+ la densidad de la solucin concentrada.
+g la aceleracin de la gravedad.
+h la altura de la columna de solucin concentrada.
+Una vez determinada la presin osmtica, aplicando la ecuacin de Van Hoff, es posible calcular la concentracin de soluto (o la diferencia de concentraciones entre ambas soluciones:
+
+=== Osmmetro dinmico ===
+Los osmmetros estticos requieren mucho tiempo para poder realizar la lectura de las alturas que alcanzan las soluciones dentro del tubo capilar, ya que el solvente se difunde lentamente en la solucin ms concentrada llegando al estado de equilibrio despus de una o dos horas. Por este motivo el sistema fue dejado de lado por los investigadores. Gracias a la invencin del osmmetro dinmico ha sido posible recuperar la medicin de la presin osmtica con una tcnica analtica.
+Los osmmetros dinmicos se basan en la medicin de pequeas diferencias de presin a ambos lados de la membrana semipermeable que separa las dos soluciones de diferente concentracin. Como los estticos, estn formados por dos cmaras separadas por una membrana semipermeable. En una de las cmaras se coloca el solvente y en la otra una solucin. La diferencia respecto de los modelos estticos radica en el mtodo de lectura de la presin osmtica.
+Por ejemplo, en un tipo muy empleado de osmmetro dinmico, la presin osmtica se mide mediante una burbuja de aire situada en la cmara del solvente. La aparicin de la presin osmtica en la membrana se transmite a todas las partes del lquido (principio de Pascal), produciendo una deformacin de la microburbuja de aire, que puede ser detectada y medida mediante un rayo de luz que la atraviese e incida despus en una clula fotoelctrica.
+Una vez detectada la diferencia de presin se acta automticamente mediante un motor servo sobre un depsito mvil lleno de solvente conectado mediante un tubo capilar a la cmara de solucin, bajndolo hasta conseguir, mediante disminucin de la presin hidrosttica, compensar el exceso de presin del solvente debido a la presin osmtica. El depsito deja de desplazarse cuando se detecta que la microburbuja recupera su forma original. De esta manera, en pocos minutos es posible obtener una medicin de la presin osmtica.
+Los osmmetros dinmicos han permitido la automatizacin de los anlisis, y se emplean de manera rutinaria en muchos laboratorios para determinar la concentracin de soluciones.
+
+== Otros tipos de osmmetro ==
+El uso de los osmmetros en los laboratorios no se aplica a la determinacin de presiones osmticas, sino a determinar las concentraciones efectivas de soluciones que dan lugar a una mayor o menor presin osmtica, lo que se denomina osmolaridad. Dado que estas concentraciones producen otras propiedades coligativas, dependiendo del tipo de anlisis es mejor emplear mediciones de presin de vapor o de descensos crioscpicos para la determinacin. Estos aparatos, que no emplean mediciones de presin osmtica, se denominan igualmente osmmetros, ya que igualmente sirven para determinar la osmolaridad.
+
+=== Osmmetros de presin de vapor ===
+En los osmmetros de presin de vapor se mide el descenso de presin de vapor que experimenta una solucin respecto al solvente puesto a la misma temperatura. La medicin de este descenso se efecta por el mtodo higromtrico, en el que se inyecta una muestra de 10 l (0,010 ml) sobre un disco de papel en un portamuestras, para luego insertarlo en el instrumento y se cierra la cmara de muestras. El cierre inicia la secuencia de medicin automtica. El elemento de deteccin es un higrmetro de termopar de hilo fino que se suspende en un soporte de metal que cuando se junta con el portamuestras forma una pequea cmara que cierra la muestra.
+A medida que se equilibra la presin de vapor en el aire dentro de la cmara, el termopar detecta la temperatura ambiente, estableciendo el punto de referencia para la medicin. Bajo control electrnico, el termopar busca entonces la temperatura del punto de roco dentro del espacio cerrado, dando una seal proporcional al diferencial de temperatura. La diferencia entre la temperatura ambiente y la temperatura del punto de roco es la depresin de temperatura del punto de roco que es funcin explcita de la presin de vapor de la solucin. La depresin de temperatura del punto de roco se mide con resoluciones menores que 0001  C. El ciclo de medicin, controlado por microprocesador, dura alrededor de un minuto.
+
+=== Osmmetros de descenso crioscpico ===
+El descenso crioscpico es una propiedad coligativa que depende de la concentracin total de partculas en solucin, por lo que permite determinar la osmolaridad de las mismas.
+En los mtodos actualmente empleados, la muestra es superenfriada a una temperatura predeterminada, ms baja que la temperatura de congelacin. La congelacin se inicia despus mediante una perturbacin fsica (ultrasonidos, agitacin,...) o en algunos casos sembrando un cristal pequeo de disolvente. Esto produce una mezcla de disolvente slido y de disolucin justo en equilibrio a la temperatura de congelacin un tiempo suficientemente largo para medir su temperatura. Las medidas de temperatura se realizan con un termistor calibrado, seleccionado para dar una respuesta lineal.
+La mayora de los laboratorios clnicos utilizan los osmmetros de descenso crioscpico frente a los de presin de vapor. Las ventajas de los osmmetros de descenso de presin de vapor (bajo coste, poco mantenimiento, uso de volmenes muy pequeos de muestras), no compensan las desventajas (baja precisin, respuesta no lineal para valores bajos de osmolaridad y, especialmente, la imposibilidad de analizar solutos voltiles como alcoholes, etilenglicol y gases).
+
+== Aplicaciones ==
+Aplicaciones en medicina y veterinaria:
+Determinacin de osmolaridad de orina, sangre o suero.
+Comprobacin del funcionamiento de los riones.
+Aplicaciones en investigacin biolgica:
+Determinacin de la osmolaridad de soluciones de nutrientes para cultivos celulares.
+Determinacin de la osmolaridad de soluciones de fijacin para microscopio.
+Determinacin de osmolaridad de los fluidos corporales de insectos.
+Aplicaciones en botnica:
+Determinacin de osmolaridad de la savia vegetal.
+Determinacin de osmolaridad de soluciones de nutrientes.
+Aplicaciones en la industria farmacutica:
+Determinacin de osmolaridad en animales de laboratorio.
+Control de calidad en la produccin de medicamentos.
+
+== Referencias ==
+Esta obra deriva de la traduccin de Osmmetre de Wikipedia en cataln, concretamente de esta versin, publicada por sus editores bajo la Licencia de documentacin libre de GNU y la Licencia Creative Commons Atribucin-CompartirIgual 3.0 Unported.
+
+== Bibliografa ==
+Bla G. Liptk. Analytical instrumentation. CRC Press, 1993. ISBN 0-8019-8397-5
+
+== Vase tambin ==
+Propiedad coligativa
+Osmolaridad
+Descenso crioscpico
+Presin osmtica
+
+== Enlaces externos ==
+El osmmetro de Dutrochet.

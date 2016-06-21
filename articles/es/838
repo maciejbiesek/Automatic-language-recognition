@@ -1,0 +1,16 @@
+El nmero de Wolf (tambin conocido como el International sunspot number, o Nmero de Zrich) es una cantidad de que mide el nmero y tamao de las manchas solares.
+La idea de computar los nmeros de las manchas solares se le ocurri a Rudolf Wolf en 1848 en Zrich, Suiza y, as, el procedimiento tiene su nombre o el del lugar. La combinacin de manchas solar y grupos se usa porque compensa para las variaciones observando las manchas solares pequeas.
+Este nmero ha sido usado por investigadores durante unos 300 aos. Han encontrado que la actividad solar es cclica y alcanza su mximo alrededor de cada 9,5 a 11 aos (nota: usando los datos de SIDC[1] durante los ltimos 300 aos y ejecutando la transformada de Fourier se obtiene para el ciclo una duracin de 10,4883 aos. Este ciclo fue descubierto por Heinrich Schwabe en 1843.)
+El nmero de Wolf se computa (como un ndice diario de actividad solar):
+
+donde:
+R es el nmero de la mancha solar relativo,
+s es el nmero de manchas individuales,
+g es el nmero de grupos de la mancha solar, y
+k es un factor que vara con la situacin e instrumentacin (tambin conocido como factor del observatorio).
+
+== Notas ==
+
+== Enlaces externos ==
+Gua de las Manchas solares
+RWC Blgica el Centro de los Datos Mundial para el ndice de la Manchas solares

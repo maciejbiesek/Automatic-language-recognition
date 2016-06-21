@@ -1,0 +1,139 @@
+Les rglages du karting sont un ensemble de caractres modulables permettant d'influencer, comme dans tous les sports mcaniques, la qualit des performances du vhicule.
+Les karts sont de petites voitures monoplace  quatre roues quipes dun moteur de petite cylindre (en majorit aujourd'hui des deux temps de 125 cm) pouvant dvelopper jusqu' environ 40 ch. Les chssis de karting sont dpourvus de suspension et de diffrentiel, le freinage est assur par un frein  disque mont sur l'axe arrire. Certaines catgories acceptent les freins avant (petits freins  disque monts sur les moyeux avant parfois activs par une poigne au volant).
+
+== Rglage du chssisModifier ==
+
+=== La rigiditModifier ===
+En raison de l'absence d'un diffrentiel, le chssis d'un kart doit tre assez souple pour permettre  la roue arrire intrieure au virage de se soulever, de faon que le kart puisse tourner. En effet, dans un virage, la roue intrieure effectue moins de distance que la roue extrieure pendant un temps identique. Sur un kart, les deux roues arrires sont montes sur un axe rigide ; si les deux roues restaient au sol, la machine irait en ligne droite.
+Les meilleurs chssis permettent de faire varier leur rigidit grce  des raidisseurs. On trouve ces raidisseurs  l'arrire (barre de rigidit et/ou raidisseur de sige),  l'avant (barre de rigidit) et/ou au centre (double berceau).
+Ainsi, on utilisera un chssis plutt :
+Souple par temps sec et circuit sinueux
+Rigide par temps humide ou sur circuit  long 
+
+=== Les pneusModifier ===
+Il existe plusieurs types de pneus. Les pneus slick  gomme dure ont une bonne longvit, mais offrent moins d'adhrence, les pneus slick  gomme tendre ont un meilleur grip, mais une dure de vie plus courte etc.. Les pneus pluie sont sculpts pour favoriser l'vacuation d'eau sur piste mouille et sont plus troits.
+La pression de gonflage est dterminante pour la vitesse de l'chauffement des pneus (la temprature optimale avoisinant les 70 C).
+Sur-pression = perte en tenue de route (diminution de la bande de roulement - on sur-gonfle en cas de piste mouille) et monte en temprature plus lente et pnalisante dans les premiers tours
+Sous-pression = augmentation du grip  la temprature optimale, mais surchauffe et usure prmature
+Les pneus sont monts sur des jantes en aluminium, magnsium ou matriaux composites. Les jantes en composite permettent une monte en temprature plus rapide.
+
+=== La largeur des voiesModifier ===
+L'cartement des deux roues d'un mme train influe sur la stabilit du kart en virage :
+Train avec faible cartement = augmentation de l'adhrence
+Pour le train avant :
+train plus incisif dans les courbes
+kart survireur
+
+Pour le train arrire :
+rend le train avant sous-vireur
+diminution de la stabilit du kart en virage et au freinage
+perte de motricit en sortie de virage
+
+Train avec grand cartement = diminution de l'adhrence
+Pour le train avant (utilis par temps de pluie) :
+virages plus prcis dans les courbes moyennes/rapides
+
+Pour le train arrire :
+stabilit
+drapages en courbes
+
+Nota : La largeur de la voie arrire est au maximum de 140 cm (rglage par dfaut sur sec).
+
+=== La hauteur des voiesModifier ===
+Voie avant basse :
+chssis plus ractif
+lgre perte d'efficacit au milieu du virage
+
+Voie arrire basse :
+gain de stabilit
+chssis plus libre en sortie de virage
+
+=== Le centre de gravitModifier ===
+Le centre de gravit n'est pas forcment  rabaisser le plus bas possible. En effet :
+Abaiss :
+augmentation de la stabilit du kart
+diminution de l'adhrence
+
+Rehauss
+augmentation de l'adhrence
+drapages moins prvisibles et plus difficilement contrlables en virage
+
+Nota : Sur piste mouille, on aura tendance  monter le chssis afin de gagner de l'adhrence.
+
+=== Le paralllismeModifier ===
+Temps sec : Le paralllisme est par dfaut nul (roues parfaitement parallles), mais on peut lgrement pincer les roues vers l'avant de 1 ou 2 mm
+Temps humide : Le paralllisme peut tre lgrement ouvert afin de favoriser la monte en temprature des pneus
+Nota : Un paralllisme mal ajust entrane une usure prmature des pneus.
+
+=== Le carrossageModifier ===
+Temps sec : Le carrossage doit tre nul
+Temps humide : carrossage lgrement positif afin de gagner en stabilit et prcision pour le train avant
+Nota : Un carrossage mal ajust entrane une usure prmature des pneus sur le ct droit ou gauche.
+
+=== L'angle de chasseModifier ===
+La valeur standard varie d'un chssis  l'autre.
+Angle important :
+augmentation de l'adhrence du train avant
+chssis plus incisif
+direction plus dure
+
+Angle faible :
+effets inverses
+direction plus souple
+
+=== L'arbreModifier ===
+Pour durcir ou assouplir un peu plus les rglages chssis, on peut utiliser un arbre arrire plus ou moins souple en fonction des conditions de piste.
+Un arbre plus souple est adapt au conditions de forte adhrence,
+Un arbre dur est adapt pour des conditions de pluie ou manque d'adhrence.
+
+=== Le rapport pignon/couronneModifier ===
+La puissance du moteur est transmise  l'arbre arrire par la voie d'une chane. Le choix du rapport pignon/couronne est un compromis entre motricit  bas rgime (sortie de virages) et vitesse de pointe en ligne droite.
+Rapport court = augmentation du couple transmis (couronne plus grande)
+Rapport long = augmentation de la vitesse pour un nombre de tr/min donn (couronne plus petite)
+On trouve des couronnes de 64  96 dents. La longueur de la chane varie en fonction du rapport choisi.
+
+== Rglage du moteurModifier ==
+
+=== La carburationModifier ===
+Une carburation riche lubrifie le moteur mais fait perdre de la puissance et vice versa, avec un risque de serrage (casse moteur - le piston, pas assez lubrifi se coince dans le cylindre) si le mlange est trop pauvre. Le rglage de carburation doit tre adapt en fonction des conditions atmosphriques.
+Il existe deux types de carburateurs sur les moteurs de karting, les carburateurs  vis et les carburateurs  gicleur.
+Avec les carburateurs  vis, le rglage du moteur se fait par lintermdiaire de deux vis principales sur le carburateur, une pour le bas et moyen rgime, une autre pour le haut rgime. Certains carburateurs comportent une troisime vis. Le rglage fin s'effectue sur la piste, en roulant.
+Les carburateurs  gicleur ne disposent pas de vis externes de rglage, la richesse du moteur dpend de la taille du gicleur et de la forme du boisseau, le changement de gicleur doit se faire dans les stands.
+Indicateurs de mlange trop pauvre :
+dynamisme du moteur  haut rgime
+trous (-coups) dans l'acclration ou  haut rgime
+prise de tours par le moteur lorsqu'on obstrue partiellement l'arrive d'air
+Indicateurs de mlange trop riche :
+fume bleue
+manque de puissance
+perte de puissance par le moteur lorsqu'on obstrue partiellement l'arrive d'air
+le moteur hoquette  haut rgime
+le rgime en vitesse de pointe est relativement faible
+L'tat des bougies est un bon indicateur de la qualit de la carburation (aprs une dizaine de tours).
+Bougie encrasse (embase noire, lectrode noire) : mlange trop riche
+Bougie comme neuve (embase beige-blanc, lectrode intacte) : mlange trop pauvre
+Encrassement de l'embase : dtermine la qualit du mlange  bas rgime
+Encrassement de l'lectrode : dtermine la qualit du mlange  haut rgime
+
+=== La boite  airModifier ===
+La boite  air rgule et filtre l'admission d'air vers le carburateur. En plus de la poussire et des dbris, elle protge de l'eau en cas de roulage sur piste mouille.
+Avec les moteurs 100 cm  ancienne gnration , on pouvait obstruer brivement la prise d'air avec la main en fin d'acclration afin d'enrichir le mlange air-essence et donc de lubrifier davantage le moteur, ceci pour prvenir tout risque de serrage lorsque le moteur continuait  tourner   sec  durant le freinage.
+
+=== L'chappementModifier ===
+La longueur du pot d'chappement influe sur le comportement du moteur.
+Pot court : facilit  monter dans les tours  haut rgime
+Pot long : meilleures reprises  bas rgimes.
+
+== Notes et rfrencesModifier ==
+ Manuel d'entretien et d'utilisation des chssis de comptition Sodikart ST-30 et ST-32 - Sodikart [PDF], voir les rglages  sec  et  pluie  du chssis.
+
+== AnnexesModifier ==
+
+=== Articles connexesModifier ===
+Karting
+Rglages de gomtrie
+
+=== Lien externeModifier ===
+Pages techniques - Thorie de la tenue de route d'un karting
+
+Portail du sport automobile

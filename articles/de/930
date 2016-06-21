@@ -1,0 +1,23 @@
+COMP128 ist eine Implementierung der fr das GSM-Netz spezifizierten Algorithmen A3 und A8. A3 wird zur Authentifikation der Mobilstation am Netz bzw. AuC (Authentication Center) bentigt, whrend A8 dazu dient, einen Session Key fr die verschlsselte bertragung zwischen Mobilstation/Handy und der BTS (bei Sprachverbindungen) resp. SGSN (bei GPRS) zu generieren.
+Technische Details der ursprnglich vertraulichen Implementierung gelangten 1998 durch Reverse Engineering an die ffentlichkeit.
+COMP128 arbeitet mit 9 Runden, wobei der zentrale Kern des Algorithmus eine Hashfunktion ist. Diese Hash-Funktion liefert einen 128-Bit-Hashwert fr 256 Bit Eingabe. Sie basiert auf einer Butterfly-Struktur. Die Ausgabe des Algorithmus enthlt die fr die Authentisierung verwendete Antwort und den Session Key fr die A5-Stromchiffrierung, welche zur Verschlsselung des Sprachtransfers eingesetzt wird.
+Sei X[0..31] die 32 Byte groe Eingabe der Hash-Funktion, mit K := X[0..15] dem Schlssel der Ziel-SIM-Karte und X[16..31] die durch die Station gesendete Challenge. Seien weiterhin die Tabellen T0[0..511], T1[0..255], T2[0..127], T3[0..63] und T4[0..31] die geheimen Permutationstabellen. Dann durchluft die Eingabe zunchst 8 Mal die folgende Kompression (nach [HP00], siehe Weblinks):
+
+For i=0 to 4 do:
+  For j=0 to 2i-1 do:
+    For k=0 to 24-i-1 do:
+      s = k + j*25-i
+      t = s + 24-i
+      x = (X[s] + 2X[t]) mod 29-i
+      y = (2X[s] + X[t]) mod 29-i
+      X[s] = Ti[x]
+      X[t] = Ti[y]
+
+Nach jeder Permutation werden die 16 Bytes Ausgabe in X[16..31] und K erneut in X[0..15] gespeichert.
+COMP128 gilt als unsicher, da der Hash kleine Vernderungen in der Eingabe nicht hinreichend streut. Aufgrund des Geburtstagsparadoxons lsst sich dies in einem Kollisionsangriff dergestalt ausnutzen, dass innerhalb von  Abfragen der SIM-Karte der gesamte Schlssel extrahiert werden kann.
+
+== Weblinks ==
+"Sicherheit Mobiler Systeme" - Prof. Dr. Hannes Federrath - Lehrstuhl fr Management der Informationssicherheit - Uni Regensburg (PDF; 8,17 MB)
+Angriff von Briceno, Goldberg und Wagner
+HP00 Reducing the Collision Probability of Alleged Comp128 von H.Handschuh, P.Paillier, Springer-Verlag 2000 (PDF; 82 kB)
+Chaos Computer Club zur Angriffsmglichkeit

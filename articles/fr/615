@@ -1,0 +1,49 @@
+L'exprience de Michelson-Morley est une exprience d'optique qui a tent de dmontrer l'existence de l'ther luminifre. Pour y parvenir, Albert Abraham Michelson et Edward Morley ont cherch  mettre en vidence la diffrence de vitesse de la lumire entre deux directions perpendiculaires et  deux priodes espaces de 6 mois, et concluent que cette diffrence tait infrieure  ce que le dispositif permettait de mesurer (l'effet attendu tant environ 4 fois suprieur  la prcision du dispositif).
+En fait, il s'agit de toute une srie d'expriences entre 1881 (Michelson seul) et 1887 (ensemble), date  laquelle le rsultat est dfinitivement admis (bien que cette exprience soit rgulirement refaite  chaque fois qu'un progrs technique permet de gagner en prcision, avec toujours le mme rsultat).
+L'interprtation de ce rsultat a conduit les physiciens  mettre en doute l'existence de l'ther (qui tait suppos tre le support matriel des vibrations d'une onde lectromagntique comme la lumire) ou tout au moins de son mouvement. Cela montrait aussi que la vitesse de la lumire tait la mme dans toutes les directions jusqu'au deuxime ordre en (v/c), qui tait la prcision de l'exprience.
+C'est dans l'histoire de la physique une des plus importantes et une des plus clbres expriences, elle valut  Michelson le prix Nobel de physique en 1907.
+
+== Principe ==
+Cette exprience a t conue par Michelson pour mesurer la vitesse de la lumire dans son support suppos (l'ther) et en se basant sur la loi classique d'addition des vitesses. Il est apparu que la Terre sur son orbite avec une vitesse d'environ 30 km/s par rapport au Soleil tait le laboratoire idal pour dceler une variation de la vitesse de la lumire sur des parcours identiques en longueur mais qui devaient tre diffrents en temps selon qu'ils seraient dans le sens du mouvement ou perpendiculairement au vent d'ther.
+
+On construit l'appareil de telle sorte que les miroirs M1 et M2 soient  gale distance, D, de la lame sparatrice.
+Alors, si la Terre est immobile par rapport  l'ther, les deux trajets dans les deux directions perpendiculaires sont gaux (mme distance parcourue, mme dure de trajet).
+Si, en revanche, la Terre est en mouvement par rapport  l'ther,  la vitesse v dans une direction (vers M1 par exemple), alors les deux trajets ne sont pas faits  la mme vitesse, et la distance parcourue n'est pas la mme dans les deux directions :
+un aller et retour dans le sens de la marche de la Terre (vers M1) ncessite un temps
+ soit, en ngligeant les termes de second ordre : 
+un aller-retour perpendiculairement  la marche de la Terre (vers M2) ncessite un temps
+ ou, dans la mme approximation, :  .
+La diffrence de temps de parcours entre les deux trajets est alors: .
+L'cart de temps attendu est trop faible pour tre directement mesur : la vitesse de lumire tait dj connue pour tre de l'ordre de 3108 m/s, la vitesse de la Terre par rapport au Soleil, donc par rapport  l'ther, de l'ordre de 3104 m/s, et la dimension du dispositif de l'ordre de 10 m. Soit finalement une mesure de l'ordre de 10  109 / 1025 soit 10-15 s. Il s'agit donc d'une quantit trop petite pour tre mesurable avec une grande prcision. On peut en revanche esprer la mettre en vidence par l'observation des franges d'interfrence. En effet, le chemin optique  ou la diffrence de marche   est tel que . On calcule l'ordre d'interfrence  par dfinition, et compte tenu de la vitesse orbitale de la Terre sur son orbite 30 km/s :
+
+ou encore
+ avec .
+Par exemple, dans le domaine visible pour la longueur d'onde  et pour un bras D = 10 mtres,
+,
+ce qui serait trs visible et donc parfaitement observable. Michelson construisit un appareil auquel on a donn son nom, l'interfromtre de Michelson pour mesurer cette diffrence de phase. Or, l'exprience de Michelson-Morley n'a jamais permis une telle mesure : le rsultat tait toujours ngatif.
+De plus, l'appareil n'tant pas parfait, on ne peut assurer que la distance entre la lame sparatrice et le miroir soit parfaitement gale dans les deux directions, et de ce fait l'apparition de franges ne permet pas de conclure directement. En revanche, on peut faire la diffrence entre les franges dues  l'appareil, et celles dues au phnomne qu'on veut mettre en vidence : il suffit pour cela de faire tourner l'appareil d'un quart de tour pour intervertir les deux trajets, et d'observer si les franges se modifient.
+Enfin, comme on ne sait pas a priori quelle est la vitesse de la Terre par rapport  l'ther, ni mme si l'on n'est pas, par hasard, dans un endroit et  un moment o sa vitesse est nulle, il faut refaire l'exprience dans plusieurs directions, et avec plusieurs mois d'cart pour profiter du fait que la vitesse de la Terre par rapport  l'ther est modifie.
+Le premier interfromtre mont par Michelson n'tant pas assez prcis pour conclure, c'est avec Morley que finalement les deux chercheurs purent affirmer que
+
+ s'il y a un mouvement relatif entre la Terre et l'ther luminifre, il doit tre petit 
+
+En physique, cette exprience est sans doute la plus clbre des expriences ngatives (donnant un rsultat contraire  ce qui tait recherch).
+
+== Interprtation ==
+Plusieurs tentatives d'explications classiques chourent et c'est Ernst Mach qui le premier mit l'hypothse qu'il fallait rejeter le concept d'ther.
+Paralllement, des progrs thoriques permettaient, par la contraction des longueurs de Fitzgerald-Lorentz, d'expliquer le rsultat exprimental, mais c'est finalement ce qui est devenu la relativit restreinte d'Einstein postulant l'invariance de c qui a permis d'expliquer l'tonnant rsultat de Michelson et Morley.
+L'exprience de Trouton-Noble est considre comme l'quivalent en lectrostatique de l'exprience de Michelson et Morley.
+
+== Bibliographie ==
+(en) A. A. Michelson and E.W. Morley, Philos. Mag. S.5, 24(151): 449-463 (1887) en ligne
+(en) A. A. Michelson et al.,  Conference on the Michelson-Morley Experiment , Astrophysical Journal 68, 341 (1928)
+(en) Robert S. Shankland et al.,  New Analysis of the Interferometer Observations of Dayton C. Miller , Reviews of Modern Physics, 27(2): 167-178 (1955)
+(en) Claude Semay et Bernard Silvestre-Brac, Relativit restreinte, Dunod, page 10.
+
+== Articles connexes ==
+Relativit restreinte
+Transformations de Lorentz
+Vitesse de la lumire
+
+Portail de la physique
+ Portail de loptique

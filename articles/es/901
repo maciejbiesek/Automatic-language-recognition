@@ -1,0 +1,38 @@
+AMSDOS es un sistema operativo de disco para los computadoras de 8 bits Amstrad CPC de Amstrad. Su nombre proviene de la contraccin de Amstrad Disc Operating System.
+Fue publicado en 1985 con la unidad de disco de 3 pulgadas opcional DDI-1 para el Amstrad CPC 464, e incluido de serie en las ROMs de los Amstrad CPC 664 y Amstrad CPC 6128. En los Amstrad CPC Plus vena en el cartucho incluido de serie junto con un juego. Era ms rpido y eficiente que la mayora de sus equivalentes contemporneos y poda soportar dos unidades de disco conectadas simultneamente.
+El AMSDOS era proporcionado en la memoria ROM (tanto con la unidad de disco externa o en la ROM de la mquina, dependiendo de modelo) y fue accesible por medio del Locomotive BASIC incorporado en el computador as como tambin a travs de rutinas del firmware. Su funcin principal era mapear las rutinas de acceso del casete (que estaban incorporadas en cada modelo de CPC) a travs a un unidad de disco. Esto permiti a la mayora de los programas basados en casete trabajar con una unidad de disco sin modificacin.
+
+== Alternativas ==
+Otros sistemas operativos de disco para el Amstrad:
+CP/M (2.2 para los 464/664, 3.0 para los 6128),
+RODOS (Romantic RobotDOS): permite usar unidades de 3", pero presenta problemas con varias aplicaciones,
+ROMDOS/RAMDOS, que permita usar la capacidad completa de los discos de 3" de simple densidad, unos 800 KB, si una unidad adecuada estaba conectada,
+FutureOS,
+SymbOS,
+ParaDOS: permite usar unidades de 3",
+S-DOS: permite el uso de unidades de 3" de alta densidad,
+VDOX: permite el uso de unidades de disco Vortex,
+X-DDOS: creado por la compaa alemana Dobbertin Industrie Electronic. Permite usar discos duros HD20 de Dobbertin.
+
+== Lista de comandos ==
+Los comandos AMSDOS, al ser una ROM externa al diseo inicial, son en realidad RSX (Resident System eXtensions) que permiten extender la funcionalidad del Locomotive BASIC; por ello van precedidos de una pipe  |  para diferenciarlos de los comandos internos.
+
+=== Gestin de unidades de disco ===
+|A, |B: selecciona la unidad activa
+|DISC: establece la unidad de disco como unidad por defecto
+|DISC.IN: establece la unidad de disco como unidad por defecto de lectura
+|DISC.OUT: establece la unidad de disco como unidad por defecto de escritura
+|DRIVE: establece la unidad activa
+
+=== Gestin de casete ===
+|TAPE: establece la unidad de cinta como unidad por defecto
+|TAPE.IN: establece la unidad de cinta como unidad por defecto de lectura
+|TAPE.OUT: establece la unidad de cinta como unidad por defecto de escritura
+
+=== Utilidades ===
+|DIR: muestra los ficheros en el disco
+|ERA: borra el fichero
+|REN: renombra el fichero
+|USER: establece el usuario CP/M
+
+== Referencias ==

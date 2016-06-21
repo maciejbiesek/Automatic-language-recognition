@@ -1,0 +1,27 @@
+Xbase-Clients is a suite of tools and utilities for the X Window System.
+
+== Included tools ==
+editres, which queries and updates the X resource database
+startx and xinit, which initialize X sessions from the command line
+xauth, a tool for controlling access to the X session
+xbiff, a tool which tells you when you have new email
+xcalc, a scientific calculator desktop accessory
+xclipboard, a tool to manage cut-and-pasted text selections
+xcutsel, which exchanges selection and cut buffer contents
+xedit, a text editor
+xev, an X event displayer
+xhost, a tool to add or remove access to the X server for specified hosts
+xman, a manual page browser
+Xmark, tool for benchmarking graphical operations
+xrandr, a command-line interface to the RandR extension
+xsm, a session manager for X sessions
+xwd and xwud, utilities for taking and viewing window dumps ("screenshots") of the X session
+
+== Demos ==
+xeyes, in which a pair of eyes track the pointer
+
+== See also ==
+xterm
+
+== External links ==
+XBaseClients

@@ -1,0 +1,43 @@
+La simulacin de telas es el trmino utilizado para simular las telas dentro de un programa de computadora, usualmente en el contexto de grficos 3D por computadora. Las principales aproximaciones usadas para esto pueden ser clasificadas en tres tipos bsicos: geomtricas, fsicas, y de partcula/energa.
+
+== Marco terico ==
+La mayora de los modelos de telas estn basados en "partculas" de masa conectadas juntas en cierta forma como una malla. La mecnica newtoniana es usada para modelar cada partcula a travs del uso de una "caja negra" conocida como motor fsico. Esto envuelve el uso de la ley bsica del movimiento (Segunda ley de Newton):
+
+En todos estos modelos, la meta es encontrar la posicin y la forma de una pieza de fbrica utilizando esta ecuacin bsica y muchos otros mtodos.
+
+== Mtodos geomtricos ==
+Weil fue el pionero de esto, la tcnica geomtrica, en 1986. Su trabajo se enfoc en aproximar la apariencia de una tela tratndola como una coleccin de cables y utilizando curvas catenarias usando el coseno hiperblico. Debido a esto, no es adecuado para modelos dinmicos pero trabaja muy bien para aplicaciones estacionarias o de un solo marco. Esta tcnica crea una forma subyacente de nicos puntos; entonces, hace un anlisis a travs de cada conjunto de tres de estos puntos y mapea una curva catenaria al conjunto. Entonces toma el ms bajo de cada superposicin de conjunto y lo usa para el renderizado.
+
+== Mtodos fsicos ==
+La segunda tcnica trata a la tela como un arreglo de malla de partculas conectadas entre s mediante cuerdas. Mientras que la aproximacin geomtrica no tomaba en cuenta el inherente entramado de un material tejido, este modelo fsico toma en cuenta la fuerza (tensin), la rigidez, y el peso:
+
+Los trminos "s" son la elasticidad (por la Ley de Hooke).
+Los trminos "b" son la flexin.
+Los trminos "g" son la gravedad (vase Intensidad del campo gravitatorio).
+Ahora se aplica el principio bsico del equilibrio mecnico en el cual todos los cuerpos buscan alcanzar la energa ms baje, mediante el diferenciar esta ecuacin para encontrar el mnimo de energa.
+
+== Mtodos de partcula/energa ==
+
+El ltimo mtodo es ms complejo que los primeros dos. La tcnica de la partcula lleva la tcnica fsica de (f) un paso ms adelante y supone que se tiene una red de partculas interactuando directamente. Eso es decir, que en vez de cuerdas, se usan las interacciones de energa de las partculas para determinar la forma de la tela. Por esto se usa una ecuacin de energa que aade lo siguiente:
+
+La energa de repulsin es un elemento artificial aadido para prevenir a la tela interaccionar con s misma.
+La energa de estiramiento es gobernada por la Ley de Hooke como con el mtodo fsico.
+La energa de flexin describe la rigidez del tejido.
+La energa de enrejado describe el corte de la tela (distorsin dentro del plano del tejido).
+La energa de gravedad est basada en la aceleracin debida a la gravedad.
+Se pueden aadir tambin trminos de energa aportados por cualquier fuente a esta ecuacin, entonces derivarla y encontrar el mnimo, que generaliza el modelo. Esto permite modelar el comportamiento de una tela bajo cualquier circunstancia, y debido a que se est tratando a la tela como una coleccin de partculas su comportamiento puede ser descrito con la dinmica provista por este motor fsico.
+
+== Vase tambin ==
+Mecnica clsica
+Mecnica del slido flexible
+Mecnica del slido rgido
+Motor fsico
+Arquitectura tensada
+
+== Notas ==
+
+== Referencias ==
+Cloth Modeling (en ingls)
+
+== Enlaces externos ==
+Esta obra deriva de la traduccin de Cloth modeling de Wikipedia en ingls, concretamente de esta versin, publicada por sus editores bajo la Licencia de documentacin libre de GNU y la Licencia Creative Commons Atribucin-CompartirIgual 3.0 Unported.

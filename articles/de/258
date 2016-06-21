@@ -1,0 +1,41 @@
+Apache Jackrabbit ist ein freies Content-Repository fr die Java-Plattform. Das Projekt Jackrabbit begann im Februar 2003 als Referenzimplementierung fr JSR-170. Im August 2004 wurde das Projekt als Apache Incubator Projekt von der Apache Software Foundation akzeptiert, im September 2004 auf Jackrabbit umbenannt. Das Projekt avancierte ab dem 15. Mrz 2006 vom Apache Incubator mittlerweile zum Top-Level Projekt der Apache Software Foundation.
+Das Java Content Repository spezifiziert ein API fr Anwendungsentwickler (und Anwendungssysteme), das fr die Interaktion (wie beispielsweise Suchen, Versionierung, Transaktionen) mit modernen Content Repositories, die Redaktionsleistungen anbieten, verwendet wird.
+
+== Merkmale ==
+feine und grobe Zugangskontrolle der Inhalte
+hierarchische Inhalte
+strukturierter Inhalt
+Primre Typen fr Knoten, zustzliche Mixin Typen
+Kategorie-Eigenschaften  Text, Zahl, Datum
+binre Eigenschaften
+XPath-Anfragen
+SQL-Anfragen
+unstrukturierter Inhalt
+Import und Export
+referenzielle Integritt
+Zugangskontrolle
+Versionierung
+JTA-Untersttzung
+berwachung
+Datensperre
+Clustering
+unterschiedliche Persistenz-Modelle zur Auswahl
+
+== Siehe auch ==
+Apache Sling  ein Open Source Webframework fr die Umsetzung von auf Apache Jackrabbit basierenden Applikationen
+Magnolia (CMS)  ein Open Source Redaktionssystem basierend auf Apache Jackrabbit
+Hippo CMS  ein Open Source Redaktionssystem basierend auf Apache Jackrabbit
+LogicalDOC  ein Open Source Dokumentenmanagementsystem basierend auf Apache Jackrabbit
+Nuxeo  Open Source Enterprise-Content-Managementsystem basierend auf Apache Jackrabbit
+OpenKM  Open Source Wissensmanagementsystem basierend auf Apache Jackrabbit
+Sakai Project  Open Source Groupware und Lernplattform basierend auf Apache Sling und Apache Jackrabbit
+
+== Weblinks ==
+Jackrabbit-Homepage
+Jackrabbit 1.0 released
+JSR-170: Content Repository fr Java(TM) Technology API
+JSR-283: Content Repository fr Java(TM) Technology API, Version 2.0
+
+== Einzelnachweise ==
+ a b Jackrabbit History February 2003: Initial version of the JCR RI codebase is imported to Slide CVS
+ Latest stable release

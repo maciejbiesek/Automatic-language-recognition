@@ -1,0 +1,245 @@
+En mathmatiques, un nombre rel est un nombre qui peut tre reprsent par une partie entire et une liste finie ou infinie de dcimales. Cette dfinition s'applique donc aux nombres rationnels, dont les dcimales se rptent de faon priodique  partir d'un certain rang, mais aussi  d'autres nombres dits irrationnels, tels la racine carre de 2,  et e.
+La notion de nombre rel merge progressivement de la manipulation des rapports de grandeurs gomtriques autres que les rapports d'entiers depuis leur prise en compte par Eudoxe de Cnide au IVe sicle av. J.-C. Elle s'insre aussi dans l'approximation des solutions de problmes algbriques et donne mme lieu, au milieu du XIXe sicle,  la mise en vidence de nombres transcendants. Mais la dfinition des nombres rels n'est formalise que quelques dcennies plus tard avec les constructions de Dedekind d'une part et de Cantor et Mray d'autre part.
+
+L'ensemble des nombres rels, not , est alors un corps totalement ordonn, c'est--dire qu'il est muni des quatre oprations arithmtiques satisfaisant les mmes rgles que celles sur les fractions et ces oprations sont compatibles avec la relation d'ordre. Mais il satisfait en plus la proprit de la borne suprieure qui fonde l'analyse relle. Enfin, cet ensemble est caractris par Hilbert comme dernier corps archimdien. Dans la droite relle acheve les valeurs infinies ne satisfont plus les rgles opratoires de corps, l'extension au corps des nombres complexes rend impossible la relation d'ordre total compatible, tandis que l'analyse non standard adjoint des nombres infiniment petits qui invalident le caractre archimdien.
+L'adjectif  rel  est utilis pour qualifier des nombres ds le XVIIe sicle, mais il n'est explicitement dfini par opposition aux nombres imaginaires qu' la fin du XIXe sicle Il a aussi t oppos   nombre formel  dans certaines traits de thologie ou de philosophie de la mme poque.
+
+== Dans la vie courante ==
+Les nombres rels sont utiliss pour reprsenter n'importe quelle mesure physique telle que : le prix d'un produit, la dure entre deux vnements, l'altitude (positive ou ngative) d'un site gographique, la masse d'un atome ou la distance de la galaxie la plus proche. Ces mesures dpendent du choix d'une unit de mesure, et le rsultat s'exprime comme le produit d'un nombre rel par une unit. Les nombres rels sont utiliss tous les jours, par exemple en conomie, en informatique, en mathmatique, en physique ou en ingnierie.
+Le plus souvent, seuls certains sous-ensembles de rels sont utiliss :
+les entiers naturels,
+les entiers relatifs,
+les nombres dcimaux, qui sont les rels que l'on peut crire exactement en base 10 ;
+les nombres rationnels, exprimables sous forme de fractions  numrateurs et dnominateurs entiers,
+les nombres algbriques, qui comprennent notamment tous les nombres que l'on peut crire en utilisant les quatre oprations lmentaires et les racines.
+les nombres calculables, qui comprennent la quasi-totalit des nombres utiliss en science et en ingnierie (notamment e et ).
+Bien que tous ces sous-ensembles des rels soient de cardinal infini, ils sont tous dnombrables et ne reprsentent donc qu'une infime partie de l'ensemble des rels. Ils ont chacun des proprits propres. Deux sont particulirement tudis par les mathmaticiens : les nombres rationnels et les nombres algbriques ; on appelle  irrationnels  les rels qui ne sont pas rationnels et  transcendants  ceux qui ne sont pas algbriques.
+
+=== En science ===
+La physique utilise les nombres rels dans l'expression des mesures pour deux raisons essentielles :
+Les rsultats d'un calcul de physique utilisent frquemment des nombres qui ne sont pas rationnels, sans que les physiciens ne prennent en compte la nature de ces valeurs dans leurs raisonnements car elle n'a pas de sens physique.
+La science utilise des concepts comme la vitesse instantane ou l'acclration. Ces concepts sont issus de thories mathmatiques pour lesquelles l'ensemble des rels est une ncessit thorique. De plus, ces concepts disposent de proprits fortes et indispensables si l'ensemble des mesures est l'espace des nombres rels.
+En revanche, le physicien ne peut raliser des mesures de prcision infinie. La reprsentation numrique du rsultat d'un calcul peut tre approche aussi prcisment qu'il le souhaite par un nombre dcimal. Dans l'tat actuel de la physique, il est mme thoriquement impossiblencessaire de raliser des mesures de prcision infinie. C'est pourquoi, aussi bien pour des besoins exprimentaux que thoriques, si le physicien calcule les mesures dans , il exprime les rsultats numriques sous forme de nombres dcimaux.
+Ainsi le physicien utilise les proprits des nombres rels qui permettent de donner un sens aux mesures qu'il ralise et offrent des thormes puissants pour dmontrer ses thories. Pour les valeurs numriques, il se contente des nombres dcimaux. Quand il mesure la distance que parcourt un point matriel sur un cercle complet, il utilise la valeur  sans se poser de question sur son existence, mais un nombre de dcimales souvent petit lui suffit pour les calculs.
+Enfin, bien que les nombres rels puissent reprsenter n'importe quelle grandeur physique, les nombres rels ne sont pas les mieux adapts pour l'tude de trs nombreux problmes physiques. Des  sur-ensembles  construits autour des rels ont t crs pour pouvoir manipuler certains espaces physiques. Par exemple :
+l'espace n, pour modliser des espaces, par exemple de dimension 2, 3 (ou plus) ;
+l'ensemble des nombres complexes dont la structure possde des proprits plus fortes que celle de l'ensemble des nombres rels.
+
+=== Autres remarques sur la notion de  dveloppement dcimal infini  ===
+Tout nombre rel peut tre reprsent sous la forme de  nombre  dveloppement dcimal infini . Cette dfinition peut sembler plus simple que d'autres utilises couramment par les mathmaticiens, par exemple la limite d'une suite convergente. Pourtant, elle apparat rapidement comme peu adapte et implique des dfinitions et des dmonstrations bien plus complexes. En effet les nombres rels sont intressants pour la structure et les proprits de l'ensemble qu'ils forment : addition, multiplication, relation d'ordre, et les proprits qui lient ces notions. Ces proprits sont mal refltes par la dfinition  dveloppement dcimal infini  et des problmes thoriques apparaissent :
+Certains nombres possdent deux reprsentations.
+
+Par exemple, le nombre x=0,9999... (les 9 se poursuivent  l'infini), vrifie l'quation 10x = 9+x. Le nombre y=1,000000... (les 0 se poursuivent  l'infini) en est galement solution . Or l'existence et l'unicit de solution  l'quation 10t = 9+t, d'inconnue t, sont deux proprits essentielles pour une dfinition univoque des rels. Pour remdier  cette situation, il devient ncessaire d'identifier les reprsentations dcimales qui sont solutions d'une mme quation : la dfinition devient plus complexe.
+
+Utiliser un dveloppement dcimal fait jouer un rle particulier  la base 10.
+
+Cette difficult n'est pas insurmontable. Elle est rsolue par l'utilisation d'une base quelconque : on parle alors de dveloppements en base p. Il est alors possible de dmontrer que les ensembles construits  partir de ces bases sont isomorphes et que les proprits des nombres rels sont valables dans toutes ces bases. Cependant les dmonstrations deviennent lourdes, et la dfinition perd de sa simplicit.
+
+Enfin les algorithmes naturels pour effectuer une addition ou une multiplication, trouvent leur limite du fait de la double reprsentation des nombres dcimaux.
+
+En effet, les  retenues  se calculent de la droite vers la gauche, et un algorithme effectif demande de ne traiter qu'un nombre fini de dcimales (puisqu'il ne peut effectuer qu'un nombre fini d'oprations), c'est--dire de tronquer les nombres sur lesquels on calcule : il se peut donc qu'en tronquant aussi loin que l'on veut, on n'ait jamais la moindre dcimale exacte, par exemple sur le calcul 0,33+0,66=1. Surmonter cette difficult demande de faire appel  des notions de convergence, qui amnent naturellement vers d'autres modes de dfinition des rels.
+
+Cependant, une fois tablie la structure de l'ensemble des nombres rels, la notation par dveloppement dcimal permet des calculs effectifs, en gardant  l'esprit que ce n'est pas tant les dcimales exactes d'un nombre qui comptent, que la position du nombre vis--vis des autres rels.
+
+== Aspect historique ==
+
+=== Origine des nombres ===
+
+==== Mise en place des fractions ====
+Depuis l'Antiquit la reprsentation d'une grandeur mesurable  par exemple une longueur ou une dure  a rpondu  un besoin. La premire rponse fut la construction des fractions (quotient de deux entiers positifs). Cette solution, mise en place trs tt chez les Sumriens et les gyptiens, est finalement performante. Elle permet d'approcher une longueur quelconque avec toute la prcision souhaite.
+
+==== Correspondance avec des longueurs ====
+
+La premire formalisation construite en systme que l'on connaisse est le fruit du travail d'Euclide au IIIe sicle av. J.-C.. Sa construction, inscrite dans ses lments, apporte deux grandes ides d'un apport majeur dans l'histoire des mathmatiques.
+Les mathmatiques sont formalises avec des axiomes, des thormes et des dmonstrations. On peut alors construire un systme, avec des thormes dont les dmonstrations s'appuient sur d'autres thormes. Les mathmatiques sont classes en catgories, la gomtrie et l'arithmtique en sont les deux plus grandes. Parler de construction prend alors tout son sens.
+Un pont est bti entre les deux grandes catgories. Cette dmarche, permettant d'utiliser des rsultats d'une des branches des mathmatiques pour clairer une autre branche est des plus fcondes. Les nombres sont alors mis en correspondance avec des longueurs de segments.
+
+=== Problmes d'incompltude ===
+
+==== Irrationalit de la racine carre de 2 ====
+
+Supposons une longueur donne choisie comme unit. Un raisonnement gomtrique, certainement dj connu des babyloniens, montre que si A est un carr de ct l'unit et B un carr de ct gal  la diagonale d de A, alors l'aire de B est double de celle de A, autrement dit : d2 = 2.
+Probablement au Ve sicle av. J.-C., des mathmaticiens grecs dmontrent que les longueurs de la diagonale du carr et de son ct sont incommensurables : il n'existe pas de segment, aussi petit soit-il, qui permette de  mesurer  exactement ces deux grandeurs. Nous disons aujourd'hui que ce rapport de longueur, qui est la racine carre de 2, est irrationnel, c'est--dire qu'il n'est pas gal  une fraction : si c'tait une fraction m/n, en divisant la diagonale du carr en m parties gales et son ct en n parties gales on obtiendrait bien des segments tous de mme longueurs.
+Ceci met en vidence que les fractions ne peuvent suffire pour reprsenter les grandeurs mesurables.
+Il existe une dmonstration arithmtique simple de ce rsultat, qui repose sur un argument de parit. Au IVe sicle av. J.-C., Aristote y fait allusion dans un de ses crits. On la trouve plus dtaille dans le livre X des lments d'Euclide.
+
+==== Dveloppement dcimal illimit non priodique ====
+Si les fractions permettent effectivement d'exprimer toute longueur avec la prcision souhaite, il faut nanmoins comprendre que les oprations et particulirement la division deviennent complexes si le systme de numration n'est pas adapt. Le problme est dcrit par l'article fraction gyptienne qui propose quelques exemples concrets.
+Il faut attendre le Ve sicle pour voir l'cole indienne dcouvrir le concept du zro et dvelopper un systme de numration dcimal et positionnel.
+Un deuxime problme apparat alors. Toutes les fractions possdent un dveloppement dcimal dans la mesure o ce dveloppement est infini et priodique, c'est--dire que la suite des dcimales ne s'arrte pas mais boucle sur un nombre fini de valeurs. La question se pose alors de savoir quel sens donner  un objet caractris par une suite de dcimales non priodique. Par exemple, le nombre  dveloppement dcimal infini qui s'exprime comme
+0,1010010001... o le nombre de 0 entre les chiffres 1 crot indfiniment, correspond-il  une longueur ?
+
+==== Suites et sries ====
+Dans la deuxime moiti du XVIIe sicle, on assiste  un extraordinaire panouissement des mathmatiques dans le domaine du calcul des sries et des suites.
+Nicolaus Mercator, les Bernoulli, James Gregory, Godfried Leibniz, et d'autres travaillent sur des sries qui semblent converger mais dont la limite n'est pas rationnelle. C'est le cas par exemple :
+de la srie de Mercator :  qui converge vers ln(2)
+de la srie de Gregory :  qui converge vers /4
+Pire, Liouville en 1844, prouve l'existence de nombres transcendants c'est--dire non racine d'un polynme  coefficients entiers. Il ne suffit donc pas de complter les rationnels en y ajoutant les nombres algbriques pour obtenir l'ensemble de tous les nombres.
+des sries du type  reprsentant les nombres de Liouville, o (an) est une suite d'entiers compris entre 0 et 9.
+
+==== Le calcul infinitsimal ====
+
+Durant la deuxime partie du XVIIe sicle, Isaac Newton et Gottfried Wilhelm Leibniz inventent une toute nouvelle branche des mathmatiques. On l'appelle maintenant l'analyse,  l'poque elle tait connue sous le nom de calcul infinitsimal. Cette branche acquiert presque immdiatement une renomme immense car elle est la base d'une toute nouvelle thorie physique universelle : la thorie de la gravit newtonienne. Une des raisons de cette renomme est la rsolution d'une vieille question,  savoir si la Terre tourne autour du Soleil ou l'inverse.
+Or le calcul infinitsimal ne peut se dmontrer rigoureusement dans l'ensemble des nombres rationnels. Si les calculs sont justes, ils sont exprims dans un langage d'une grande complexit et les preuves procdent plus de l'intuition gomtrique que d'une explicitation rigoureuse au sens de notre poque.
+L'impossibilit de la construction de l'analyse dans l'ensemble des fractions rside dans le fait que cette branche des mathmatiques se fonde sur l'analyse des infiniment petits. Or, on peut comparer les nombres rationnels  une infinit de petits grains de sable (de taille infiniment petite) sur la droite relle laissant infiniment plus de trous que de matire. L'analyse ne peut se contenter d'un tel support. Elle demande pour support un espace complet. Le mot est ici utilis dans un double sens, le sens intuitif qui signifie que les petits trous en nombre infini doivent tre bouchs et le sens que les mathmaticiens donnent aujourd'hui plus abstrait mais rigoureusement formalis.
+Cette notion est tellement importante qu'elle deviendra  l'aube du XXe sicle une large branche des mathmatiques appele topologie.
+
+==== La droite relle ====
+Si l'existence des nombres ngatifs apparat trs tt dans l'histoire (mathmatiques indiennes), il faut attendre 1770 pour qu'ils obtiennent grce  Euler un vrai statut de nombre et perdent leur caractre d'artifice de calcul. Mais il faut attendre encore un sicle pour voir l'ensemble des rels associ  l'ensemble des points d'une droite oriente, appele droite relle.
+On considre une droite D contenant un point O que l'on appellera, par convention, origine. Soit un point I distinct de O appartenant  D que l'on identifie au nombre 1. Par convention, on dira que la distance de O  I est gale  1 et que l'orientation de la droite est celle de O vers I.  tout point M de la droite, on associe la distance entre O et M. Si M et I sont du mme ct par rapport  O alors la distance est compte positivement, sinon elle est ngative.
+Cette relation que la formalisation actuelle appelle bijection permet d'identifier un nombre rel  un point d'une droite.
+
+=== Aprs 2 200 ans : la solution ===
+Le dveloppement de l'analyse au cours des XVIIIe et XIXe sicles a conduit les mathmaticiens franais et allemands  s'interroger sur la nature des nombres rels. Ces interrogations les ont conduits  dgager des proprits fondamentales (compltude, suites adjacentes, etc.) sur lesquelles pouvaient se fonder les constructions possibles de , qui ont t formalises autour de 1870 par Cantor, Mray et Dedekind.
+
+==== La construction ====
+
+Dans son cours d'analyse  l'cole polytechnique, Augustin Louis Cauchy propose la premire dfinition rigoureuse d'une limite. Une squence de nombres rels indexe par les entiers naturels (appele suite) converge vers une limite (ncessairement unique) x lorsque la distance |x-xn| devient aussi petite que souhaite pour n suffisamment grand. Il nonce un critre qui porte aujourd'hui son nom, le critre de Cauchy : il faut et il suffit que les distances |xn-xm| soient aussi petites que souhaites pour n et m suffisamment grands. Par l'nonc de ce critre, Cauchy affirme la compltude du corps des nombres rels, proprit sur laquelle peut tre fonde sa dfinition. Cette approche est formalise par Mray en 1869 puis par Cantor en 1883 ou en 1872. Cette ide, particulirement adapte  l'analyse, trouve des prolongements dans les mthodes de compltion.
+Une seconde construction est publie par Richard Dedekind en 1872. Elle dcoule de l'tude de la relation d'ordre sur les fractions. Une coupure de Dedekind est un ensemble A de rationnels, tel que tout rationnel de A est infrieur  tout rationnel du complmentaire de A. Un rel est alors reprsent par une coupure de Dedekind. Par exemple, la racine carre de 2 est reprsente par l'ensemble des rationnels ngatifs et des rationnels positifs de carrs infrieurs  2. Il existe des variantes de la dfinition de coupure selon les auteurs.
+Une troisime construction s'appuie sur la mthode des segments embots. Un embotement est une suite dcroissante d'intervalles ferms de nombres rationnels dont la longueur tend vers 0. Un nombre rel est alors dfini comme une classe d'embotements modulo une relation d'quivalence. Selon Mainzer (de),  la vrification des proprits de corps ordonne est relativement pnible , ce qui explique pourquoi cette approche apparat moins avantageuse que les deux prcdentes. Il existe aussi une autre mthode  partir des dveloppements dcimaux, cependant l'addition puis la multiplication ne sont pas des oprations simples  dfinir.
+En 1899, David Hilbert donne la premire dfinition axiomatique du corps des nombres rels. Les mthodes prcdentes construisent toutes le  mme  ensemble, celui des nombres rels.
+
+==== La solution est plus riche que prvu ====
+
+Le XIXe sicle montre que cette nouvelle structure, l'ensemble des nombres rels, ses oprations et sa relation d'ordre, non seulement remplit ses promesses mais va au-del.
+Non seulement le paradoxe de la racine carre de 2 est rsolu, mais galement un thorme puissant : le thorme des valeurs intermdiaires qui permet de construire toutes les fonctions rciproques ncessaires, aussi bien de la forme des radicaux avec les fonctions de type racine n-ime, que dans le cas des fonctions trigonomtriques.
+Les dveloppements dcimaux infinis ont maintenant un sens. De plus, il devient possible de mieux comprendre les nombres rels et de les classifier. Ainsi, en dehors des fractions rationnelles on dcouvre le corps des nombres algbriques, c'est--dire des nombres qui sont racines d'un polynme  coefficients entiers. Une nouvelle famille de nombres est exhibe : les transcendants qui ne sont racines d'aucune quation polynomiale  coefficients entiers. Les proprits de ces nombres permettent la dmonstration de vieilles conjectures comme la quadrature du cercle.
+Enfin, le thorme de Rolle est gnralis et permet la dmonstration d'un rsultat essentiel pour l'analyse. Le comportement infinitsimal d'une fonction, par exemple le fait que la drive soit toujours positive, permet de dduire un comportement global. Cela signifie par exemple, que si un solide se dplace sur une droite avec une vitesse instantane toujours positive, alors le solide a avanc, c'est--dire qu'il s'est dplac positivement (vers  l'avant ) par rapport  l'origine. Cette question qui avait arrt les Grecs, incapables de rsoudre les paradoxes de Znon, est dfinitivement comprise. Ce rsultat, que l'intuition dclare vident, a demand des sicles d'efforts.
+Dans le dveloppement du calcul infinitsimal, la manipulation des infiniment petits peut alors tre aborde diffremment. L'ensemble des nombres rels ne pourra satisfaire tous les mathmaticiens. Dans les annes 1960, Abraham Robinson met en place la notion de nombre hyperrel et permet le dveloppement de l'analyse non standard. Cette nouvelle thorie permet d'exprimer et de dmontrer plus simplement certains rsultats fondamentaux comme le thorme de Bolzano-Weierstrass.
+
+== Nature : mathmatiques et philosophie ==
+
+L'volution des concepts de nombre rel et de continuit est tout aussi philosophique que mathmatique. Que les nombres rels forment une entit continue veut dire qu'il n'y a pas de  saut  ou de  bande interdite . Intuitivement, c'est tout comme la perception humaine de l'espace ou de l'coulement du temps. Certains philosophes conoivent qu'il en est d'ailleurs exactement de mme pour tous les phnomnes naturels. Ce concept est rsum par la devise du mathmaticien et philosophe Leibniz : natura non facit saltus,  la nature ne fait pas de sauts .
+
+=== De la Grce antique au dbut des Temps modernes ===
+
+L'histoire de la continuit dbute en Grce antique. Au Ve sicle av. J.-C., les atomistes ne croient pas seulement que la nature est faite de  sauts , mais aussi qu'il existe des particules de base non divisibles, les atomes. Les synchistes quant  eux clament que tout est connect, continu. Dmocrite est un tenant d'une nature faite d'atomes intercals de vide, tandis que Eudoxe le contredit, faisant de ses travaux certains des plus anciens prcurseurs de l'analyse. Ceux-ci voluent plus tard en ce que l'on connat sous le nom de gomtrie euclidienne.
+Encore au XVIIe sicle, des mathmaticiens nonaient qu'une fonction continue est en fait constitue de lignes droites infiniment petites, c'est--dire infinitsimales. C'est ainsi que le concept d'infiniment petit, vu dans l'optique atomiste, peut promouvoir cette faon de concevoir la nature. La question d'infini est donc centrale  la comprhension de la continuit et des nombres rels.
+Les paradoxes de Znon illustrent la contre-intuitivit de la notion d'infini. L'un des plus connus est celui de la flche, dans lequel on imagine une flche en vol.  chaque instant, la flche se trouve  une position prcise et si l'instant est trop court, alors la flche n'a pas le temps de se dplacer et reste au repos pendant cet instant. Les instants suivants, elle reste immobile pour la mme raison. La flche est toujours immobile et ne peut pas se dplacer : le mouvement est impossible. Pour rsoudre ce paradoxe, il faut additionner ces infiniment petits un nombre infini de fois, par la mthode de la limite, dcouverte au cours de l'volution de l'analyse.
+
+=== Histoire de l'analyse ===
+
+Le concept de continuit des nombres rels est central en analyse, ds le dbut de son histoire. Une question fondamentale est de dterminer si une fonction donne est en fait une fonction continue. Au XVIIIe sicle, on formulait cette question comme  est-ce qu'une variation infinitsimale dans son domaine engendre une variation infinitsimale dans son image ?  Au XIXe sicle, cette formulation est abandonne et remplace par celle des limites.
+Ds le XVIIIe sicle, les infinitsimales tombent en disgrce : elles sont dites d'utilit pratique, mais errones, non ncessaires et contradictoires. Les limites les remplacent tout  fait et  partir du dbut du XXe sicle, les infinitsimales ne sont plus le soubassement de l'analyse. En mathmatiques elles demeurent en quelque sorte des non-concepts, jusqu' ce qu'on les rintroduise  grands frais en gomtrie diffrentielle, leur donnant le statut mathmatique de champ tensoriel.
+Dans les sciences appliques, en particulier en physique et en gnie, on se sert toujours des infinitsimales. Ceci cause videmment des problmes de communication entre ces sciences et les mathmatiques.
+
+== Dfinitions axiomatiques de  et premires proprits ==
+
+On peut caractriser brivement l'ensemble des nombres rels, que l'on note en gnral , par la phrase de David Hilbert :  est le dernier corps commutatif archimdien et il est complet.  Dernier  signifie que tout corps commutatif archimdien est isomorphe  un sous-ensemble de . Ici  isomorphe  signifie intuitivement qu'il possde la mme forme, ou se comporte exactement de la mme manire, on peut donc, sans grande difficult, dire qu'ils sont les mmes.
+
+=== Approche axiomatique ===
+Une approche axiomatique consiste  caractriser un concept par une srie de dfinitions. Ce point de vue, dont Hilbert est le prcurseur dans son formalisme moderne, s'est rvl extrmement fcond au XXe sicle. Des notions comme la topologie, la thorie de la mesure, ou les probabilits se dfinissent maintenant par une axiomatique. Une approche axiomatique suppose une comprhension parfaite de la structure en question et permet une dmonstration des thormes uniquement  partir de ces dfinitions. C'est la raison pour laquelle de bonnes dfinitions peuvent en mathmatiques s'avrer si puissantes. La dfinition axiomatique de  ne montre nanmoins pas qu'un tel ensemble existe. Il apparat alors ncessaire de construire cette structure.
+La dfinition axiomatique est essentiellement donne en introduction :
+ est l'unique corps totalement ordonn qui soit  la fois archimdien et complet.
+Mais on trouve aussi d'autres dfinitions axiomatiques qui lui sont quivalentes. Ainsi :
+ est l'unique corps totalement ordonn qui satisfait l'axiome de la borne suprieure.
+ est l'unique corps totalement ordonn qui satisfait le lemme de Cousin.
+L'existence et l'unicit d'un tel corps sont dmontres dans l'article Construction des nombres rels, ainsi que l'quivalence entre les deux premires dfinitions. On y montre de plus que ce corps est ncessairement commutatif, et que le sous-corps des rationnels y est dense.
+L'unicit est  isomorphisme (unique) prs, c'est--dire que si K est un corps totalement ordonn vrifiant les mmes hypothses, alors il existe un (unique) isomorphisme strictement croissant de K dans .
+ est un corps commutatif, autrement dit les deux oprations, addition et multiplication, possdent toutes les proprits usuelles, en particulier la somme et le produit de deux rels sont rels, ainsi que l'inverse d'un rel non nul. (L'adjectif commutatif signifie qu'un produit ab est toujours gal au produit ba.)
+ est un corps totalement ordonn. Cela signifie que tous les nombres peuvent tre compars entre eux (l'un est soit plus grand, soit plus petit, soit gal  l'autre) et que cette relation respecte l'addition et la multiplication. En langage mathmatique on a :
+
+L'axiome de la borne suprieure s'exprime de la manire suivante : si un ensemble A de rels est non vide et major, autrement dit s'il existe un nombre donn suprieur ou gal  chaque lment de A, alors A admet une borne suprieure, c'est--dire un majorant plus petit que tous les autres.
+Ce dernier axiome diffrencie  de tous les autres corps. Il existe en effet une infinit de corps commutatifs totalement ordonns, mais seul  satisfait l'axiome de la borne suprieure.
+ est archimdien. Cela signifie que si l'on considre un nombre a strictement positif, par exemple 2 et que l'on considre la suite a, 2a, 3a... Cest--dire dans notre exemple 2, 4, 6... alors on obtiendra dans la suite, des nombres aussi grands que l'on veut. En langage mathmatique, cela s'crit :
+
+ est complet. C'est--dire que dans , toute suite de Cauchy converge (dans  ; noter la diffrence avec . Toute suite de Cauchy de  converge dans , mais la limite peut ne pas tre dans ).
+
+=== Premires proprits ===
+Cette section est essentiellement technique. Elle traite des proprits essentielles et lmentaires pour un travail analytique sur .
+La proprit suivante peut se dduire du fait que  est archimdien.
+Entre deux rels distincts, il existe toujours une infinit de rationnels et d'irrationnels. (Voir l'article Ordre dense.)
+Les autres proprits sont des consquences de la proprit de la borne suprieure.
+Tout ensemble non vide et minor de  admet une borne infrieure. (Cette proprit se dduit de l'axiome de la borne suprieure, par passage aux opposs.)
+Toute suite croissante et majore dans  est convergente. (Voir l'article Thorme de la limite monotone.)
+Toute suite dcroissante et minore dans  est convergente. (De mme, par passage aux opposs.)
+Deux suites adjacentes convergent vers la mme limite. On appelle suites adjacentes deux suites, l'une croissante, l'autre dcroissante, dont la diffrence tend vers 0. (Voir l'article Thorme des suites adjacentes.)
+
+=== Clture algbrique ===
+Il existe un ensemble de fonctions particulirement intressantes, les polynmes. Un polynme peut parfois tre factoris. C'est--dire qu'il s'exprime sous la forme de produit de polynmes non constants de degrs plus petits. L'idal tant que l'on puisse factoriser tout polynme en facteurs de degr 1 (c'est--dire sous la forme ax + b). Cette proprit dpend du corps sur lequel on construit ces polynmes. Par exemple sur le corps des rationnels, quel que soit n entier suprieur ou gal  deux, il existe des polynmes de degr n irrductibles, c'est--dire que l'on ne peut pas les exprimer sous forme de produit de polynmes de degrs plus petits. Pour les nombres rels, on dmontre que le plus grand degr d'un polynme irrductible est gal  deux. En d'autres termes, si le polynme ne se dcompose pas, c'est qu'il est de la forme ax2 + bx + c. Les corps qui n'ont comme polynmes irrductibles que les polynmes de degr 1 sont dits algbriquement clos.
+Si  n'est pas algbriquement clos, on peut plonger ce corps dans un corps plus vaste. Il s'agit d'un nouveau corps, le corps des nombres complexes. Cependant ce corps n'est pas globalement  meilleur . Sa clture algbrique est une proprit fort intressante, mais elle a un cot : le corps des complexes ne peut pas possder de relation d'ordre compatible avec ses deux oprations. En quelque sorte, ce qui est gagn d'un ct est perdu d'un autre.
+
+=== Topologie ===
+
+La raison d'tre des nombres rels est d'offrir un ensemble de nombres avec les bonnes proprits permettant la construction de l'analyse. Deux approches utilisant deux concepts diffrents sont possibles.
+On peut utiliser la notion d'espace mtrique qui sur  associe la distance usuelle. Cette distance, que l'on note ici d, tait dj utilise par Euclide. Elle est dfinie de la manire suivante :
+
+Ce concept est le plus intuitif et en gnral demande des dmonstrations un peu plus naturelles. C'est souvent  partir de ce concept que les proprits analytiques de  sont dveloppes et prouves.
+On peut aussi utiliser la thorie de la topologie. Cette thorie est plus gnrale que celle associe  la distance :  tout espace mtrique est associ un espace topologique mais la rciproque est fausse.
+L'lgance favorise la base axiomatique la plus faible. Au XXe sicle un travail de reformulation gnrale des mathmatiques est entrepris par l'association Bourbaki et se traduit par la rdaction d'un ouvrage appel lments de mathmatique. Cet ouvrage traite, de manire rigoureuse, d'une vaste partie des mathmatiques actuelles. Pour cette raison, les lments dveloppent et dmontrent les proprits de l'ensemble des rels  partir de la topologie. C'est le choix que nous suivrons ici.
+
+=== Cardinalit ===
+
+Combien y a-t-il de nombres rels ? Une infinit, mais laquelle ? Deux ensembles ont mme cardinal (intuitivement : mme  nombre d'lments ) s'ils sont quipotents. Par exemple les ensembles , ,  ou , bien qu'embots et contenant mme chacun plusieurs  copies  du prcdent, ont mme  taille  : c'est le cardinal des ensembles dnombrables, not . Georg Cantor a montr qu'il existe des cardinaux infinis strictement plus grands en fournissant, par son argument diagonal, une preuve que  n'est pas dnombrable : voir l'article Argument de la diagonale de Cantor. En voici une autre.
+
+Le cardinal de l'ensemble des nombres rels est appel la puissance du continu et parfois not c. Il est aussi not 2 car  est en fait quipotent  l'ensemble des parties de   ce qui, par un autre thorme de Cantor, fournit une preuve plus prcise de sa non-dnombrabilit :
+ = card() < card(P()) = card() = c.
+Cantor s'est pos la question de l'existence d'un cardinal strictement compris entre  et c. Son hypothse, appele hypothse du continu, est qu'un tel cardinal n'existe pas. La question des cardinaux a t englobe par Cantor dans une thorie plus vaste, la thorie des ensembles, qui sert maintenant de fondement  la majeure partie des mathmatiques. Il a fallu attendre la deuxime moiti du XXe sicle pour trouver la rponse  la question de l'hypothse du continu : elle est indcidable dans la thorie des ensembles usuelle (ZFC). Cela signifie qu'il est impossible de dmontrer aussi bien l'existence que la non-existence d'un tel cardinal si l'on ne modifie pas la base axiomatique utilise.
+
+=== Espace vectoriel sur  ===
+L'ensemble des rels muni de l'addition usuelle et de la multiplication par des rationnels est un espace vectoriel sur  (ensemble des rationnels). En 1905, lors de la recherche de solutions non continues  l'quation fonctionnelle de Cauchy, Georg Hamel exhibe une base de  considr comme espace vectoriel sur . L'existence d'une telle base est assure si l'on suppose l'axiome du choix. Une base de Hamel de  est non dnombrable.
+
+== Notes et rfrences ==
+
+=== Notes ===
+ Par exemple, 3/41=0,0731707317... avec une priode de 5 chiffres.
+ Voir aussi Dmonstration de l'galit entre 0,9999... et 1.
+
+=== Rfrences ===
+ Jean Dhombres,  Rels (nombres) , Dictionnaire des mathmatiques, fondements, probabilits, applictions, Encylopdia Universalis et Albin Michel, Paris 1998.
+ Les lettres grasses tant difficiles  reproduire en criture manuscrite, la graphie  tend  se gnraliser avec un doublement de la barre verticale.
+ Georg Cantor, Les fondements de la thorie des ensembles, 1883.
+ J.-L. Prilli La dcouverte des incommensurables et le vertige de l'infini Transcription dune confrence qui a eu lieu le 16 mai 2001  Grenoble p. 18
+ K. Mainzer, Les nombres rels, dans Les nombres : Leur histoire, leur place et leur rle de l'Antiquit aux recherches actuelles (ed. Vuibert) 1998
+ (en) Continuity and Infinitesimals, de l'encyclopdie de philosophie Stanford, en ligne.
+ (de) G. Hamel,  Eine Basis aller Zahlen und die unstetigen Lsungen der Funktionalgleichung f(x+y)=f(x)+f(y) , Math. Ann., vol. 60, no 3, 1905, p. 459462
+ Martial Leroy, Diffrentes formes de l'axiome du choix, Application diverses
+ N. Bourbaki, lments de mathmatique, livre III : Topologie gnrale des ditions, p. IE-55, voir aussi Dimension d'un espace vectoriel#Dimension et cardinal
+
+=== Sources historiques ===
+ Notamment chez Prestet (en) et Malebranche, Nouveaux elemens des mathmatiques, T2, p. 352 en 1689, et peu aprs chez Thomas Fantet de Lagny, Nouveaux lments d'arithmetique et d'algebre, p. 121 en 1697 [1] mais il est dj employ par Ren Descartes dans la Gomtrie, 1637, p. 380.
+ Armand Maichin, La thologie payenne, 1657, p. 160-161.
+ Mray, Remarques sur la nature des quantits dfinies par la condition de servir les limites  des variables donnes, Revue des sciences savantes IV (1869)
+ Cantor, ber unendliche lineare Punktmannigfaltigkeiten, 5. Grundlagen einer allgemeinen Mannigfaltigkeitslehre. (?)
+ Dedekind, Stetigkeit und Irrationale Zahlen, Braunschweig 1872
+ Hilbert, Grundlagen der Geometrie, 1899
+
+== Voir aussi ==
+
+=== Articles connexes ===
+Axiomes de Tarski pour les rels (en)
+Construction des nombres rels
+Relation d'ordre
+Suite de Cauchy
+Espace complet
+
+=== Liens externes ===
+Histoire des nombres
+Chronomath
+Construction des nombres rels
+[PDF] Une histoire des mathmatiques
+J.J. O'Connor et E.F. Robertson, School of Mathematics and Statistics, University of St Andrews.
+(en) Histoire des nombres rels, premire partie: de Pythagore  Stevin ;
+(en) Histoire des nombres rels, seconde partie : de Stevin  Hilbert.
+(en) tude plus approfondie.
+
+(histoire des sciences) L'article de 1874 de Cantor sur la non-dnombrabilit des rels en ligne et comment sur le site BibNum.
+
+=== Bibliographie ===
+
+==== Histoire des mathmatiques ====
+Richard Mankiewicz, Christian Jeanmougin et Denis Guedj, Une histoire des mathmatiques, Seuil
+Denis Guedj, L'empire des nombres, Gallimard
+Jean Dhombres et al., Mathmatiques au fil des ges des ditions
+Nicolas Bourbaki, lments d'histoire des mathmatiques, Masson
+
+==== Livres historiques de mathmatiques ====
+Euclide, Les lments Vol 4 Livre XI  XIII, Puf
+Isaac Newton, prface de Voltaire et traduction d'milie du Chtelet, Principes mathmatiques de la philosophie naturelle, Dunod
+
+==== Rfrences sur les nombres rels et l'analyse lmentaire ====
+N. Bourbaki, lments de mathmatique, livre III : Topologie gnrale des ditions
+N. Bourbaki, lments de mathmatique, Livre IV - Fonctions d'une variable relle
+Roger Godement, Analyse mathmatique
+
+Portail de larithmtique et de la thorie des nombres

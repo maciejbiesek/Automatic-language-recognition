@@ -1,0 +1,34 @@
+Stopped-rotor combat aircraft are convertible fixed-wing / helicopter aircraft, proposed in the United States in the late 1990s.
+
+== Design ==
+The X-Wing WarFighter is a conceptual aircraft using a stopped rotor X-Wing platform in a unique class of hybrid helicopter / fixed-wing aircraft. For vertical take-off and landing (VTOL) they operate with a helicopter like rotary-wing platform, exhibiting similar low hover disc loading ideal for lifting heavy loads efficiently, including in high-hot altitude conditions. For high speed forward flight the rotary-wing blades are stopped, and begin serving as fixed-wing aerofoils. Since there no longer are high-speed high-drag advancing rotary-wing blades as with conventional helicopters, the aircraft can potentially fly efficiently at higher speeds, similar to conventional fixed-wing aircraft.
+Claimed but not experimentally verified improvements over other stopped rotor designs include: (1) Ability to snap between rotary-wing and fixed-wing flight modes, in both directions, in about 1/3 of a second by coupling the rotary-wing platform to a spinning flywheel (via rotational momentum transfer between flywheel and rotary-wing platform), virtually eliminating typical several second unsteady/unstable conversion time between flight modes of other designs, (2) flipping the airfoil 180 during conversion, such that conventional aerodynamically efficient airfoils (e.g. exhibiting blunt leading edge and sharp trailing edge) are utilized as opposed to using less efficient elliptical or other symmetrical like airfoils that have to fly in both directions, and (3) use of a convertible engine (a convertible engine is essentially a turboshaft engine driving a variable pitch ducted fan) by applying efficient direct drive shaft horsepower to the rotary-wing platform during VTOL mode while the ducted fan produces almost no forward thrust, and applying efficient horizontal thrust in fixed-wing flight mode where the ducted fan produces 100% of the thrust.
+
+== Design, Theory of Operation, and History ==
+The X-Wing WarFighter design concept was based on meeting early informal US Army Joint Multi-role Rotorcraft (JMR) performance desires for a VTOL aircraft with jet aircraft cruising speed. Higher cruising speed, with the ability to fly at high altitudes may translate to a larger combat radius, and greater payload capability. While at low flying levels higher cruising speed reduces exposure time to enemy ground and air attack. The X-Wing WarFighter design focused on achieving a 400 kt (460 mph, 741 km/hr ) sustained level cruise. This speed goal is greater than the Future Vertical Lift (FVL) program that succeeded JMR. FVL's maximum sustained speed requirement is 230 kt (260 mph, 430 km/hr), within reach of more technologically advanced single or coaxial slowed rotor with pusher propeller designs, tilt rotors, fan-in-wing designs, and possibly other novel designs, but not attainable by conventional helicopters.
+X-Wing WarFighter origins began with a 1990's granted US Patent that was later presented in a technical paper and published by the American Helicopter Society. At that time the larger conceptual Joint Strike Fighter (JSF) sized X-Wing aircraft with stealth features was designed and presented. More recently Orbital ATK (formally ATK) internally evaluated a scaled down version of the original JSF sized aircraft to fit within the needs of JMR aircraft. This concept was presented by Orbital ATK in open poster session at the DARPA BAA-13-19 Vertical Take-Off and Landing Experimental Aircraft (VTOL X-Plane) Proposers' Day held 14 March 2013.
+Other X-wing airfoil platforms were also evaluated for both JSF and X-Wing WarFighter sized aircraft including a two airfoil and a four airfoil bowtie platform where the airfoil swept angle is less than 45. The purpose was primarily to increase effective airfoil wing aspect ratio for more efficient fixed-wing flight. These platforms can either flip certain airfoils 180 during conversion (essentially changing airfoil angle of attack 180) or utilize fixed (non-flipping) elliptical airfoils. Please note airfoils shown in figures are arbitrarily generic and do not represent real airfoil cross-sections. X-Wing WarFighter exhibits a typical attack helicopter two occupant seating arrangement, a large multi-purpose bay for both weapons and fuel, and a high caliber radar/manually directed swiveling cannon.
+
+For VTOL operation the convertible engines turboshaft engine rotates the rotary-wing like blades via a direct drive shaft, using the same efficient mechanism as helicopters. While in VTOL mode the variable pitch ducted fan blades are set near neutral pitch, producing only the required thrust directed out the anti-torque thrust vector outlet (with the help of a moveable louver), to counter main rotor torque and provide yaw control. To snap between rotary-wing and fixed-wing flight, in either direction, a previously spun up graphite/epoxy flywheel is coupled, via a torque converter/friction brake to the rotary-wing platform. The flywheel rotates in the direction of spin up and the opposite direction for spin down with a significant added rpm margin. During transition to and sustainment of fixed-wing forward flight the convertible engine ducted fan blade angle of attack is adjusted to produce only forward horizontal thrust.
+Early in the design phase there was intuitive concern that rapid startup or stopping of the rotary-wing platform via coupling the flywheel to it would structurally damage the airfoils. To analytically quantify predicted startup and stopping stresses and strains a Finite Element Method (FEM) of analysis was applied. FEM summary results are shown for a single graphite fiber composite rotor blade subject to combined maximum g' pull up aerodynamic loads, aeroelastic twisting affects, and radial acceleration or de-acceleration loads generated by stopping or starting the blade from 365 to zero rpm in just 0.35 seconds. Hence why we use the term to "snap" between fixed and rotary-wing flight modes. Results showed structural safety factors approaching 10, being worst case at the blade root for a minimally optimized design.
+
+== Specifications (projected) ==
+Treat data as conceptual goals only. Extrapolation of previous JSF X-Wing design work.
+Data from Flywheel Rotor/Wing Makes Stopped Rotor Aircraft Practical
+General characteristics
+Length: 38 ft (12 m)
+Wingspan: 24 ft 3 in (7.4 m) rotor stopped
+Width: 4 ft 5 in (1.34 m) fuselage
+Height: 9 ft 10 in (3 m)
+Max takeoff weight: 21,000 lb (9,525 kg)
+Main rotor diameter:  34 ft 5 in (10.5 m)
+Performance
+Maximum speed: 400 kn (460 mph; 741 km/h)
+
+== References ==
+
+== External links ==
+Stopped rotor aircraft
+Sikorsky S-72 X-Wing
+Boeing X-50 Dragonfly
+Boeing/DARPA DiscRotor

@@ -1,0 +1,14 @@
+Un cryptosystme est un terme utilis en cryptographie pour dsigner un ensemble compos d'algorithmes cryptographiques et de tous les textes en clairs, textes chiffrs et cls possibles (dfinition de Bruce Schneier). Cette dnomination est toutefois confuse car trs souvent associe  la cryptographie asymtrique avec l'utilisation d'une cl prive et d'une cl publique pour les oprations de chiffrement et de dchiffrement. Le RFC 2828 dconseille fortement l'utilisation de ce terme pour remplacer  systme cryptographique  :
+
+$ cryptosystem
+     (D) ISDs SHOULD NOT use this term as an abbreviation for
+     cryptographic system. (For rationale, see: crypto.)
+
+== Quelques cryptosystmes ==
+L'exemple le plus connu de cryptosystme est RSA mais il en existe bien d'autres, parmi lesquels :
+le cryptosystme de ElGamal
+le cryptosystme de Rabin
+le cryptosystme de Merkle-Hellman
+le cryptosystme de Paillier
+les cryptosystmes  courbe elliptique
+ Portail de la cryptologie

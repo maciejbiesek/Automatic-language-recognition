@@ -1,0 +1,50 @@
+Gehaltsangaben  auch Gehaltsgren genannt  geben in Chemie und Physik den Gehalt eines Stoffes in einem Stoffgemisch an (DIN 1310), quantifizieren also einen materiellen Anteil eines Stoffes an einem Gemisch, beispielsweise einer Lsung. Sie werden gemacht in Bezug auf die Gren:
+Masse m,
+Volumen V oder
+Stoffmenge n (quivalent und fr geringste Konzentrationen blich: Teilchenzahl).
+Es existieren daher Angaben als:
+Anteile in Bezug auf die Summen der Einzelkomponenten  z. B. gelste Stoffe und Lsungsmittel (Massenanteil, Stoffmengenanteil, Volumenanteil)
+Konzentrationen in Bezug auf das Volumen der Mischung oder Lsung (Massenkonzentration, Stoffmengenkonzentration, Volumenkonzentration)
+Verhltnisse in Bezug z. B. auf das Lsungsmittel (Massenverhltnis, Stoffmengenverhltnis, Volumenverhltnis).
+Alle Gehaltsgren, die den Volumenbegriff enthalten, sind temperaturabhngig. Zu einer eindeutigen Angabe von Konzentrationen, Volumenanteilen und Volumenverhltnissen gehrt daher auch die Nennung der zugehrigen Temperatur.
+
+Diese Gehaltsangaben / Gehaltsgren werden fr eine Lsung (Lsg) vom Stoff (i bzw. j) im Lsemittel (LM) folgendermaen definiert:
+
+== Angabe des Anteils einer KomponenteBearbeiten ==
+Massenanteil: 
+Stoffmengenanteil: 
+Volumenanteil: 
+Die Angabe Masse% entspricht dem Massenanteil x100, die Angabe Volumen% der Volumenanteil x100. Diese Bezeichnungsweisen sind unsystematisch, aber noch nicht vllig ausgestorben; denn Prozent ist nichts Anderes als eine andere Schreibfigur fr die Zahl 0,01.
+Molenbruch ist eine andere, veraltete Bezeichnung fr den Stoffmengenanteil.
+Fr ideale Gase i gilt (i) = x(i).
+Neben Angaben in Prozent (1 %= 1:100 Teile) der Gesamtmasse oder des Gesamtvolumens von Gemischen existieren noch Angaben in Promille (1 : 1000), ppm (1 : 1 Million), ppb (1 : 1 Milliarde oder 1 Billion), ppt (1 : 1 Billion oder einer Trillion oder Tausend) und ppq (1 : 1 Billiarde oder 1 Quadrillion). Jedoch sind solche Bezeichnungen  auer Prozent und Promille  abhngig vom kulturellen Kontext sowohl des Autors als auch des Lesers, und daher nicht empfehlenswert (siehe parts per million). Sie sind leicht durch die Brche der Einheiten zu ersetzen (wie etwa g/kg), was gleichzeitig die Wahrscheinlichkeit fr eine fehlerhafte Angabe oder Interpretation der gemeinten Einheiten verringert. Eine vernnftige aber seltene Alternative ist die Verwendung von SI-Prfixen: %, p%, etc.
+V(Gemisch) und V(Lsung) knnen die Summen der Volumina der Einzelkomponenten vor oder nach dem Mischen oder Lsen meinen. Da es sich vor dem Mischen nicht um ein Gemisch handelt sollte so immer das Gemisch angegeben werden und ansonsten die Volumina der Komponenten. Ist das Volumen des Gemisches nicht gleich der Summe der Volumina V(i) + V(LM) vor dem Mischen, so tritt beim Mischen der Komponenten eine Volumenkontraktion oder eine Volumenausdehnung (Volumendilatation) ein. Bei einer Volumenkontraktion gilt also: V(i) + V(LM) > V(Lsung). Daher mssen Volumenanteil (i) (in Bezug auf die Summe der Einzelvolumina der Stoffe) und Volumenkonzentration (i) (in Bezug auf das Volumen der Lsung nach dem Lsen) voneinander unterschieden werden. Oft ist die Angabe des Volumenanteils daher unzweckmig, besser ist stattdessen, die Volumenkonzentration anzugeben.
+
+== Angabe der Konzentration einer KomponenteBearbeiten ==
+Massenkonzentration: 
+Stoffmengenkonzentration: 
+Volumenkonzentration: 
+(Vgl. Anmerkung zum Volumenanteil oben)
+Molalitt: 
+(Neben diesem Begriff existiert in der Chemie noch die veraltete Gehaltsangabe Normalitt. Hier hat man die Stoffmengenkonzentration c = n/V (veraltet: Molaritt) mit der chemischen stchiometrischen Wertigkeit z des reagierenden Stoffes multipliziert. Eine Schwefelsure mit c = 0,5 mol/L hat daher z. B. die Normalitt 1,0. In DIN-normgerechter Darstellung bedeutet dies Folgendes: Legt man bei der Verwendung des Mol Schwefelsure-Teilchen H2SO4 zu Grunde, ist c = 0,5 mol/L, legt man stattdessen quivalent-Teilchen 1/2 (H2SO4) zu Grunde, weil im Falle der betrachteten chemischen Reaktion die stchiometrische Wertigkeit der Schwefelsure z = 2 betrgt, ist c = 1 mol/L; in veralteter Sprechweise: eine 0,5-molare wsserige Schwefelsurelsung ist 1-normal, sofern die Schwefelsure 2-wertig benutzt wird.)
+
+== Angabe des Verhltnisses zweier KomponentenBearbeiten ==
+Massenverhltnis: 
+Stoffmengenverhltnis: 
+Volumenverhltnis:.
+
+== UmrechnungBearbeiten ==
+Zur Umrechnung der Gehaltsangaben bentigt man insbesondere folgende Gren:
+M = m / n (Molare Masse = Masse / Stoffmenge)
+ = m / V (Dichte = Masse / Volumen)
+Vm = V / n (Molares Volumen = Volumen / Stoffmenge).
+
+== Siehe auchBearbeiten ==
+Stoffreinheit
+Titer
+
+== WeblinksBearbeiten ==
+Klaus-Peter Rue (Institut fr Analytische Chemie, Uni Regensburg, Oktober 2006): Stchiometrisches Rechnen mit Grengleichungen, Seite 34 ff. von 112 (PDF-Datei; 5,8 MB)
+
+== EinzelnachweiseBearbeiten ==
+ DIN 1310:1984-02  Zusammensetzung von Mischphasen (Gasgemische, Lsungen, Mischkristalle); Begriffe, Formelzeichen

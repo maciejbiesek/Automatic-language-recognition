@@ -1,0 +1,71 @@
+DX-Cluster (engl. DX etwa receiving distant radio Funkempfang ber lange Distanz und Cluster Haufen, Gruppe, Traube: Gruppenbilder um Funkaussendungen ber lange Distanz zu empfangen) sind weltweit vernetzte, von Funkamateuren betriebene Server, die Meldungen (sogenannte DX-Spots) sammeln und an alle verbundenen Teilnehmer weiterleiten. Diese Meldungen beinhalten:
+welcher Funkamateur
+zu welcher Zeit
+welches Funkrufzeichen
+auf welcher Frequenz
+gehrt hat. Zustzlich ist ein Kommentar z. B. ber die Empfangsqualitt mglich.
+
+== Zweck ==
+Die verbundenen Teilnehmer sind in der Regel aktive Funkamateure oder Kurzwellenhrer, die sich zeitnah ber die Aktivitten auf den Amateurfunkbndern informieren mchten, und die selbst auch gelegentlich Meldungen senden. Empfngt ein DX-Cluster eine neue Meldung, so wird diese sofort an alle verbundenen Teilnehmer und an alle DX-Cluster geschickt, die wiederum an deren verbundene Teilnehmer weiterleiten.
+DX-Cluster sind ber Internet und/oder ber das von Funkamateuren aufgebaute und betriebene Packet-Radio-Netz oder Hamnet verbunden. Die einzelnen Teilnehmer sind mit ihrem Computer mittels Telnet und ggf. einer graphischen Benutzeroberflche (DX-Cluster Software) an einen DX-Cluster ihrer Wahl angebunden.
+In DX-Clustern melden Funkamateure, wenn sie auf einem der verschiedenen Bnder eine seltene oder besonders interessante Station gehrt oder auch eine Funkverbindung mit ihr haben. Die Analyse von mehreren DX-Cluster Meldungen kann auch als Indikator fr Ausbreitungsbedingungen und deren nderung, z.B. Bandffnungen verwendet werden.
+Die DX-Cluster ermglichen auch den Zugriff auf laufend aktualisierte Informationen und externe Datenbanken, z.B. Adressverzeichnisse. Es ist auch mglich, mit anderen Teilnehmern Nachrichten auszutauschen oder Textnachrichten an alle Teilnehmer des eigenen Clusters oder weltweit zu verschicken.
+
+== DX-Cluster Daten ==
+So sehen beispielsweise DX-Cluster-Daten aus, wenn sie ein Funkamateur in Echtzeit von einem DX-Cluster empfngt:
+
+N4BAA      3503.0 VP5/K4SV                                  0028 07 Aug
+ND3F       3503.1 VP5/K4SV                                  0026 07 Aug
+N4BAA      3505.0 C91CW       Tnx! Up 2.2                   0026 07 Aug
+W2QN-@     3793.0 OK2BJJ      cq                            0025 07 Aug
+UY5ZZ-@    3505.0 C91CW       up 2 tnx QSO                  0024 07 Aug
+DL3KVC-@   3649.0 5B4AGL      CQ CQ CQ                      0024 07 Aug
+UA9CGL     3505.0 C91CW       QSX 3507.01 up2               0017 07 Aug
+MM0NDX     3799.0 LU6QI       clg you                       0016 07 Aug
+W1IBQ      3505.0 C91CW       weak but workable in GA       0015 07 Aug
+W5VU       3505.0 C91CW       QSX 3507.00 good sig MA       0001 07 Aug
+NO2R       3505.0 C91CW       up 2                          2357 06 Aug
+N2MF-@     3505.0 C91CW       Cpy in NE USA, Lsn up 2       2356 06 Aug
+PA3EWP     3796.0 9G5OO                                     2343 06 Aug
+DL7ON      3505.0 C91CW                                     2340 06 Aug
+SP4AWE-@   3505.0 C91CW       up2                           2335 06 Aug
+UR4LRG-@   3505.0 C91CW       yess! weak sig                2334 06 Aug
+VK6HD      3502.1 DL1EL       tnx qso ralf                  2326 06 Aug
+DL1EL      3502.1 VK6HD                                     2325 06 Aug
+9G5CR      3796.0 9G5OO                                     2318 06 Aug
+IZ7EDQ     3725.0 IZ7AUH      test                          2310 06 Aug
+
+In der ersten Spalte steht das Amateurfunkrufzeichen des meldenden Funkamateurs. Die zweite Spalte enthlt die Frequenz, auf der die seltene Station gehrt wurde. Danach folgen in der dritten Spalte das Rufzeichen der seltenen Station und danach weitere Bemerkungen zur DX-Station oder zur Funkverbindung. Am Ende einer Zeile wird Uhrzeit und Datum vermerkt, an dem der Funkamateur die Verbindung gemeldet hat. Die Uhrzeit wird dabei in UTC angegeben.
+
+== Kritik ==
+Die ersten DX-Cluster waren nur auf lokaler Ebene per Packet Radio miteinander verbunden, ein DX-Spot fand somit nur auf wenigen benachbarten DX-Clustern Verbreitung, der User-Zugang war ebenfalls ausschlielich per Packet Radio mglich. Durch die Verknpfung aller DX-Cluster weltweit ber das Internet und die Bereitstellung unzhliger anonymer Zugnge ber Telnet hat das Verhltnis von brauchbaren zu unbrauchbaren Spots im DX-Cluster, nach Meinung einiger Funkamateure, in den letzten Jahren stark abgenommen. Die meisten DX-Cluster-Programme besitzen aber heute Filterfunktionen, die es dem Benutzer ermglichen, dass nur ihn interessierende Meldungen angezeigt werden.
+Fr die Kurzwellen-Amateurfunkbnder werden ber die anonymen Telnet-Zugnge, besonders in Amateurfunk-Wettbewerben, eine Unzahl von geflschten Spots, meist unter geflschtem Absenderrufzeichen fr das eigene Rufzeichen gesendet (sog. selfspotting).. Ein weiterer Kritikpunkt besteht darin, dass durch die zunehmende Verbreitung des DX-Clusters viele Funkamateure sich nicht mehr die Mhe machen, selbst nach Funksignalen zu suchen, sondern sich nur noch auf das DX-Cluster verlassen und warten, bis dort eine begehrte Station gemeldet wird.
+Ein weiterer Kritikpunkt ist, dass die Meldung besonders seltener Funkstationen im DX-Cluster oft zu einem gewaltigen Ansturm von Anrufern auf der gemeldeten Frequenz fhrt, der nicht selten im totalen Chaos endet. Hierbei haben dann nur noch die am besten ausgersteten Funkamateure eine realistische Chance auf eine Funkverbindung mit der seltenen Station.
+
+== Nutzung der DX-Cluster fr den UKW-Bereich ==
+DX-Spots im VHF-, UHF- und Mikrowellenbereich sind fast durchweg wertvolle Informationen, die das Studium der Ausbreitungsbedingungen erlauben. Es gibt eine Reihe von Postprozessoren, z. B. DX Robot im Internet und LiveMUF als lokaler Client beim Nutzer, die auf Basis der Cluster-Informationen Darstellungen der nutzbaren Verbindungswege bei berreichweite, insbesondere den selten auftretenden Sporadic-E-berreichweiten, erlauben oder automatisch per E-Mail und SMS registrierte Nutzer darber informieren.
+Neben den DX-Clustern hat der von dem belgischen Funkamateur Alain Stievenart, ON4KST, betriebene Chatroom eine groe Bedeutung fr Ausbreitungsversuche speziell in den Mikrowellenbereichen, wo wegen der sehr schmalen ffnungswinkel der Hochgewinnantennen viele Funkverbindungen vorher vereinbart werden.
+
+== Deutsche DX-Cluster Karte ==
+
+bersicht der Verbindungen zwischen DX-Clustern in Deutschland
+
+== Weblinks ==
+CLX DX-Cluster Software
+DX-Cluster-Statistik der Universitt Halle
+Telnet DX-Cluster Verbindungen
+DX Cluster Analysis
+DX Cluster-Site von OH8X
+Web DX Cluster
+DXSpider DX-Cluster Software
+Filtert VHF-Spots nach Ausbreitungsart und erzeugt Warnungen
+LiveMUF von G7RAU
+Chatroom fr spezielle DX-Verbindungen von ON4KST
+VHF-DX-Portal Make More Miles on VHF Support und DX-Logs
+bersichtliche Darstellung nach Lndern
+Webcluster mit Fokus auf Kurzwelle und Trennung nach Betriebsart
+Clustersoftware mit Filtermglichkeiten in allen Bndern
+Webcluster mobile von F5UKW
+
+== Einzelnachweise ==
+ Vorlage:Internetquelle/Wartung/Zugriffsdatum nicht im ISO-FormatBericht von K1TTT ber verdchtige DX-Spots im ARRL SSB Contest 2006. Abgerufen am 8. Oktober 2009 (englisch).

@@ -1,0 +1,16 @@
+Valley-Entartung ist ein Begriff der Festkrperphysik, der die Entartung durch das mehrfache Auftreten eines Energieminimums in verschiedenen Kristallrichtungen beschreibt. Er wird hufig mit  bezeichnet. In der Quantenmechanik kann dies als Pseudo-Spin beschrieben werden und wird in der Dirac-Gleichung durch die Pauli-Matrizen bercksichtigt.
+Ein im reziproken Raum nur einfach auftretendes energetisches Minimum kann im realen Raum durchaus mehrfach auftreten. Eine graphische Veranschaulichung kann gewonnen werden, indem man die Flchen konstanter Energie (analog zur Fermiflche) nahe dem Energieminimum in einem Diagramm eintrgt. Durch Zhlen der entstehenden Minima bzw. Senken (Valleys) erhlt man den Wert fr . Effektiv fhrt er zu einer Entartung der Bandstruktur.
+
+== Beispiele ==
+Die Flche konstanter Energie fr Galliumarsenid ist eine Kugel im Zentrum, also .
+In Silizium liegt das Energieminimum in - also -Richtung. Da es diese Richtung in Silizium sechsmal {, Millersche Indizes} vorkommt, ergibt sich ein Entartungsfaktor von .
+Bei Germanium treten die Energieminima in der - also -Richtung insgesamt achtmal auf. Da jede dieser Minima jedoch nur zur Hlfte in der ersten Brillouinzone liegt knnen durch Verschieben um reziproke Gittervektoren vier Ellipsoide erzeugt werden, es ergibt sich also .
+Graphen hat eine sogenannte Zwei-Valley-Struktur, also .
+
+== Literatur ==
+S.M. Sze: Physics of Semiconductor Devices. Second Edition, Wiley-Interscience
+
+== Einzelnachweise ==
+ S.M. Sze: Physics of Semiconductor Devices. Second Edition Wiley-Interscience, p. 14.
+ Englischer Wikipedia-Artikel zu Graphen
+ Deutscher Wikipedia-Artikel zu Graphen
